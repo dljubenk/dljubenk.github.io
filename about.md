@@ -27,8 +27,8 @@ layout: page
 	<li><a href="https://je.epfl.ch/">Statistical Analysis</a></li>
 	<li><a href="https://www.tuecontest.nl/">LABELEDBY.</a></li>
 	<li><a href="https://indico.cern.ch/event/377001/registrations/participants">Scientific Visualization</a></li>
-	<li>Process Mining</a></li>
+	<li>Process Mining</li>
 	<li><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf">Ericsson Android Development</a></li>
-	<li>Ericsson Data Science</a></li>
+	<li>Ericsson Data Science</li>
 </ul>
 
