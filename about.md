@@ -32,8 +32,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://je.epfl.ch/">Statistical Analysis</a></li>
 	<li><a href="https://www.tuecontest.nl/">LABELEDBY.</a></li>
 	<li><a href="https://indico.cern.ch/event/377001/registrations/participants">Scientific Visualization</a></li>
-	<li><a href="">Process Mining</a></li>
+	<li>Process Mining</a></li>
 	<li><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf">Ericsson Android Development</a></li>
-	<li><a href="">Ericsson Data Science</a></li>
+	<li>Ericsson Data Science</a></li>
 </ul>
 
