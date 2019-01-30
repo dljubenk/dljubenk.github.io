@@ -31,7 +31,7 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ---
 
-![Markdown Image|512x397][8]{:height="36px" width="36px"}
+![Markdown Image|512x397,20%][8]
 
 ---
 
