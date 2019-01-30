@@ -31,30 +31,32 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ---
 
-## Headings
+## Background
+---
 
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
-
-# Headings can be small
-
-## Headings can be small
-
-### Headings can be small
-
-#### Headings can be small
-
-{% highlight raw %}
-# Heading
-## Heading
-### Heading
-#### Heading
-{% endhighlight %}
+## Problem Statement
 
 ---
 
-## Lists
+## Problem
 
-### Ordered list
+---
+
+## Purpose
+
+---
+
+## Goal
+
+---
+
+## Tasks
+
+---
+
+## Methods
+
+---
 
 1. Item 1
 2. A second item
