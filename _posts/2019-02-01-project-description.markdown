@@ -31,13 +31,7 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ---
 
-![SCL](assets/images/lab.jpg)
-
-![](lab.jpg)
-![](./lab.jpg)
-
-Relative to current project directory path
-![](/lab.jpg)
+![Markdown Image](8)
 
 ---
 
@@ -220,5 +214,5 @@ $(window).scroll(function() {
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
 [6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
-[7]: image
+
 [8]: /assets/images/lab.jpg
