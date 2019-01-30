@@ -30,9 +30,9 @@ Thesis will be conducted at **Massachusetts Institute of Technology**, SENSEable
 Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti), and project responsibles are [Fábio Duarte](https://tedxbeaconstreet.com/speakers/fabio-duarte/) and [Paolo Santi](http://webhost.services.iit.cnr.it/staff/paolo.santi/).
 
 ---
-
+<p align="center">
 ![Markdown Image][8]
-
+</p>
 ---
 
 ## Background
