@@ -31,7 +31,7 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ---
 
-picture: assets/images/lab.jpg
+![SCL](scl.jpg)
 
 ---
 
