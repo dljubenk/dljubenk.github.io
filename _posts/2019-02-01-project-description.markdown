@@ -4,7 +4,6 @@ layout: post
 date: 2019-02-01 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
-tag:
 star: true
 category: blog
 author: Davor Ljubenkov
