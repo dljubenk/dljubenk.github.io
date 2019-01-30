@@ -138,10 +138,10 @@ It's sometimes handy for breaking things up.
 Markdown can also contain images. I'll need to add something here sometime.
 
 {% highlight raw %}
-![Markdowm Image][/image/url]
+![Markdown Image][/image/url]
 {% endhighlight %}
 
-![Markdown Image][6]
+![Markdown Image][8]
 
 *Figure Caption*?
 
