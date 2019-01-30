@@ -129,11 +129,7 @@ It's sometimes handy for breaking things up.
 
 ## Images
 
-Markdown can also contain images. I'll need to add something here sometime.
 
-{% highlight raw %}
-![Markdown Image][/image/url]
-{% endhighlight %}
 
 ![Markdown Image][8]
 
