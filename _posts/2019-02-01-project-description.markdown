@@ -8,6 +8,11 @@ tag:
 - MIT
 - SCL
 - bike sharing
+- digital city
+- graph mining
+- machine learning
+- data visualization
+- data science
 star: true
 category: blog
 author: Davor Ljubenkov
@@ -21,14 +26,8 @@ description: Markdown summary with different options
 * Graph processing and information network analysis
 * Machine learning
 
-
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
-
-And that's how to do it.
-
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
+Thesis will be conducted at **Massachusetts Institute of Technology**, SENSEable City Lab.
+Director of the Lab is Carlo Ratti, and project responsibles are Fábio Duarte and Paolo Santi.
 
 ---
 
