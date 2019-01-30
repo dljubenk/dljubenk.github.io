@@ -33,6 +33,12 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ![SCL](assets/images/lab.jpg)
 
+![](lab.jpg)
+![](./lab.jpg)
+
+Relative to current project directory path
+![](/lab.jpg)
+
 ---
 
 ## Background
