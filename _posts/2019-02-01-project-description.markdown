@@ -31,7 +31,7 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ---
 
-![SCL](https://dljubenk.github.com/assets/imges/lab.jpg)
+![SCL](https://github.com/dljubenk/dljubenk.github.io/tree/master/assets/images/lab.jpg)
 
 ---
 
