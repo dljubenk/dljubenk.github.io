@@ -16,6 +16,12 @@ description: Markdown summary with different options
 
 ## Proposal
 
+**Data visualization** methods in the domain of digital cities using:
+* Data mining
+* Graph processing and information network analysis
+* Machine learning
+
+
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
 
 And that's how to do it.
