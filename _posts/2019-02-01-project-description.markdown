@@ -2,7 +2,7 @@
 title: "Project Description"
 layout: post
 date: 2019-02-01 22:44
-image: /assets/images/markdown.jpg
+image: /assets/images/lab.jpg
 headerImage: false
 tag:
 - MIT
