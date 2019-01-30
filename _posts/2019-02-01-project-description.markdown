@@ -141,7 +141,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 ![Markdowm Image][/image/url]
 {% endhighlight %}
 
-![Markdowm Image][7]
+![Markdown Image][6]
 
 *Figure Caption*?
 
@@ -150,7 +150,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 <figcaption class="caption">Photo by John Doe</figcaption>
 {% endhighlight %}
 
-![Markdowm Image][6]
+![Markdowm Image][5]
 <figcaption class="caption">Photo by John Doe</figcaption>
 
 *Bigger Images*?
@@ -159,7 +159,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 ![Markdowm Image][/image/url]{: class="bigger-image" }
 {% endhighlight %}
 
-![Markdowm Image][6]{: class="bigger-image" }
+![Markdowm Image][3]{: class="bigger-image" }
 
 ---
 
@@ -220,4 +220,5 @@ $(window).scroll(function() {
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
 [6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
-
+[7]: image
+[8]: /assets/images/lab.jpg
