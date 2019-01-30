@@ -135,7 +135,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 ![Markdowm Image][/image/url]
 {% endhighlight %}
 
-![Markdowm Image][6]
+![Markdowm Image][7]
 
 *Figure Caption*?
 
