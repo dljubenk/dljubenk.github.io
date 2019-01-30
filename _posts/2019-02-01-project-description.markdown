@@ -215,4 +215,4 @@ $(window).scroll(function() {
 [5]: http://daringfireball.net/projects/markdown/syntax
 [6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
 
-[8]: /assets/images/lab.jpg " width="200" height="200"
+[8]: /assets/images/lab.jpg 
