@@ -31,7 +31,7 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ---
 
-![Markdowm Image][6]{: class="bigger-image" }
+![Markdowm Image][lab.jpg]{: class="bigger-image" }
 
 ---
 
@@ -153,7 +153,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 ![Markdowm Image][/image/url]{: class="bigger-image" }
 {% endhighlight %}
 
-![Markdowm Image][lab.jpg]{: class="bigger-image" }
+![Markdowm Image][6]{: class="bigger-image" }
 
 ---
 
