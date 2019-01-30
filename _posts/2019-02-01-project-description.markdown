@@ -31,7 +31,7 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ---
 
-![Markdown Image][8]
+![Markdown Image][8 =100x20]
 
 ---
 
@@ -215,4 +215,4 @@ $(window).scroll(function() {
 [5]: http://daringfireball.net/projects/markdown/syntax
 [6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
 
-[8]: /assets/images/lab.jpg =100x20
+[8]: /assets/images/lab.jpg
