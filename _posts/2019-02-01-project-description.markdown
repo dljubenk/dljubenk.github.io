@@ -59,6 +59,8 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ## Methods
 
+The code will be provided in the form of a Jupyter notebook. Jupyter is a python module, and is available either preinstalled as an Anaconda module, or can be installed manually with pip. In the case of manual installation, the user will also need to install the modules pandas, numpy, and scipy. The files, having an extension ".ipynb", can be run either directly from Jupyter's GUI, or run from the commandline inside the unzipped folder. Running the second command on a windows machine may require adding the Python scripts directory to the PATH variable, located in the subdirectory "Scripts" under the Python installation directory.
+
 ---
 
 ###### This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
