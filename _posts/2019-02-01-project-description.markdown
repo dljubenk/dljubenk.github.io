@@ -30,7 +30,7 @@ Thesis will be conducted at **Massachusetts Institute of Technology**, SENSEable
 Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti), and project responsibles are [Fábio Duarte](https://tedxbeaconstreet.com/speakers/fabio-duarte/) and [Paolo Santi](http://webhost.services.iit.cnr.it/staff/paolo.santi/).
 
 ---
-![Markdown Image][8]
+![Markdown Image][1]
 
 ---
 
@@ -61,49 +61,7 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ---
 
-## URLs
-
-URLs can be made in a handful of ways:
-
-* A named link to [Mark It Down][3].
-* Another named link to [Mark It Down](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
-
-## Images
-
-
-
-![Markdown Image][8]
-
-*Figure Caption*?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-<figcaption class="caption">Photo by John Doe</figcaption>
-{% endhighlight %}
-
-![Markdowm Image][5]
-<figcaption class="caption">Photo by John Doe</figcaption>
-
-*Bigger Images*?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]{: class="bigger-image" }
-{% endhighlight %}
-
-![Markdowm Image][3]{: class="bigger-image" }
-
----
-
 ##### This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
 
-
-[1]: http://daringfireball.net/projects/markdown/
-[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: http://www.markitdown.net/
-[4]: http://daringfireball.net/projects/markdown/basics
-[5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
-
-[8]: /assets/images/lab.jpg 
+[1]: /assets/images/lab.jpg 
