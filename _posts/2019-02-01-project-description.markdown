@@ -62,6 +62,6 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 ---
 
 ###### This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
-[MIT](https://mit-license.org/) License © Davor Ljubenkov
+[MIT](https://mit-license.org/)© Davor Ljubenkov
 
 [1]: /assets/images/lab.jpg 
