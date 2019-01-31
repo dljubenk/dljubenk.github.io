@@ -30,12 +30,18 @@ Thesis will be conducted at **Massachusetts Institute of Technology**, SENSEable
 Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti), and project responsibles are [Fábio Duarte](https://tedxbeaconstreet.com/speakers/fabio-duarte/) and [Paolo Santi](http://webhost.services.iit.cnr.it/staff/paolo.santi/).
 
 ---
+
 ![Markdown Image][8]
 
+<p align="center">
+  <img width="460" height="300" src=/assets/images/lab.jpg>
+</p>
 ---
 
 ## Background
 ---
+
+> Applying Data Science methods to improve the quality of life in contemporary cities, with a particular on Bike Sharing Systems.
 
 ## Problem Statement
 
@@ -58,44 +64,6 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 ---
 
 ## Methods
-
----
-
-1. Item 1
-2. A second item
-3. Number 3
-
-{% highlight raw %}
-1. Item 1
-2. A second item
-3. Number 3
-{% endhighlight %}
-
-### Unordered list
-
-* An item
-* Another item
-* Yet another item
-* And there's more...
-
-{% highlight raw %}
-* An item
-* Another item
-* Yet another item
-* And there's more...
-{% endhighlight %}
-
----
-
-## Paragraph modifiers
-
-### Quote
-
-> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
-
-{% highlight raw %}
-> Here is a quote. What this is should be self explanatory.
-{% endhighlight raw %}
 
 ---
 
