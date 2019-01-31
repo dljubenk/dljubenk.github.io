@@ -95,9 +95,8 @@ URLs can be made in a handful of ways:
 
 ---
 
-{% highlight license %}
 ##### This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
-{% endhighlight %}
+
 
 
 [1]: http://daringfireball.net/projects/markdown/
