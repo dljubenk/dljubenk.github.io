@@ -69,25 +69,6 @@ URLs can be made in a handful of ways:
 * Another named link to [Mark It Down](http://markitdown.net/)
 * Sometimes you just want a URL like <http://markitdown.net/>.
 
-{% highlight raw %}
-* A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](http://markitdown.net/)
-* Sometimes you just want a URL like <http://markitdown.net/>.
-{% endhighlight %}
-
----
-
-## Horizontal rule
-
-A horizontal rule is a line that goes across the middle of the page.
-It's sometimes handy for breaking things up.
-
-{% highlight raw %}
----
-{% endhighlight %}
-
----
-
 ## Images
 
 
