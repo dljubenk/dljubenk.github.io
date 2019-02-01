@@ -40,7 +40,7 @@ This study will apply data science methods in order to improve the quality of li
 
 > Bicycle sharing system or bike-share scheme, is a service in which bicycles are made available for shared use to individuals on a short term basis for a price or free. The user borrows and returns the bike by placing it in a "dock". If the service doesn't you dock, then it is referred to as "dockless". [wikipedia](https://en.wikipedia.org/wiki/Bicycle-sharing_system "Bicycle-sharing system")
 
-In this study, the focus will be on dock bike sharing systems as this data is easily available, and mostly public for research purposes.
+In this study, the focus will be on dock bike sharing systems as datasets from this subcategory of bike sharing systems are easily obtained, and mostly publicly available for research purposes - compared to dockless scheme type.
 
 ## Problem Statement
 
