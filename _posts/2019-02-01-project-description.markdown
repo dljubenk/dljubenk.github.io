@@ -35,6 +35,8 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 ---
 
 ## Background
+
+This study will apply data science methods in order to improve the quality of life in contemporary cities, by ***investigating Bike Sharing Systems***.
 > Applying Data Science methods to improve the quality of life in contemporary cities, with a particular on Bike Sharing Systems.
 
 ## Problem Statement
