@@ -10,7 +10,7 @@ layout: page
 
 <h2>Academic background</h2>
 
-:eu: :us:
+:EU: :US:
 
 <ul class="skill-list">
 	<li>Split, Croatia - FESB - computer science undergradute</li>
