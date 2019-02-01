@@ -13,7 +13,7 @@ layout: page
 
 
 <ul class="skill-list">
-	<li>Split, Croatia - <b>FESB</b> - computer science undergradute</li>
+	<li>Split, Croatia - <h3>FESB</h3> - computer science undergradute</li>
 	<li>Lausanne, Switzerland - <b>EPFL</b> - undergraduate thesis project</li>
 	<li>Eindhoven, Netherlands - <b>TU/e</b> - data science graduate :nl:</li>
 	<li>Stockholm, Sweden - <b>KTH</b> - data science graduate</li>
