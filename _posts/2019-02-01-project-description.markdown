@@ -56,6 +56,8 @@ Datasets taken into consideration were collected from bike sharying systems corr
 
 **UK**: London
 
+![Markdown Image][2]
+
 ## Problem Statement
 
 ---
@@ -85,4 +87,5 @@ The code will be provided in the form of a Jupyter notebook. Jupyter is a python
 ###### This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 [MIT](https://mit-license.org/) © Davor Ljubenkov
 
-[1]: /assets/images/lab.jpg 
+[1]: /assets/images/lab.jpg
+[2]: /assets/images/map.png
