@@ -15,7 +15,7 @@ layout: page
 	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project</li>
 	<li>Eindhoven, Netherlands - TU/e - data science graduate</li>
 	<li>Stockholm, Sweden - KTH - data science graduate</li>
-	<li>TU/e + KTH - minor in innovation & entrepreneurship</li>
+	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
 	<li>Massachusetts, USA - MIT - graduate thesis project</li>
 </ul>
 
