@@ -38,7 +38,7 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 This study will apply data science methods in order to improve the quality of life in contemporary cities, by investigating ***Bike Sharing Systems***.
 
-> Bicycle sharing system or bike-share scheme, is a service in which bicycles are made available for shared use to individuals on a short term basis for a price or free. The user borrows and returns the bike by placing it in a "dock". If the service doesn't you dock, then it is referred to as "dockless". (SOURCE: wikipedia)
+> Bicycle sharing system or bike-share scheme, is a service in which bicycles are made available for shared use to individuals on a short term basis for a price or free. The user borrows and returns the bike by placing it in a "dock". If the service doesn't you dock, then it is referred to as "dockless". [wikipedia](https://en.wikipedia.org/wiki/Bicycle-sharing_system "Bicycle-sharing system")
 
 In this study, the focus will be on dock bike sharing systems as this data is easily available, and mostly public for research purposes.
 
