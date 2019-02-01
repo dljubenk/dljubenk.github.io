@@ -42,6 +42,20 @@ This study will apply data science methods in order to improve the quality of li
 
 In this study, the focus will be on dock bike sharing systems as datasets from this subcategory of bike sharing systems are easily obtained, and mostly publicly available for research purposes - compared to dockless scheme type.
 
+Datasets taken into consideration were collected from bike sharying systems corresponding to different cities and urban areas in United States of America, Canada, Mexico, Brasil, Spain, and UK. 
+
+United states includes: Atlanta (Georgia), joint area of Boston-Cambridge-Somerville-Brookline (Massachusetts), Chattanooga (Tennessee), Chicago (Illinois), Columbus (Ohio), Los Angeles and San Francisco (California), Minneapolis (Minnesota), New York (New York), Philadelphia (Pennsylvania), Washington D.C. 
+
+Canada includes: Montreal, Toronto, Vancouver.
+
+Mexico includes: Guadalajara, Mexico City.
+
+Brasil includes: Porto Alegre, Recife, Rio de Janeiro, Salvador, Sao Paulo.
+
+Spain includes Madrid.
+
+UK includes London.
+
 ## Problem Statement
 
 ---
