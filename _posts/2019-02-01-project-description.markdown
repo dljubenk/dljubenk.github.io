@@ -26,7 +26,7 @@ description: Markdown summary with different options
 * Graph processing and information network analysis
 * Machine learning
 
-Thesis will be conducted at **Massachusetts Institute of Technology**, SENSEable City Lab.
+Thesis will be conducted at ***Massachusetts Institute of Technology***, SENSEable City Lab.
 Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti), and project responsibles are [Fábio Duarte](https://tedxbeaconstreet.com/speakers/fabio-duarte/) and [Paolo Santi](http://webhost.services.iit.cnr.it/staff/paolo.santi/).
 
 ---
@@ -36,7 +36,7 @@ Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti),
 
 ## Background
 
-This study will apply data science methods in order to improve the quality of life in contemporary cities, by ***investigating Bike Sharing Systems***.
+This study will apply data science methods in order to improve the quality of life in contemporary cities, by investigating ***Bike Sharing Systems***.
 > Applying Data Science methods to improve the quality of life in contemporary cities, with a particular on Bike Sharing Systems.
 
 ## Problem Statement
