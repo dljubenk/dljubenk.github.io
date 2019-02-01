@@ -14,11 +14,11 @@ layout: page
 
 <ul class="skill-list">
 	<li>Split, Croatia - <b>FESB</b> - computer science undergradute</li>
-	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project</li>
-	<li>Eindhoven, Netherlands - TU/e - data science graduate :nl:</li>
-	<li>Stockholm, Sweden - KTH - data science graduate</li>
-	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
-	<li>Massachusetts, USA - MIT - graduate thesis project</li>
+	<li>Lausanne, Switzerland - <b>EPFL</b> - undergraduate thesis project</li>
+	<li>Eindhoven, Netherlands - <b>TU/e</b> - data science graduate :nl:</li>
+	<li>Stockholm, Sweden - <b>KTH</b> - data science graduate</li>
+	<li><b>EIT</b> Digital Master School - minor in innovation & entrepreneurship</li>
+	<li>Massachusetts, USA - <b>MIT</b> - graduate thesis project</li>
 </ul>
 
 <h2>Projects</h2>
