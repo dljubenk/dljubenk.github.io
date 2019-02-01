@@ -78,6 +78,8 @@ Investigate what is the usage of available data and what can we learn from it, o
 
 ## Tasks
 
+Research study of the previous work to try and identify common problems, while extracting an unique knowledge gap this thesis will cover in detail.
+
 ---
 
 ## Methods
