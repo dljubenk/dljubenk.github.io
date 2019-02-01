@@ -10,13 +10,15 @@ layout: page
 
 <h2>Academic background</h2>
 
+:eu: :us:
+
 <ul class="skill-list">
-	<li>Split, Croatia - FESB - computer science undergradute :hr:</li>
-	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project :ch:</li>
+	<li>Split, Croatia - FESB - computer science undergradute</li>
+	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project</li>
 	<li>Eindhoven, Netherlands - TU/e - data science graduate :nl:</li>
-	<li>Stockholm, Sweden - KTH - data science graduate :swe:</li>
-	<li>EIT Digital Master School - minor in innovation & entrepreneurship :eu:</li>
-	<li>Massachusetts, USA - MIT - graduate thesis project :us:</li>
+	<li>Stockholm, Sweden - KTH - data science graduate</li>
+	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
+	<li>Massachusetts, USA - MIT - graduate thesis project</li>
 </ul>
 
 <h2>Projects</h2>
