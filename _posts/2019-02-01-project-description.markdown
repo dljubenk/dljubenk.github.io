@@ -88,7 +88,7 @@ The code will be provided in the form of a Jupyter notebook. Jupyter is a python
 
 Interesting Python libraries to be used:
 * **Folium** - displays spatial data on interactive leaflet maps (e.g. implementing heat maps)
-* **GeoPandas** - works with geospatial data and coordinate systems
+* **GeoPandas** - works with geospatial data and coordinate system
 
 
 
