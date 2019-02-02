@@ -42,7 +42,7 @@ This study will apply data science methods in order to improve the quality of li
 
 In this study, the focus will be on dock bike sharing systems as datasets from this subcategory of bike sharing systems are easily obtained, and mostly publicly available for research purposes - compared to dockless scheme type.
 
-Datasets taken into consideration were collected from bike sharing systems corresponding to different cities and urban areas in United States of America, Canada, Mexico, Brasil, Spain, and UK. An overview of cities included for each country can be observed below.
+Datasets taken into consideration were collected from bike sharing systems corresponding to different cities and urban areas in United States of America, Canada, Mexico, Brasil, Spain, and United Kingdom. An overview of cities included for each country can be observed below.
 
 **United states**: Atlanta (Georgia), joint area of Boston-Cambridge-Somerville-Brookline (Massachusetts), Chattanooga (Tennessee), Chicago (Illinois), Columbus (Ohio), Los Angeles and San Francisco (California), Minneapolis (Minnesota), New York (New York), Philadelphia (Pennsylvania), Washington D.C. 
 
@@ -60,7 +60,7 @@ Datasets taken into consideration were collected from bike sharing systems corre
 
 ## Problem Statement
 
-Investigate what is the usage of available data and what can we learn from it, or apply obtained insights in order to simulate certain optimizations for specific city use cases. The set of problems will be identified based on previous published papers in the domain of bike-share systems. 
+Investigating the usage of available data and what we can learn from it, applying obtained insights in order to simulate certain optimizations for specific city use cases. The set of problems will be identified based on previously published papers in the domain of bike-share systems. 
 
 ---
 
@@ -79,6 +79,7 @@ Investigate what is the usage of available data and what can we learn from it, o
 ## Tasks
 
 Research study of the previous work to try and identify common problems, while extracting an unique knowledge gap this thesis will cover in detail.
+The very nature of any identified research problem related to this project, being it's property to be translated into a network model, implies that using graph theory and its metrics can answer many questions one might pose about it.
 
 ---
 
