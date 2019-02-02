@@ -60,7 +60,8 @@ Datasets taken into consideration were collected from bike sharing systems corre
 
 ## Problem Statement
 
-Investigating the usage of available data and what we can learn from it, applying obtained insights in order to simulate certain optimizations for specific city use cases. The set of problems will be identified based on previously published papers in the domain of bike-sharing systems. 
+Investigating the usage of available data and what we can learn from it, applying obtained insights in order to simulate certain optimizations for specific city use cases. The set of problems will be identified based on previously published papers in the domain of bike-sharing systems.
+Problem statement will express the relationship between two or more measurable properties which will be empirically tested in the later stages of this thesis.
 
 ---
 
