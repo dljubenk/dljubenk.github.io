@@ -108,5 +108,5 @@ Interesting Python libraries to be used:
 [1]: /assets/images/lab.jpg
 [2]: /assets/images/map.png
 [3]: /assets/images/data.png
-[4]: /assets/images/data.jpg
+[4]: /assets/images/bike.jpg
 
