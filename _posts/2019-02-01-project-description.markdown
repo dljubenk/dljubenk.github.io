@@ -58,9 +58,9 @@ Datasets taken into consideration were collected from bike sharing systems corre
 
 ![Markdown Image][2]
 
-For example, Boston area datasets provided by [BLUEbikes](https://www.bluebikes.com/) consists of timespan between year 2011 and 2018, and for each date include: duration (in seconds), start date and time, end date and time, start station ID and name, end station ID and name, bike ID, user's member type (customer or casual), zip code of user's whereabouts, user's gender. Of course, data can be missing or incorrect which will have to be dealt with in a data cleaning pipeline segment.
+For example, Boston area datasets provided by [BLUEbikes](https://www.bluebikes.com/) consists of timespan between year 2011 and 2018, and for each date include: duration (in seconds), start date and time, end date and time, start station ID and name, end station ID and name, bike ID, user's member type (customer or casual), zip code of user's whereabouts, user's gender. Of course, data can be missing or incorrect which will have to be dealt with in a data cleaning pipeline segment. Datasets are in .CSV format and a snippet of data is represented in the image below.
 
-
+![Markdown Image][3]
 
 ## Problem Statement
 
@@ -105,3 +105,5 @@ Interesting Python libraries to be used:
 
 [1]: /assets/images/lab.jpg
 [2]: /assets/images/map.png
+[3]: /assets/images/data.png
+
