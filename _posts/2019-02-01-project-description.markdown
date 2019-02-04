@@ -58,6 +58,10 @@ Datasets taken into consideration were collected from bike sharing systems corre
 
 ![Markdown Image][2]
 
+For example, Boston area datasets provided by [BLUEbikes](https://www.bluebikes.com/) consists of timespan between year 2011 and 2018, and for each date include: duration (in seconds), start date and time, end date and time, start station ID and name, end station ID and name, bike ID, user's member type (customer or casual), zip code of user's whereabouts, user's gender. Of course, data can be missing or incorrect which will have to be dealt with in a data cleaning pipeline segment.
+
+
+
 ## Problem Statement
 
 Investigating the usage of available data and what we can learn from it, applying obtained insights in order to simulate certain optimizations for specific city use cases. The set of problems will be identified based on previously published papers in the domain of bike-sharing systems.
