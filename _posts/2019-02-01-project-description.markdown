@@ -62,6 +62,8 @@ For example, Boston area datasets provided by [BLUEbikes](https://www.bluebikes.
 
 ![Markdown Image][3]
 
+Also, just as an illustration, for the Boston dataset there are 140'975 entries for a period between 07/28/2011 and 11/30/ 2011 (4 months span).
+
 ## Problem Statement
 
 Investigating the usage of available data and what we can learn from it, applying obtained insights in order to simulate certain optimizations for specific city use cases. The set of problems will be identified based on previously published papers in the domain of bike-sharing systems.
