@@ -100,10 +100,13 @@ Interesting Python libraries to be used:
 
 ---
 
+![Markdown Image][4]
+
 ###### This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 [MIT](https://mit-license.org/) © Davor Ljubenkov
 
 [1]: /assets/images/lab.jpg
 [2]: /assets/images/map.png
 [3]: /assets/images/data.png
+[4]: /assets/images/data.jpg
 
