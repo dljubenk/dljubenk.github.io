@@ -29,6 +29,8 @@ description: Markdown summary with different options
 Thesis will be conducted at ***Massachusetts Institute of Technology***, SENSEable City Lab.
 Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti), and project responsibles are [Fábio Duarte](https://tedxbeaconstreet.com/speakers/fabio-duarte/) and [Paolo Santi](http://webhost.services.iit.cnr.it/staff/paolo.santi/).
 
+***Remark***: as a Lab member, it is common for researchers to work on at least 2 projects during their stay. In addition to the thesis project, certain smaller amount of my time will be spent on a project called [Roboat](http://roboat.org/). More focus will be appointed to it after the thesis defense in June and up until the end of my MIT SCL stay (mid-July). My expertise of Unity and virtual realities acquired during my Bachelor's thesis project at EPFL's Immersive Interaction Group would be benefitial for the current stage of the Roboat project.
+
 ---
 ![Markdown Image][1]
 
