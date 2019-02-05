@@ -106,6 +106,8 @@ Interesting Python libraries to be used:
 
 ![Markdown Image][4]
 
+![Markdown Image][5]
+
 ###### This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 [MIT](https://mit-license.org/) © Davor Ljubenkov
 
@@ -113,4 +115,5 @@ Interesting Python libraries to be used:
 [2]: /assets/images/map.png
 [3]: /assets/images/data.png
 [4]: /assets/images/bike.jpg
+[5]: /assets/images/terminal.jpg
 
