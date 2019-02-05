@@ -71,6 +71,12 @@ Also, just as an illustration, for the Boston dataset there are 140'975 entries 
 Investigating the usage of available data and what we can learn from it, applying obtained insights in order to simulate certain optimizations for specific city use cases. The set of problems will be identified based on previously published papers in the domain of bike-sharing systems.
 Problem statement will express the relationship between two or more measurable properties which will be empirically tested in the later stages of this thesis.
 
+For example:
+* can we observe clear patterns or communities of bike commuters in spatio-temporal context
+* which secondary datasets can provide us with some explanations of such patterns (e.g. weather, national holidays etc.) 
+* can we compare some bike-sharing systems between different cities and continents and have a clear comparison metrics to rvaluate these differences?
+* how does the placement of docks correlate to some efficiency metrics and can we predict the optimal placement and the number of docks?
+
 ---
 
 ## Problem
