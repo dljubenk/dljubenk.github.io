@@ -119,6 +119,8 @@ Interesting Python libraries to be used or considered for being used:
 * **Folium** - displays spatial data on interactive leaflet maps (e.g. implementing heat maps)
 * **GeoPandas** - works with geospatial data and coordinate system
 
+* **scikit-learn** - machine learning
+
 
 
 ---
