@@ -17,7 +17,8 @@ tag:
 category: blog
 author: Davor Ljubenkov
 description: Paper Research
-# jemoji: '<img class="emoji" title=":scroll:" alt=":scroll:" src="https://assets.github.com/images/icons/emoji/unicode/1f4dc.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":scroll:" alt=":scroll:" src="https://assets.github.com/images/icons/emoji/unicode/1f4dc.png" height="20" width="20" align="absmiddle">'
+
 ---
 
 ## Papers
