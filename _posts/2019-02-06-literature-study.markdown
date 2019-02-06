@@ -26,7 +26,9 @@ jemoji: '<img class="emoji" title=":scroll:" alt=":scroll:" src="https://assets.
 A reference management software used to cataloguise relevant papers is called [Mendeley](https://www.mendeley.com/newsfeed), and it is quite similar to [Zotero](https://www.zotero.org/).
 In total, 142 papers in the domain of smart cities transportation had been collected in categories such as: bike reports (11 papers), bike sharing (77 papers), fostering bicycle usage (4 papers), fractal city (3 papers), gender relevance (5 papers), health, environemnt and risk (14 papers), networks accessibility (7 papers), on-demand ride services (3 papers), sensors (6 papers), urban trajectiry analysis (1 paper), and visualization (5 papers). Of course, neither are all papers going to be relevant, not are all papers provided published yet - so only a smallsubset of this resource will be investigated further in order to construct the appropriate research question and knowledge gap for my thesis. 
 
+---
 ## Paper 1
+---
 ### "Docked vs. Dockless Bike-sharing: Contrasting Spatiotemporal Patterns"
 #### Grant McKenzie
 ##### Department of Geography, McGill University, Montréal, Canada
