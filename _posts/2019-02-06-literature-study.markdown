@@ -1,5 +1,5 @@
 ---
-title: "Literature Study     :scroll:"
+title: "Literature Study        :scroll:"
 layout: post
 date: 2019-02-06 22:44
 image: /assets/images/lab.jpg
