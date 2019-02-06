@@ -38,8 +38,8 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 
 Focuses on Washington, D.C.
 
-Paper mentions these companies: [Mobike](https://mobike.com/global/), [Spin](https://www.spin.app/) , [Jump](https://jump.com/), [LimeBike](https://www.li.me/), and [Capital Bikeshare](https://www.capitalbikeshare.com/).
+Paper mentions these companies: [Mobike](https://mobike.com/global/), [Spin](https://www.spin.app/) , [Jump](https://jump.com/), [Lime](https://www.li.me/), and [Capital Bikeshare](https://www.capitalbikeshare.com/).
 
-Comparisons were made between LimeBike (dockless) and Capital Bikeshare (docked).
+Comparisons were made between Lime (dockless) and Capital Bikeshare (docked).
 
-
+Lime is a private company and Capital Bikeshare is owned by the municipial government of D.C. (also Virginia and Maryland).
