@@ -85,9 +85,13 @@ For example:
 
 ## Purpose
 
+Purpose of the thesis project is to improve the quality of life in contemporary cities throught the means of clear visualization, identifying bottlenecks and suggesting optimization methods.
+
 ---
 
 ## Goal
+
+The goal is to accept or reject the hypotheses stated.
 
 ---
 
