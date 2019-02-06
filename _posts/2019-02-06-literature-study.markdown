@@ -38,4 +38,6 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 
 Focuses on Washington, D.C.
 
-Paper mentions these companies: [Mobike](https://mobike.com/global/), [Spin](https://www.spin.app/) , [Jump](https://jump.com/) , and [LimeBike](https://www.li.me/).
+Paper mentions these companies: [Mobike](https://mobike.com/global/), [Spin](https://www.spin.app/) , [Jump](https://jump.com/), [LimeBike](https://www.li.me/), and [Capital Bikeshare](https://www.capitalbikeshare.com/)
+
+
