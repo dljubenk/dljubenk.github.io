@@ -14,7 +14,6 @@ tag:
 - python
 - fractals
 - pandas
-star: true
 category: blog
 author: Davor Ljubenkov
 description: Paper Research
