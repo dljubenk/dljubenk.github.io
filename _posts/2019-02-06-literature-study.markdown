@@ -35,3 +35,6 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 ###### 2018, 10th International Conference on Geographic Information Science
 
 [LINK](https://grantmckenzie.com/academics/Dockless2018.pdf)
+
+Focuses on Washington, D.C.
+Paper mentions these companies: [Mobike](https://mobike.com/global/), [Spin](https://www.spin.app/) , [Jump](https://jump.com/) , and [LimeBike](https://www.li.me/).
