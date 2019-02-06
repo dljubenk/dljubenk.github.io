@@ -74,7 +74,7 @@ Problem statement will express the relationship between two or more measurable p
 For example:
 * can we observe clear patterns or communities of bike commuters in spatio-temporal context?
 * which secondary datasets can provide us with some explanations of such patterns (e.g. weather, national holidays etc.)?
-* can we compare some bike-sharing systems between different cities and continents and have a clear comparison metrics to rvaluate these differences?
+* can we compare some bike-sharing systems between different cities and continents and have a clear comparison metrics to evaluate these differences?
 * how does the placement of docks correlate to some efficiency metrics and can we predict the optimal placement and the number of docks?
 
 ---
