@@ -107,6 +107,13 @@ The very nature of any identified research problem related to this project, bein
 The code will be provided in the form of a Jupyter notebook. Jupyter is a python module, and is available either preinstalled as an Anaconda module, or can be installed manually with pip. In the case of manual installation, the user will also need to install the modules pandas, numpy, and scipy. The files, having an extension ".ipynb", can be run either directly from Jupyter's GUI, or run from the commandline inside the unzipped folder. Running the second command on a windows machine may require adding the Python scripts directory to the PATH variable, located in the subdirectory "Scripts" under the Python installation directory.
 
 Interesting Python libraries to be used:
+* **matplotlib**
+* **Seaborn**
+* **ggplot**
+* **Bokeh** - creating interactive statistics
+* **pygal**
+* **Plotly**
+* **geoplotlib** - using choropleth maps
 * **Folium** - displays spatial data on interactive leaflet maps (e.g. implementing heat maps)
 * **GeoPandas** - works with geospatial data and coordinate system
 
