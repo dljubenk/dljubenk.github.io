@@ -43,3 +43,5 @@ Paper mentions these companies: [Mobike](https://mobike.com/global/), [Spin](htt
 Comparisons were made between Lime (dockless) and Capital Bikeshare (docked).
 
 Lime is a private company and Capital Bikeshare is owned by the municipial government of D.C. (also Virginia and Maryland).
+
+Data analysed included only a month of March in 2018.
