@@ -30,8 +30,8 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 ## Paper 1
 ---
 ### "Docked vs. Dockless Bike-sharing: Contrasting Spatiotemporal Patterns"
-#### Grant McKenzie
-##### Department of Geography, McGill University, Montréal, Canada
+#### [Grant McKenzie](https://grantmckenzie.com/)
+##### [Department of Geography](https://www.mcgill.ca/geography/people-0/mckenzie), McGill University, Montréal, Canada
 ###### 2018 - 10th International Conference on Geographic Information Science
 
 [LINK](https://grantmckenzie.com/academics/Dockless2018.pdf)
