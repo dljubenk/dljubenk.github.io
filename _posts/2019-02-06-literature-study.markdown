@@ -32,7 +32,7 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 ### "Docked vs. Dockless Bike-sharing: Contrasting Spatiotemporal Patterns"
 #### Grant McKenzie
 ##### Department of Geography, McGill University, Montréal, Canada
-###### 2018, 10th International Conference on Geographic Information Science
+###### 2018 - 10th International Conference on Geographic Information Science
 
 [LINK](https://grantmckenzie.com/academics/Dockless2018.pdf)
 
@@ -45,3 +45,15 @@ Comparisons were made between Lime (dockless) and Capital Bikeshare (docked).
 Lime is a private company and Capital Bikeshare is owned by the municipial government of D.C. (also Virginia and Maryland).
 
 Data analysed included only a month of March in 2018.
+
+---
+## Paper 2
+---
+### "Studying commuting behaviours using collaborative visual analytics"
+#### Roger Beecham, Jo Wood, AudreyBowerman
+##### giCentre, Information Sciences, City University London, United Kingdom
+##### Delivery Planning - Cycling, Transport for London, United Kingdom
+###### September 2014 - Computers, Environment and Urban Systems Volume 47, Pages 5-15
+###### Available online 12 November 2013
+
+[LINK](https://www.sciencedirect.com/science/article/pii/S0198971513001014?via%3Dihub)
