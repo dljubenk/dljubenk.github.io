@@ -57,3 +57,13 @@ Data analysed included only a month of March in 2018.
 ###### Available online 12 November 2013
 
 [LINK](https://ac.els-cdn.com/S0198971513001014/1-s2.0-S0198971513001014-main.pdf?_tid=e6c984d6-e1e9-4e63-bbc1-32d6c157bf7b&acdnat=1549557260_b6764ac4ddfd60b846c9af3fffde629f)
+
+---
+## Paper 3
+---
+### "Community Structures, Interactions and Dynamics in London’s Bicycle Sharing Network"
+#### 
+#####
+######
+
+[LINK](https://arxiv.org/pdf/1804.05584.pdf)
