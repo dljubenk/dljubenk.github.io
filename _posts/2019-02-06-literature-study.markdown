@@ -50,9 +50,9 @@ Data analysed included only a month of March in 2018.
 ## Paper 2
 ---
 ### "Studying commuting behaviours using collaborative visual analytics"
-#### Roger Beecham, Jo Wood, AudreyBowerman
+#### [Roger Beecham](http://www.roger-beecham.com/), [Jo Wood](http://www.staff.city.ac.uk/~jwo/cyclehire/), Audrey Bowerman
 ##### [giCentre](https://www.gicentre.net/) Information Sciences, City University London, United Kingdom
-##### Delivery Planning - Cycling, Transport for London, United Kingdom
+##### [Delivery Planning - Cycling](https://tfl.gov.uk/modes/cycling/), Transport for London, United Kingdom
 ###### September 2014 - Computers, Environment and Urban Systems Volume 47, Pages 5-15
 ###### Available online 12 November 2013
 
