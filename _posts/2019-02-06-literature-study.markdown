@@ -80,6 +80,12 @@ Data analysed included only a month of March in 2018.
 ![Markdown Image][3]
 
 
+Suggestion: instead of pure unsupervsed learning, use extended layers of urban systems (e.g. amenities? and weather data)
+
+Suggestion: more holistic approach needed to draw meaningful conclusions (e.g. use other transportation networks or include further cities)
+
+Suggestion:  address time-varying networks of bike stations and communities, where different
+motifs (loop, chain, star) and temporal evolution dynamics with extended time windows could potentially provide deeper insights into inherent relationships of spatially heterogeneous nodes (stations) or sub-networks (communities)
 
 
 
