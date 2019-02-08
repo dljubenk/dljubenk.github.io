@@ -41,7 +41,7 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 
 [LINK](https://grantmckenzie.com/academics/Dockless2018.pdf)
 
----
+![Markdown Image][1]
 
 Focuses on Washington, D.C.
 
@@ -74,3 +74,14 @@ Data analysed included only a month of March in 2018.
 ###### August 2018
 
 [LINK](https://arxiv.org/pdf/1804.05584.pdf)
+
+
+
+
+
+
+
+
+
+
+[1]: /assets/images/paper1.png
