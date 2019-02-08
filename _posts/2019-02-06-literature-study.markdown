@@ -67,8 +67,8 @@ Data analysed included only a month of March in 2018.
 ## Paper 3
 ---
 ### "Community Structures, Interactions and Dynamics in London’s Bicycle Sharing Network"
-#### Fernando Munoz-Mendez, Konstantin Klemmer, Ke Han, Stephen Jarvis
-#####
-######
+#### [Fernando Munoz-Mendez](https://www.researchgate.net/profile/Fernando_Munoz_Mendez), [Konstantin Klemmer](https://warwick.ac.uk/fac/sci/dcs/people/research/u1690815), [Ke Han](https://www.imperial.ac.uk/people/k.han), [Stephen Jarvis](https://www.dcs.warwick.ac.uk/people/academic/Stephen.Jarvis/)
+##### AECOM, University of Warwick, Alaan Turing Institute, Imperial College London, UK 
+###### August 2018
 
 [LINK](https://arxiv.org/pdf/1804.05584.pdf)
