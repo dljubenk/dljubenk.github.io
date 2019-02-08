@@ -40,7 +40,8 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 ###### 2018 - 10th International Conference on Geographic Information Science
 
 [LINK](https://grantmckenzie.com/academics/Dockless2018.pdf)
-________________________________________________________________________________________________________________________________________
+
+---
 
 Focuses on Washington, D.C.
 
