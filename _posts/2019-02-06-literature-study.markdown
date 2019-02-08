@@ -5,6 +5,7 @@ date: 2019-02-06 22:44
 image: /assets/images/lab.jpg
 headerImage: false
 tag:
+- BSS
 - MIT
 - SCL
 - literature
@@ -20,6 +21,10 @@ description: Paper Research
 jemoji: '<img class="emoji" title=":scroll:" alt=":scroll:" src="https://assets.github.com/images/icons/emoji/unicode/1f4dc.png" height="20" width="20" align="absmiddle">'
 
 ---
+
+## Acronyms
+
+BSS = Bike Sharing Scheme (Service)
 
 ## Collection Process
 
@@ -62,7 +67,7 @@ Data analysed included only a month of March in 2018.
 ## Paper 3
 ---
 ### "Community Structures, Interactions and Dynamics in London’s Bicycle Sharing Network"
-#### 
+#### Fernando Munoz-Mendez, Konstantin Klemmer, Ke Han, Stephen Jarvis
 #####
 ######
 
