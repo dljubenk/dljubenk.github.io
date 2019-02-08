@@ -77,6 +77,8 @@ Data analysed included only a month of March in 2018.
 
 [LINK](https://arxiv.org/pdf/1804.05584.pdf)
 
+![Markdown Image][3]
+
 
 
 
@@ -88,3 +90,4 @@ Data analysed included only a month of March in 2018.
 
 [1]: /assets/images/paper1.png
 [2]: /assets/images/paper2.jpg
+[3]: /assets/images/paper3.png
