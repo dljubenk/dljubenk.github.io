@@ -45,6 +45,10 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 
 Focuses on Washington, D.C.
 
+Most of the analysis is just exploratory
+
+Results of the paper are preliminary because of lack of data
+
 Paper mentions these companies: [Mobike](https://mobike.com/global/), [Spin](https://www.spin.app/) , [Jump](https://jump.com/), [Lime](https://www.li.me/), and [Capital Bikeshare](https://www.capitalbikeshare.com/).
 
 Comparisons were made between Lime (dockless) and Capital Bikeshare (docked).
@@ -65,6 +69,8 @@ calculated cluster centers were snapped??? to the nearest road intersection and 
 calculated again ->  mean distance to 300.1m and median to 180.2 m. Conclusion: existing dock are well situated
 
 Road network -> shortest path was calculated between each start and end location using Dijkstra’s algorithm as implemented in [pgRouting](http://pgrouting.org/).  Once routing analysis was complete, point geometries were generated every 10 m along each of the resulting line geometries. Using these points, kernel density estimates were created for dock and dockless independently, producing the two heat maps. Normalizing the kernel density values, we again calculate subtraction of the two.
+
+Suggestions: other modes of transportations, examine the behavioral motivatio for selecting certain services
 
 
 ---
