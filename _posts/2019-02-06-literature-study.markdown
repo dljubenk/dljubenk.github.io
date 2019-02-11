@@ -43,7 +43,7 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 
 ![Markdown Image][1]
 
-Focuses on ``Washington, D.C.``
+Focuses on <mark>Washington, D.C.</mark>
 
 Most of the analysis is just ``` - exploratory```
 
