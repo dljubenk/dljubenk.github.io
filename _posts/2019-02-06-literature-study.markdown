@@ -25,9 +25,13 @@ jemoji: '<img class="emoji" title=":scroll:" alt=":scroll:" src="https://assets.
 ## Acronyms
 
 BSS = Bike Sharing Scheme (Service)
+
 CHS = Cycle Hire Scheme
+
 D.C. = District of Columbia
+
 TfL = Transport for London
+
 EDA = Exploratory Data Analysis
 
 ## Collection Process
