@@ -112,7 +112,7 @@ Contribution 1 - a new technique for deriving customers’ workplace areas and l
 
 Contribution 2 - a visual analytics approach that facilitates a data-driven discourse between a diverse set of stakeholders in a project (data analysts, domain scpecialists, etc.) ->  a process of chauffeuring??? -> computer-supported collaborative work -> Collaborative visual analytics
 
-EDA showed: Journeys at peak-times seemed to be dominated by particular types of people: male users and those living outside of London. 
+EDA showed: Journeys at peak-times seemed to be dominated by particular types of people: male users and those living outside of London, and other observations... 
 
 ---
 ## Paper 3
