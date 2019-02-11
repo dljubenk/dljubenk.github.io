@@ -28,6 +28,7 @@ BSS = Bike Sharing Scheme (Service)
 CHS = Cycle Hire Scheme
 D.C. = District of Columbia
 TfL = Transport for London
+EDA = Exploratory Data Analysis
 
 ## Collection Process
 
@@ -106,6 +107,8 @@ commuting behaviour - not necessarily a 2-way ride (a so called closed peak-time
 Contribution 1 - a new technique for deriving customers’ workplace areas and labelling commuting journeys, based on a spatial analysis of travel behaviours. (-> spatial + temporal used combined and not separately)
 
 Contribution 2 - a visual analytics approach that facilitates a data-driven discourse between a diverse set of stakeholders in a project (data analysts, domain scpecialists, etc.) ->  a process of chauffeuring??? -> computer-supported collaborative work -> Collaborative visual analytics
+
+EDA showed: Journeys at peak-times seemed to be dominated by particular types of people: male users and those living outside of London. 
 
 ---
 ## Paper 3
