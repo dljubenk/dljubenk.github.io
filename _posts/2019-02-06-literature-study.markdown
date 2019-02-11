@@ -25,6 +25,8 @@ jemoji: '<img class="emoji" title=":scroll:" alt=":scroll:" src="https://assets.
 ## Acronyms
 
 BSS = Bike Sharing Scheme (Service)
+CHS = Cycle Hire Scheme
+D.C. = District of Columbia
 
 ## Collection Process
 
@@ -88,11 +90,15 @@ Suggestions: other modes of transportations, examine the behavioral motivatio fo
 
 Focuses on London.
 
-Automatic classification of commuting behavior?
+Automatic label classification of commuting behavior? - inferring wokplace of individuals
+
+Collaborative visual analytics?
 
 1) Weighted mean-centres
 2) K-means clustering
 3) Kernel density estimation
+
+Community detection - 2 types identified (those outside London and those living close to docks)
 
 ---
 ## Paper 3
