@@ -114,6 +114,16 @@ Contribution 2 - a visual analytics approach that facilitates a data-driven disc
 
 EDA showed: Journeys at peak-times seemed to be dominated by particular types of people: male users and those living outside of London, and other observations... 
 
+Three Research Questions:
+
+1. What are the characteristics of people who take part in commuting based activities?
+
+2. Where do commuting events happen?
+
+3. Under what circumstances are journeys made during the working day?
+
+
+
 ---
 ## Paper 3
 ---
