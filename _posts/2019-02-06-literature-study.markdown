@@ -93,8 +93,6 @@ Focuses on London.
 
 Automatic label classification of commuting behavior? - inferring wokplace of individuals
 
-Collaborative visual analytics?
-
 1) Weighted mean-centres
 2) K-means clustering
 3) Kernel density estimation
@@ -107,7 +105,7 @@ commuting behaviour - not necessarily a 2-way ride (a so called closed peak-time
 
 Contribution 1 - a new technique for deriving customers’ workplace areas and labelling commuting journeys, based on a spatial analysis of travel behaviours. (-> spatial + temporal used combined and not separately)
 
-Contribution 2 - a visual analytics approach that facilitates a data-driven discourse between a diverse set of stakeholders in a project (data analysts, domain scpecialists, etc.) ->  a process of chauffeuring???
+Contribution 2 - a visual analytics approach that facilitates a data-driven discourse between a diverse set of stakeholders in a project (data analysts, domain scpecialists, etc.) ->  a process of chauffeuring??? -> computer-supported collaborative work -> Collaborative visual analytics
 
 ---
 ## Paper 3
