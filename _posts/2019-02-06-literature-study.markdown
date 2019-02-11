@@ -82,7 +82,7 @@ Suggestions: other modes of transportations, examine the behavioral motivatio fo
 ###### September 2014 - Computers, Environment and Urban Systems Volume 47, Pages 5-15
 ###### Available online 12 November 2013
 
-[LINK](https://ac.els-cdn.com/S0198971513001014/1-s2.0-S0198971513001014-main.pdf?_tid=219a91df-321e-4621-b883-ee52e4d8c3c8&acdnat=1549906051_1201a3f087a32f729e305ff3ecf8bae6)
+[LINK](https://www.sciencedirect.com/science/article/pii/S0198971513001014/pdfft?md5=baa4cb4ef7bbf3c786b640f551aa672e&pid=1-s2.0-S0198971513001014-main.pdf)
 
 ![Markdown Image][2]
 
