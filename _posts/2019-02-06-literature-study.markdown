@@ -105,9 +105,7 @@ To keep the BSS as balanced as possible, bikes are manually transported across t
 
 commuting behaviour - not necessarily a 2-way ride (a so called closed peak-time ‘loop’), can be only in one directon (due to possible scarcity/abundance of bikes at the start/end dock)
 
-Contribution 1 - a new technique for deriving customers’ workplace areas and labelling commuting journeys, based on a spatial analysis of travel behaviours.
-
-
+Contribution 1 - a new technique for deriving customers’ workplace areas and labelling commuting journeys, based on a spatial analysis of travel behaviours. (-> spatial + temporal used combined and not separately)
 
 ---
 ## Paper 3
