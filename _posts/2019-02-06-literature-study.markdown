@@ -43,34 +43,31 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 
 ![Markdown Image][1]
 
-Focuses on Washington, D.C.
+Focuses on `Washington, D.C.`
 
-Most of the analysis is just exploratory
+Most of the analysis is just `exploratory`
 
-Results of the paper are preliminary due to lack of data
+Results of the paper are `preliminary` due to lack of data
 
 Paper mentions these companies: [Mobike](https://mobike.com/global/), [Spin](https://www.spin.app/) , [Jump](https://jump.com/), [Lime](https://www.li.me/), and [Capital Bikeshare](https://www.capitalbikeshare.com/).
 
-Comparisons were made between Lime (dockless) and Capital Bikeshare (docked).
+Comparisons were made between Lime (`dockless`) and Capital Bikeshare (`docked`).
 
-Lime is a private company and Capital Bikeshare is owned by the municipial government of D.C. (also Virginia and Maryland).
+Lime is a `private company` and Capital Bikeshare is owned by the `municipial government` of D.C. (also Virginia and Maryland).
 
 Data analysed included only a month of March in 2018. (238,936 individual trips)
 
-Data Attributes: bike ID, time stamps for the start and end of the trip, start and end station IDs.
+Data Attributes: `bike ID`, `time stamps` for the start and end of the trip, start and end `station IDs`.
 
-`````  bla  `````   `bla` ``bla`` ```bla```
+***Temporal aspects***: `mean` duration, `median` duration, bike trip start times `aggregated` to the nearest hour of a week and independently normalized, pattern `subtraction`
 
-***Temporal aspects***: mean duration, median duration, bike trip start times aggregated to the nearest hour of a week and independently
-normalized, pattern subtraction
+***Spatial aspects***: `Voronoi tessellation` used to partition town map into polygons, subtraction of two voronoi patterns, intersecting these polygons with land use data from D.C.’s Office of Planning
 
-***Spatial aspects***: Voronoi tessellation used to partition town map into polygons, subtraction of two voronoi patterns, intersecting these polygons with land use data from D.C.’s Office of Planning
-
-***Networks***: K-means was used for clustering the dockless locations with a number of clusters being 269 (= number of docked stations), the average distance between each cluster center and it’s nearest existing dock station was computed -> result = mean distance of 305.4 m with a median of 181.4 m
+***Networks***: `K-means` was used for clustering the dockless locations with a number of clusters being 269 (= number of docked stations), the average distance between each cluster center and it’s nearest existing dock station was computed -> result = mean distance of 305.4 m with a median of 181.4 m
 calculated cluster centers were snapped??? to the nearest road intersection and the average distance to existing stations was
 calculated again ->  mean distance to 300.1m and median to 180.2 m. Conclusion: existing dock are well situated
 
-Road network -> shortest path was calculated between each start and end location using Dijkstra’s algorithm as implemented in [pgRouting](http://pgrouting.org/).  Once routing analysis was complete, point geometries were generated every 10 m along each of the resulting line geometries. Using these points, kernel density estimates were created for dock and dockless independently, producing the two heat maps. Normalizing the kernel density values, we again calculate subtraction of the two.
+Road network -> shortest path was calculated between each start and end location using `Dijkstra’s algorithm` as implemented in [pgRouting](http://pgrouting.org/).  Once routing analysis was complete, point geometries were generated every 10 m along each of the resulting line geometries. Using these points, kernel density estimates were created for dock and dockless independently, producing the two heat maps. Normalizing the kernel density values, we again calculate subtraction of the two.
 
 Suggestions: other modes of transportations, examine the behavioral motivatio for selecting certain services
 
