@@ -86,6 +86,14 @@ Suggestions: other modes of transportations, examine the behavioral motivatio fo
 
 ![Markdown Image][2]
 
+Focuses on London.
+
+Automatic classification of commuting behavior?
+
+1) Weighted mean-centres
+2) K-means clustering
+3) Kernel density estimation
+
 ---
 ## Paper 3
 ---
