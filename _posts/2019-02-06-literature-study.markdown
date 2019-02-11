@@ -58,7 +58,7 @@ Data Attributes: bike ID, time stamps for the start and end of the trip, start a
 Temporal aspects: mean duration, median duration, bike trip start times aggregated to the nearest hour of a week and independently
 normalized, pattern subtraction
 
-Spatial aspects: Voronoi tessellation used to partition town map into polygons, subtraction of two voronoi patterns
+Spatial aspects: Voronoi tessellation used to partition town map into polygons, subtraction of two voronoi patterns, intersecting these polygons with land use data from D.C.’s Office of Planning
 
 ---
 ## Paper 2
