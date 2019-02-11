@@ -59,7 +59,7 @@ Data analysed included only a month of March in 2018. (238,936 individual trips)
 
 Data Attributes: <mark>bike ID</mark>, <mark>time stamps</mark> for the start and end of the trip, start and end <mark>station IDs</mark>.
 
-***Temporal aspects***: <mark>mean</mark> duration, <mark>median</mark> duration, bike trip start times <mark>aggregated</mark> to the nearest hour of a week and independently normalized, pattern `subtraction`
+***Temporal aspects***: <mark>mean</mark> duration, <mark>median</mark> duration, bike trip start times <mark>aggregated</mark> to the nearest hour of a week and independently normalized, pattern <mark>subtraction</mark>
 
 ***Spatial aspects***: <mark>Voronoi tessellation</mark> used to partition town map into polygons, subtraction of two voronoi patterns, intersecting these polygons with land use data from D.C.’s Office of Planning
 
