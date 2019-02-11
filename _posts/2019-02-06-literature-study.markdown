@@ -47,7 +47,7 @@ Focuses on Washington, D.C.
 
 Most of the analysis is just exploratory
 
-Results of the paper are preliminary because of lack of data
+Results of the paper are preliminary due to lack of data
 
 Paper mentions these companies: [Mobike](https://mobike.com/global/), [Spin](https://www.spin.app/) , [Jump](https://jump.com/), [Lime](https://www.li.me/), and [Capital Bikeshare](https://www.capitalbikeshare.com/).
 
