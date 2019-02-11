@@ -59,7 +59,7 @@ Data analysed included only a month of March in 2018. (238,936 individual trips)
 
 Data Attributes: bike ID, time stamps for the start and end of the trip, start and end station IDs.
 
-````  + bla  ````
+`````  bla  `````   `bla` ``bla`` ```bla```
 
 ***Temporal aspects***: mean duration, median duration, bike trip start times aggregated to the nearest hour of a week and independently
 normalized, pattern subtraction
