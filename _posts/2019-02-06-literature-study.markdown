@@ -27,6 +27,7 @@ jemoji: '<img class="emoji" title=":scroll:" alt=":scroll:" src="https://assets.
 BSS = Bike Sharing Scheme (Service)
 CHS = Cycle Hire Scheme
 D.C. = District of Columbia
+TfL = Transport for London
 
 ## Collection Process
 
@@ -99,6 +100,14 @@ Collaborative visual analytics?
 3) Kernel density estimation
 
 Community detection - 2 types identified (those outside London and those living close to docks)
+
+To keep the BSS as balanced as possible, bikes are manually transported across the city at peak times, and in priority areas docking stations are continually replenished with bikes or bikes continuously removed from docking stations. -> which is expensive!
+
+commuting behaviour - not necessarily a 2-way ride, can be only in one directon (combined with walking or other commuting transportation)
+
+Contribution 1 - a new technique for deriving customers’ workplace areas and labelling commuting journeys, based on a spatial analysis of travel behaviours.
+
+
 
 ---
 ## Paper 3
