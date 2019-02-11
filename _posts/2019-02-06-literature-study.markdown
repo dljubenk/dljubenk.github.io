@@ -59,12 +59,14 @@ Data analysed included only a month of March in 2018. (238,936 individual trips)
 
 Data Attributes: bike ID, time stamps for the start and end of the trip, start and end station IDs.
 
-**Temporal aspects**: mean duration, median duration, bike trip start times aggregated to the nearest hour of a week and independently
+```diff  - bla  ```
+
+***Temporal aspects***: mean duration, median duration, bike trip start times aggregated to the nearest hour of a week and independently
 normalized, pattern subtraction
 
-**Spatial aspects**: Voronoi tessellation used to partition town map into polygons, subtraction of two voronoi patterns, intersecting these polygons with land use data from D.C.’s Office of Planning
+***Spatial aspects***: Voronoi tessellation used to partition town map into polygons, subtraction of two voronoi patterns, intersecting these polygons with land use data from D.C.’s Office of Planning
 
-**Networks**: K-means was used for clustering the dockless locations with a number of clusters being 269 (= number of docked stations), the average distance between each cluster center and it’s nearest existing dock station was computed -> result = mean distance of 305.4 m with a median of 181.4 m
+***Networks***: K-means was used for clustering the dockless locations with a number of clusters being 269 (= number of docked stations), the average distance between each cluster center and it’s nearest existing dock station was computed -> result = mean distance of 305.4 m with a median of 181.4 m
 calculated cluster centers were snapped??? to the nearest road intersection and the average distance to existing stations was
 calculated again ->  mean distance to 300.1m and median to 180.2 m. Conclusion: existing dock are well situated
 
