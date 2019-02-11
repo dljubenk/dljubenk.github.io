@@ -122,6 +122,9 @@ Three Research Questions:
 
 3. Under what circumstances are journeys made during the working day?
 
+4. How can commuting journeys and commuting LCHS cyclists be reasonably detected?
+
+
 
 
 ---
