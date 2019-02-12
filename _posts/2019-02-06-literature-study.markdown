@@ -124,6 +124,18 @@ Three Research Questions:
 
 4. How can commuting journeys and commuting LCHS cyclists be reasonably detected?
 
+Customer database attributes: postcode, registration date, genders
+
+Journeys dataset attributes: start and end time, origin - destination (OD) pair
+
+Two datasets are related by a unique customer ID
+
+Data observed between 14th September 2011 and 14th September 2012 =  82,874 LCHS members -> 5,048,000 journeys
+
+Calculated: median of journeys, average journeys per user, percentage of long travels (>30min), average straight-line distance
+
+
+
 
 
 
