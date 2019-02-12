@@ -142,7 +142,7 @@ How to find frequent job commuters?
 
 * filter for peaks and restrict repeated cycling on working days
 
-But how to choose suitable metrics to differentia between the commuters and casual cyclists?
+But how to choose suitable metrics to differentia between the commuters and casual cyclists? (here, they use: making more than 20 repeated peak-time journeys in the 12 months)
 
 Order cyclists by # of peak-time journeys -> frequency distribution -> POWER LAW??
 
