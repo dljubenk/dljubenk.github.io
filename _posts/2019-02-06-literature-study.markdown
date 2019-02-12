@@ -136,6 +136,18 @@ Calculated: median of journeys, average journeys per user, percentage of long tr
 
 HINT: To preserve customers’ anonymity - use dummy values are shown, and copyright on database if applicable
 
+Some new attributes have been created: e.g. distance from user's home to the closest docking station, Recency–Frequency (RF) segmentation
+
+How to find frequent job commuters?
+
+* filter for peaks and restrict repeated cycling on working days
+
+But how to choose suitable metrics to differentia between the commuters and casual cyclists?
+
+Order cyclists by # of peak-time journeys -> frequency distribution -> POWER LAW??
+
+- observong the visual spatio-temporal anaylsis = lines on a map + fluctuation for each day of the week
+
 
 
 
