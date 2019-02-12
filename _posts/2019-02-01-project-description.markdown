@@ -121,6 +121,20 @@ Interesting Python libraries to be used or considered for being used:
 
 * **scikit-learn** - machine learning
 
+* etc.
+
+Interesting algorithms:
+
+* K-means
+
+* Fruchterman and Reingold’s force-directed placement
+
+* Louvain Method for community detection
+
+* Dijkstra’s shortest path algorithm
+
+* etc.
+
 
 
 ---
