@@ -148,7 +148,7 @@ Order cyclists by # of peak-time journeys -> frequency distribution -> POWER LAW
 
 - observing the visual spatio-temporal anaylsis = lines on a map (visual saliency) + fluctuation for each day of the week
 
-How to derive workplace centres for each cyclist? Calculate the (frequency) weighted centroid of docking station locations  We speculate -> mean-centre
+How to derive workplace centres for each cyclist? Calculate the (frequency) weighted centroid of docking station locations  We speculate -> mean-centre + a standard deviation ellipse (Yuill, 1971)?
 
 
 
