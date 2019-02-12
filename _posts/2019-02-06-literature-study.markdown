@@ -146,7 +146,9 @@ But how to choose suitable metrics to differentia between the commuters and casu
 
 Order cyclists by # of peak-time journeys -> frequency distribution -> POWER LAW??
 
-- observong the visual spatio-temporal anaylsis = lines on a map (visual saliency) + fluctuation for each day of the week
+- observing the visual spatio-temporal anaylsis = lines on a map (visual saliency) + fluctuation for each day of the week
+
+How to derive workplace centres for each cyclist? Calculate the (frequency) weighted centroid of docking station locations  We speculate -> mean-centre
 
 
 
