@@ -134,6 +134,8 @@ Data observed between 14th September 2011 and 14th September 2012 =  82,874 LCHS
 
 Calculated: median of journeys, average journeys per user, percentage of long travels (>30min), average straight-line distance
 
+HINT: To preserve customers’ anonymity - use dummy values are shown, and copyright on database if applicable
+
 
 
 
