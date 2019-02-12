@@ -157,6 +157,7 @@ How to derive workplace centres for each cyclist?
 3) hierarchical cluster analysis (HCA) is not scalable for a very large amount of cyclists
 
 4) density-estimation method (O’Sullivan & Unwin, 2002) -> tackles outliers better -> but we lose spatial coordinates of workplace
+-> two parameters: the size of the kernel and density threshold
 
 
 
