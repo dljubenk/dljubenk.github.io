@@ -146,7 +146,7 @@ But how to choose suitable metrics to differentia between the commuters and casu
 
 Order cyclists by # of peak-time journeys -> frequency distribution -> POWER LAW??
 
-- observong the visual spatio-temporal anaylsis = lines on a map + fluctuation for each day of the week
+- observong the visual spatio-temporal anaylsis = lines on a map (visual saliency) + fluctuation for each day of the week
 
 
 
