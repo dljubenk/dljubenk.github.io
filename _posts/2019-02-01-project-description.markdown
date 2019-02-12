@@ -135,6 +135,11 @@ Interesting algorithms:
 
 * etc.
 
+Statistics:
+
+* measures of central tendency (mean, median,...)
+
+* Significance testing: contingency tables using the Pearson’s chi-square test statistic are used to test for equality of proportions
 
 
 ---
