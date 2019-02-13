@@ -104,7 +104,7 @@ Automatic label classification of commuting behavior? - inferring wokplace of in
 
 Community detection - 2 types identified (those outside London and those living close to docks)
 
-To keep the BSS as balanced as possible, bikes are manually transported across the city at peak times, and in priority areas docking stations are continually replenished with bikes or bikes continuously removed from docking stations. -> which is expensive!
+FLEET MANAGEMENT? -> To keep the BSS as balanced as possible, bikes are manually transported across the city at peak times, and in priority areas docking stations are continually replenished with bikes or bikes continuously removed from docking stations. -> which is expensive!
 
 commuting behaviour - not necessarily a 2-way ride (a so called closed peak-time ‘loop’), can be only in one directon (due to possible scarcity/abundance of bikes at the start/end dock)
 
