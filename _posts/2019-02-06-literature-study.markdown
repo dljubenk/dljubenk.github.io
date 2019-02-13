@@ -116,7 +116,7 @@ EDA showed: Journeys at peak-times seemed to be dominated by particular types of
 
 Three Research Questions:
 
-1. What are the characteristics of people who take part in commuting based activities?
+1. What are the characteristics of people who take part in commuting based activities? (their geodemographic profile)
 
 2. Where do commuting events happen?
 
