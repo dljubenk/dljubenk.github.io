@@ -210,6 +210,8 @@ Number of cities: 10
 
 Number of stations: 996
 
+Number of samples: 10<sup>8</sup>
+
 Focuses on State on Stations, and NOT mobility flows!
 
 Unsupervised learning used to show intrinsic similarities between the cities
