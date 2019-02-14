@@ -249,6 +249,7 @@ Aggregate occupancy time series are calculated -> Pearson correlation used for c
 
 - Which individual stations share similar behavioural traits across different cities -> used hierarchical clustering using an agglomerative strategy (bottom–up approach)
 
+- selected a metric to measure the similarity between station vectors -> distance metric based on the dynamic time warping (DTW) algorithm (Berndt and Clifford1994) = technique for finding the optimal alignment of two temporal sequences - also uses a 1-h Sakoe–Chiba band (1978)
 
 
 
