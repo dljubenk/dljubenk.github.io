@@ -239,7 +239,10 @@ O’Brien et al. (2014) and Austwick et al. (2013) characterise systems at the c
 - pre- and post-cleaning statistics is presented (percentage of data retained)
 
 - calculating the station capacity (as it is not available from web services) -> problems: malfunctioning docks (i.e.,
-erroneous data), docks added/removed -> those station were removed from data!
+erroneous data), docks added/removed -> those station were removed from data (=pruning inconsistent
+and inaccurate samples and stations from the dataset)!
+
+
 
 
 
