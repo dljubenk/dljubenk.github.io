@@ -174,7 +174,7 @@ How to derive workplace centres for each cyclist?
 ---
 ### "Community Structures, Interactions and Dynamics in London’s Bicycle Sharing Network"
 #### [Fernando Munoz-Mendez](https://www.researchgate.net/profile/Fernando_Munoz_Mendez), [Konstantin Klemmer](https://warwick.ac.uk/fac/sci/dcs/people/research/u1690815), [Ke Han](https://www.imperial.ac.uk/people/k.han), [Stephen Jarvis](https://www.dcs.warwick.ac.uk/people/academic/Stephen.Jarvis/)
-##### AECOM, University of Warwick, Alaan Turing Institute, Imperial College London, UK 
+##### AECOM, University of Warwick, Alan Turing Institute, Imperial College London, UK 
 ###### August 2018
 
 [LINK](https://arxiv.org/pdf/1804.05584.pdf)
@@ -188,6 +188,18 @@ Suggestion: more holistic approach needed to draw meaningful conclusions (e.g. u
 
 Suggestion:  address time-varying networks of bike stations and communities, where different
 motifs (loop, chain, star) and temporal evolution dynamics with extended time windows could potentially provide deeper insights into inherent relationships of spatially heterogeneous nodes (stations) or sub-networks (communities)
+
+
+
+---
+## Paper 4
+---
+### "Comparing Cities’ Cycling Patterns Using Online Shared Bicycle Maps"
+#### [Advait Sarkar](https://advait.org/), [Neal Lathia](http://nlathia.github.io/), [Cecilia Mascolo](https://www.turing.ac.uk/people/researchers/cecilia-mascolo)
+##### University of Cambridge, UK 
+###### Springer, April 2015
+
+[LINK](https://link.springer.com/content/pdf/10.1007%2Fs11116-015-9599-9.pdf)
 
 
 
