@@ -212,6 +212,10 @@ Number of stations: 996
 
 Focuses on State on Stations, and NOT mobility flows!
 
+Unsupervised learning used to show intrinsic similarities between the cities
+
+Predictability of stations' occupancy (and comparing cross-city error for each)
+
 
 
 
