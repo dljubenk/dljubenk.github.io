@@ -247,7 +247,7 @@ station using the Haversine formula (Robusto 1957). Larger distances (>10m) were
 
 Aggregate occupancy time series are calculated -> Pearson correlation used for comparison week-day and weekend
 
-
+- Which individual stations share similar behavioural traits across different cities -> used hierarchical clustering using an agglomerative strategy (bottom–up approach)
 
 
 
