@@ -246,7 +246,7 @@ and inaccurate samples and stations from the dataset)!
 station using the Haversine formula (Robusto 1957). If any of these distances was larger
 than 10 m, the station was removed from our analysis. If all distances were less than 10 m
 (the approximate accuracy of civilian GPS systems (2008), the most recently reported
-location was assumed the most accurate.
+location was assumed the most accurate. (percentage of data retained made here as well)
 
 
 
