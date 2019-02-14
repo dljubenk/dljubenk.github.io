@@ -204,6 +204,14 @@ motifs (loop, chain, star) and temporal evolution dynamics with extended time wi
 ![Markdown Image][4]
 
 
+Time span: 4.5 months
+
+Number of cities: 10
+
+Number of stations: 996
+
+Focuses on State on Stations, and NOT mobility flows!
+
 
 
 
