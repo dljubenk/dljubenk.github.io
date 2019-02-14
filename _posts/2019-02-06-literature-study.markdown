@@ -229,7 +229,8 @@ Studies of shared bicycle systems have recently appeared in the data mining lite
 Froehlich et al. (2009) were the first To apply clustering techniques and forecasting models to identify patterns of behaviour in
 stations in Barcelona’s ‘‘Bicing’’ system, explaining results according to stations’ location and time of day. 
 
-
+a recurring conclusion across analyses is that spatiotemporal system usage patterns are tied to, and reflect, city-specific
+characteristics. By focusing on single cities’ systems, these works seem to indicate that each city has a unique pattern, and that forecasting algorithms applied to each one may not be generalisable across the world!!!!
 
 
 
