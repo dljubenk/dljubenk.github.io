@@ -201,6 +201,9 @@ motifs (loop, chain, star) and temporal evolution dynamics with extended time wi
 
 [LINK](https://link.springer.com/content/pdf/10.1007%2Fs11116-015-9599-9.pdf)
 
+![Markdown Image][4]
+
+
 
 
 
@@ -211,3 +214,4 @@ motifs (loop, chain, star) and temporal evolution dynamics with extended time wi
 [1]: /assets/images/paper1.png
 [2]: /assets/images/paper2.jpg
 [3]: /assets/images/paper3.png
+[4]: /assets/images/paper4.png
