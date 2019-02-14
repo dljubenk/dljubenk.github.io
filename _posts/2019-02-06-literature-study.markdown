@@ -220,6 +220,12 @@ Predictability of stations' occupancy (and comparing cross-city error for each)
 
 -> the common trend is that of using interactions with web services to learn about behaviour, and design future applications that leverage any predictability and insight derived from the data
 
+unsupervised clustering techniques used to determine the similarity of patterns (heterogeneity only in bigger systems)
+
+random forest & neural network used to compare the accuracy of forecasting how many bicycles will be at a given station and time to two baselines + EVALUATION 
+
+
+
 
 
 
