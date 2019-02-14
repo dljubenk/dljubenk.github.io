@@ -242,7 +242,11 @@ O’Brien et al. (2014) and Austwick et al. (2013) characterise systems at the c
 erroneous data), docks added/removed -> those station were removed from data (=pruning inconsistent
 and inaccurate samples and stations from the dataset)!
 
-
+- How do we know statio location is correct -> pairwise ground distances rae computed  between all locations recorded for a single
+station using the Haversine formula (Robusto 1957). If any of these distances was larger
+than 10 m, the station was removed from our analysis. If all distances were less than 10 m
+(the approximate accuracy of civilian GPS systems (2008), the most recently reported
+location was assumed the most accurate.
 
 
 
