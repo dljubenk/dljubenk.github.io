@@ -232,6 +232,8 @@ stations in Barcelona’s ‘‘Bicing’’ system, explaining results accordin
 a recurring conclusion across analyses is that spatiotemporal system usage patterns are tied to, and reflect, city-specific
 characteristics. By focusing on single cities’ systems, these works seem to indicate that each city has a unique pattern, and that forecasting algorithms applied to each one may not be generalisable across the world!!!!
 
+O’Brien et al. (2014) and Austwick et al. (2013) characterise systems at the city-level, comparing them in terms of system size (both by station count and geographic area), daily usage, and compactness; they build a hierarchy of cities that share similar characteristics and apply community detection algorithms to analyse similarities within systems.
+
 
 
 
