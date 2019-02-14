@@ -234,7 +234,12 @@ characteristics. By focusing on single cities’ systems, these works seem to in
 
 O’Brien et al. (2014) and Austwick et al. (2013) characterise systems at the city-level, comparing them in terms of system size (both by station count and geographic area), daily usage, and compactness; they build a hierarchy of cities that share similar characteristics and apply community detection algorithms to analyse similarities within systems.
 
+- station occupancy data is gathered by scraping bike sharing web services every 2 min for a number of months
 
+- pre- and post-cleaning statistics is presented (percentage of data retained)
+
+- calculating the station capacity (as it is not available from web services) -> problems: malfunctioning docks (i.e.,
+erroneous data), docks added/removed
 
 
 
