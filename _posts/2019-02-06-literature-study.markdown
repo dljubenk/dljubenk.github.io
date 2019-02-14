@@ -224,6 +224,7 @@ unsupervised clustering techniques used to determine the similarity of patterns 
 
 random forest & neural network used to compare the accuracy of forecasting how many bicycles will be at a given station and time to two baselines + EVALUATION 
 
+Studies of shared bicycle systems have recently appeared in the data mining literature, and are often subjects for online data visualisations. -----> http://bikes.oobrien.com/global.php
 
 
 
