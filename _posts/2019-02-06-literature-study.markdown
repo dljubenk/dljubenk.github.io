@@ -226,7 +226,8 @@ random forest & neural network used to compare the accuracy of forecasting how m
 
 Studies of shared bicycle systems have recently appeared in the data mining literature, and are often subjects for online data visualisations. -----> http://bikes.oobrien.com/global.php
 
-
+Froehlich et al. (2009) were the first To apply clustering techniques and forecasting models to identify patterns of behaviour in
+stations in Barcelona’s ‘‘Bicing’’ system, explaining results according to stations’ location and time of day. 
 
 
 
