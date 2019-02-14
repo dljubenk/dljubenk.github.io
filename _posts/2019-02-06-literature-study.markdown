@@ -216,6 +216,10 @@ Unsupervised learning used to show intrinsic similarities between the cities
 
 Predictability of stations' occupancy (and comparing cross-city error for each)
 
+-> the common trend is that of using interactions with web services to learn about behaviour, and design future applications that leverage any predictability and insight derived from the data
+
+
+
 
 
 
