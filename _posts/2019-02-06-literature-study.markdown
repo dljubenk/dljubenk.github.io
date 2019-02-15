@@ -228,7 +228,7 @@ Focuses on <mark>fullness of stations</mark>, and NOT mobility flows!
 
 <mark>Predictability</mark> of stations' <mark>occupancy</mark> (and comparing cross-city <mark>error</mark> for each)
 
-<mark>unsupervised clustering</mark> techniques used to determine the similarity of patterns (heterogeneity only in bigger systems)
+<mark>unsupervised clustering</mark> techniques used to determine the similarity of patterns (heterogeneity found only in bigger systems)
 
 <mark>random forest & neural network</mark> used to compare the <mark>accuracy</mark> of forecasting how many bicycles will be at a given station and time to two baselines + EVALUATION 
 
