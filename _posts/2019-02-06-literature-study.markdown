@@ -222,17 +222,15 @@ Number of stations: 996
 
 Number of samples: 10<sup>8</sup>
 
-Focuses on State of Stations, and NOT mobility flows!
+Focuses on <mark>fullness of stations</mark>, and NOT mobility flows!
 
-Unsupervised learning used to show intrinsic similarities between the cities
+<mark>Unsupervised learning</mark> used to show the intrinsic similarities between the cities.
 
-Predictability of stations' occupancy (and comparing cross-city error for each)
+<mark>Predictability</mark> of stations' <mark>occupancy</mark> (and comparing cross-city <mark>error</mark> for each)
 
--> the common trend is that of using interactions with web services to learn about behaviour, and design future applications that leverage any predictability and insight derived from the data
+<mark>unsupervised clustering</mark> techniques used to determine the similarity of patterns (heterogeneity only in bigger systems)
 
-unsupervised clustering techniques used to determine the similarity of patterns (heterogeneity only in bigger systems)
-
-random forest & neural network used to compare the accuracy of forecasting how many bicycles will be at a given station and time to two baselines + EVALUATION 
+<mark>random forest & neural network</mark> used to compare the <mark>accuracy</mark> of forecasting how many bicycles will be at a given station and time to two baselines + EVALUATION 
 
 Studies of shared bicycle systems have recently appeared in the data mining literature, and are often subjects for online data visualisations. -----> http://bikes.oobrien.com/global.php
 
