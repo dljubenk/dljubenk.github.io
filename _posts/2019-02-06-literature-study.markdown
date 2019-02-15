@@ -51,7 +51,8 @@ In total, 142 papers in the domain of smart cities transportation had been colle
 
 ![Markdown Image][1]
 
-MOTIVATION: > explosive growth in U.S. dockless bikesharing services provided limited time for municipal governments to set regulations or assess their impact dock bikesharing programs. This paper presents an exploratory understanding of the differences in activity
+MOTIVATION: 
+>explosive growth in U.S. dockless bikesharing services provided limited time for municipal governments to set regulations or assess their impact dock bikesharing programs. This paper presents an exploratory understanding of the differences in activity
 patterns between docked and dockless bike-sharing programs, which can be used to better inform urban planners, transportation engineers,
 and the general public.
 
