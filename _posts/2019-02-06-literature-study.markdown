@@ -210,6 +210,9 @@ motifs (loop, chain, star) and temporal evolution dynamics with extended time wi
 
 ![Markdown Image][4]
 
+MOTIVATION: 
+>Bikesharing Systems have the problem of balancing between system USAGE and DEMAND, which leads to a lack of available bicycles or free parking spaces at stations at various times of the day [(Shawcross et al. 2010] (https://www.london.gov.uk/sites/default/files/gla_migrate_files_destination/FINAL%20REPORT.pdf)
+
 
 Time span: 4.5 months
 
@@ -219,7 +222,7 @@ Number of stations: 996
 
 Number of samples: 10<sup>8</sup>
 
-Focuses on State on Stations, and NOT mobility flows!
+Focuses on State of Stations, and NOT mobility flows!
 
 Unsupervised learning used to show intrinsic similarities between the cities
 
