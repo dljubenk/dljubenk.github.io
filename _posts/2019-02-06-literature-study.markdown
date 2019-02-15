@@ -34,6 +34,8 @@ TfL = Transport for London
 
 EDA = Exploratory Data Analysis
 
+CNN = Convolutional Neural Network
+
 ## Collection Process
 
 A reference management software used to cataloguise relevant papers is called [Mendeley](https://www.mendeley.com/newsfeed), and it is quite similar to [Zotero](https://www.zotero.org/).
