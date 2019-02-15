@@ -84,7 +84,7 @@ calculated again ->  mean distance to 300.1m and median to 180.2 m. Conclusion: 
 
 Road network -> shortest path was calculated between each start and end location using <mark>Dijkstra’s algorithm</mark> as implemented in [pgRouting](http://pgrouting.org/).  Once routing analysis was complete, point geometries were generated every 10 m along each of the resulting line geometries. Using these points, kernel density estimates were created for dock and dockless independently, producing the two heat maps. Normalizing the kernel density values, we again calculate subtraction of the two.
 
-Suggestions: other modes of transportations, examine the behavioral motivatio for selecting certain services
+Suggestions: other modes of transportations, examine the behavioral motivation for selecting certain services
 
 
 ---
