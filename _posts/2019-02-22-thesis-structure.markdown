@@ -39,7 +39,7 @@ Structure of the document will include following units:
 
 * Abbreviations & Definitions
 
-* 1. Introduction
+* 1.) Introduction
 
 * 1.1 Problem
 
@@ -57,23 +57,23 @@ Structure of the document will include following units:
 
 * 1.8 Outline
 
-* 2. Background
+* 2.) Background
 
-* 3.
+* 3.)
 
-* 4. Method
+* 4.) Method
 
-* 5. Discussion
+* 5.) Discussion
 
-* 6. Conclusion
+* 6.) Conclusion
 
 * 6.1 Future Work
 
 * 6.2 Practical Take-Aways
 
-* 7. References
+* 7.) References
 
-* 8. Declaration???
+* 8.) Declaration???
 
 * A. Additional Background 
 
