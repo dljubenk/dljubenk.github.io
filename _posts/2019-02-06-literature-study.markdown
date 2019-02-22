@@ -265,7 +265,7 @@ Aggregate occupancy time series are calculated -> Pearson correlation used for c
 ---
 ### "Mobility Modeling and Prediction in Bike-Sharing Systems"
 #### Zidong Yang, Ji Hu, Yuanchao Shu, Peng Cheng, Jiming Chen, Thomas Moscibroda
-##### Zhejiang University, Hangzhou, China Microsoft Research Asia
+##### Zhejiang University in Hangzhou, Microsoft Research Asia
 ###### June 2016
 
 [LINK](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf)
