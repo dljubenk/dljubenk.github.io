@@ -260,9 +260,26 @@ Aggregate occupancy time series are calculated -> Pearson correlation used for c
 - selected a metric to measure the similarity between station vectors -> distance metric based on the dynamic time warping (DTW) algorithm (Berndt and Clifford1994) = technique for finding the optimal alignment of two temporal sequences - also uses a 1-h Sakoe–Chiba band (1978)
 
 
+---
+## Paper 5
+---
+### "Mobility Modeling and Prediction in Bike-Sharing Systems"
+#### Zidong Yang, Ji Hu, Yuanchao Shu, Peng Cheng, Jiming Chen, Thomas Moscibroda
+##### Zhejiang University, Hangzhou, China Microsoft Research Asia
+###### June 2016
+
+[LINK](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/mobisys16bike.pdf)
+
+![Markdown Image][5]
+
+MOTIVATION: 
+>Certain problems for both users and operators. The primary issue among them is the uneven distribution of bicycles due to the demand and supply changing trends. This demands better bike re-balancing strategies which depend highly on bicycle modeling and prediction.
+
 
 
 [1]: /assets/images/paper1.png
 [2]: /assets/images/paper2.jpg
 [3]: /assets/images/paper3.png
 [4]: /assets/images/paper4.png
+[5]: /assets/images/paper5.png
+
