@@ -282,6 +282,9 @@ CONTRIBUTION:
 EVALUATION:
 > relative error of prediction
 
+focuses on Hangzhou in China.
+
+around 2800 stations and  103 million records.
 
 
 [1]: /assets/images/paper1.png
