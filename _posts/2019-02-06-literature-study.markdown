@@ -277,6 +277,7 @@ MOTIVATION:
 
 CONTRIBUTION:
 > 1.) spatio-temporal bicycle mobility model based on historical data
+
 > 2.) traffic prediction model mechanism per each station woth sub-hour granularity
 
 EVALUATION:
