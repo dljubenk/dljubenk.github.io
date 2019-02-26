@@ -323,9 +323,9 @@ DATA:
 
 >TEST SET: January, February, and March of 2018 
 
-800 Stations
+>800 Stations
 
-New York City + Jersey City
+>New York City + Jersey City
 
 EVALUATION:
 >Root Mean Squared Error (RMSE)
