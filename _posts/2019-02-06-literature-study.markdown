@@ -312,9 +312,11 @@ MOTIVATION:
 >bike sharing demand and supply
 
 CONTRIBUTION:
-> 1.) 
+> 1.) a real-time predicting method
 
-> 2.) 
+> 2.) community detection + LSTM (Long Short-Term Memory) model - Recurrent Neural Network
+
+> 3.) bike data + meteorology data
 
 EVALUATION:
 >Root Mean Squared Error (RMSE)
