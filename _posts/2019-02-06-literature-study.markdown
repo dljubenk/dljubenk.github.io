@@ -308,7 +308,16 @@ PART 3: random forest theory -> predict check outs given: time, weather, real-ti
 
 ![Markdown Image][6]
 
+MOTIVATION: 
+>bike sharing demand and supply
 
+CONTRIBUTION:
+> 1.) 
+
+> 2.) 
+
+EVALUATION:
+>Root Mean Squared Error (RMSE)
 
 
 
