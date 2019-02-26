@@ -314,7 +314,7 @@ MOTIVATION:
 CONTRIBUTION:
 > 1.) a real-time predicting method
 
-> 2.) community detection + LSTM (Long Short-Term Memory) model - Recurrent Neural Network
+> 2.) community detection + LSTM (Long Short-Term Memory) RNN (Recurrent Neural Network) model
 
 > 3.) bike data + meteorology data
 
