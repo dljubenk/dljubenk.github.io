@@ -278,14 +278,25 @@ MOTIVATION:
 CONTRIBUTION:
 > 1.) spatio-temporal bicycle mobility model based on historical data
 
-> 2.) traffic prediction model mechanism per each station woth sub-hour granularity
+> 2.) traffic prediction model mechanism per each station with sub-hour granularity
 
 EVALUATION:
-> relative error of prediction
+> relative error of an obtained prediction
 
-focuses on Hangzhou in China.
+- focuses on Hangzhou in China
 
-around 2800 stations and  103 million records.
+- around 2800 stations and 103 million records
+
+- 1 year span
+
+PART 1: spatio-temporal model
+
+PART 2: estimate the number and time of check in at different stations
+
+PART 3: random forest theory -> predict check outs given: time, weather, real-time bike availability
+
+
+
 
 
 [1]: /assets/images/paper1.png
