@@ -321,6 +321,12 @@ CONTRIBUTION:
 EVALUATION:
 >Root Mean Squared Error (RMSE)
 
+Deep LSTM = more than 1 layer LSTM -> here, 2-layer LSTM is used
+
+Why Deep LSTM?
+
+It can handle large mount of data in a small amount of time.
+
 
 
 [1]: /assets/images/paper1.png
