@@ -318,6 +318,15 @@ CONTRIBUTION:
 
 > 3.) bike data + meteorology data
 
+DATA:
+>TRAINING SET: Citi Bike System Data of 2017
+
+>TEST SET: January, February, and March of 2018 
+
+800 Stations
+
+New York City + Jersey City
+
 EVALUATION:
 >Root Mean Squared Error (RMSE)
 
@@ -327,6 +336,8 @@ Why Deep LSTM?
 
 It can handle large mount of data in a small amount of time.
 
+SUGGESTIONS:
+>How to use these predictions in order to suggest how to distribute the bikes specifically to each station
 
 
 [1]: /assets/images/paper1.png
