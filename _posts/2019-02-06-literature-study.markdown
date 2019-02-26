@@ -295,6 +295,19 @@ PART 2: estimate the number and time of check in at different stations
 
 PART 3: random forest theory -> predict check outs given: time, weather, real-time bike availability
 
+---
+## Paper 6
+---
+### "Predicting Bike Sharing Demand Using Recurrent Neural Networks"
+#### Yan Pan, Ray Chen Zheng, Jiaxi Zhang, Xin Yao
+##### The High School Affiliated to Renmin University of China, Beijing
+##### Institute of Remote Sensing and Geographical Information Systems, Peking University
+###### 2018
+
+[LINK](https://www.sciencedirect.com/science/article/pii/S1877050919302364/pdf?md5=17d9747c4ced4e4bd10d4345573588e0&pid=1-s2.0-S1877050919302364-main.pdf)
+
+![Markdown Image][6]
+
 
 
 
@@ -304,4 +317,6 @@ PART 3: random forest theory -> predict check outs given: time, weather, real-ti
 [3]: /assets/images/paper3.png
 [4]: /assets/images/paper4.png
 [5]: /assets/images/paper5.png
+[6]: /assets/images/paper6.png
+
 
