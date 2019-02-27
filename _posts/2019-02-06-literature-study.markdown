@@ -373,6 +373,10 @@ METHODS:
 
 > optimization formulations built on the stochastic models
 
+TERMINOLOGY:
+
+>  User Dissatisfaction Dunctions (UDFs) - as first defined by [Raviv and Kolka (2013)](https://www.researchgate.net/publication/258222970_Optimal_inventory_management_of_a_bike-sharing_station)
+
 
 
 [1]: /assets/images/paper1.png
