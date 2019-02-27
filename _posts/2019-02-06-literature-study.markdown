@@ -339,6 +339,19 @@ It can handle large mount of data in a small amount of time.
 SUGGESTIONS:
 >How to use these predictions in order to suggest how to distribute the bikes specifically to each station
 
+---
+## Paper 6
+---
+### "Predicting Bike Sharing Demand Using Recurrent Neural Networks"
+#### Yan Pan, Ray Chen Zheng, Jiaxi Zhang, Xin Yao
+##### The High School Affiliated to Renmin University of China, Beijing
+##### Institute of Remote Sensing and Geographical Information Systems, Peking University
+###### 2018
+
+[LINK](https://people.orie.cornell.edu/shane/pubs/RidingTandemWithMotivate.pdf)
+
+![Markdown Image][7]
+
 
 [1]: /assets/images/paper1.png
 [2]: /assets/images/paper2.jpg
@@ -346,5 +359,5 @@ SUGGESTIONS:
 [4]: /assets/images/paper4.png
 [5]: /assets/images/paper5.png
 [6]: /assets/images/paper6.png
-
+[7]: /assets/images/paper7.png
 
