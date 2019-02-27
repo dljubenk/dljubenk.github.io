@@ -375,6 +375,10 @@ METHODS:
 
 > Poisson equation for continuous-time Markov chains (for computing UDFs)
 
+> a nonlinear integer program (IP) 
+
+> Discrete convexity (multimodularity)
+
 
 TERMINOLOGY:
 
