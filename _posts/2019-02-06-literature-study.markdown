@@ -366,6 +366,14 @@ CONTRIBUTION:
 
 > system designs that require less rebalancing = incentive program called ["Bike Angels"](https://www.citibikenyc.com/bikeangels/) that crowdsources rebalancing through the help of user base
 
+METHODS:
+> stochastic modeling
+
+> data analysis to fit stochastic models
+
+> optimization formulations built on the stochastic models
+
+
 
 [1]: /assets/images/paper1.png
 [2]: /assets/images/paper2.jpg
