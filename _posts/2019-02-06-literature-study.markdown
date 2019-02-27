@@ -364,7 +364,7 @@ MOTIVATION:
 CONTRIBUTION:
 > rebalance more efficiently = mathematical optimization model
 
-> system designs that require less rebalancing = incentive program called "Bike Angels" that crowdsources rebalancing through the help of user base
+> system designs that require less rebalancing = incentive program called ["Bike Angels"](https://www.citibikenyc.com/bikeangels/) that crowdsources rebalancing through the help of user base
 
 
 [1]: /assets/images/paper1.png
