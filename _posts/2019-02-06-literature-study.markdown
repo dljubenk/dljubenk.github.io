@@ -343,7 +343,7 @@ SUGGESTIONS:
 ## Paper 7
 ---
 ### "Analytics and Bikes: Riding Tandem with Motivate to Improve Mobility"
-#### Daniel Freund,nShane G. Henderson, Eoin O’Mahony, David B. Shmoys
+#### Daniel Freund, Shane G. Henderson, Eoin O’Mahony, David B. Shmoys
 ##### School of Operations Research and Information Engineering, Cornell University, Ithaca
 ##### Marketplace Labs, Lyft Inc.
 ##### Uber Technologies Inc.
