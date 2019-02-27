@@ -353,6 +353,19 @@ SUGGESTIONS:
 
 ![Markdown Image][7]
 
+PROBLEM:
+> asymmetric demand due to “tidal” commuter flows
+
+> process of rebalancing = largest operational expense
+
+MOTIVATION:
+> Improve the allocation of docks to stations, and the creation of an incentive scheme to crowdsource rebalancing
+
+CONTRIBUTION:
+> rebalance more efficiently = mathematical optimization model
+
+> system designs that require less rebalancing = incentive program called "Bike Angels" that crowdsources rebalancing through the help of user base
+
 
 [1]: /assets/images/paper1.png
 [2]: /assets/images/paper2.jpg
