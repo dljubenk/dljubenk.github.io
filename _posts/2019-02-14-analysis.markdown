@@ -17,3 +17,23 @@ description: Analysis
 jemoji: '<img class="emoji" title=":hammer_and_wrench:" alt=":hammer_and_wrench:" src="https://assets.github.com/images/icons/emoji/unicode/1f6E0.png" height="20" width="20" align="absmiddle">'
 
 ---
+
+## Observed Methods
+
+LSTM RNN = Long Short-Term Memory Recurrent Neural Network
+
+RANDOM FOREST
+
+## Observed Evaluations
+
+RMSE = root mean square error
+
+RELATIVE ERROR
+
+---
+![Markdown Image][1]
+
+---
+
+
+[1]: /assets/images/zoo.png
