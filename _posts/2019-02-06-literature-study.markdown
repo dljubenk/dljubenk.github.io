@@ -340,7 +340,7 @@ SUGGESTIONS:
 >How to use these predictions in order to suggest how to distribute the bikes specifically to each station
 
 ---
-## Paper 6
+## Paper 7
 ---
 ### "Analytics and Bikes: Riding Tandem with Motivate to Improve Mobility"
 #### Daniel Freund,nShane G. Henderson, Eoin O’Mahony, David B. Shmoys
