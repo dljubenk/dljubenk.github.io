@@ -373,10 +373,13 @@ METHODS:
 
 > optimization formulations built on the stochastic models
 
+> Poisson equation for continuous-time Markov chains (for computing UDFs)
+
+
 TERMINOLOGY:
 
->  User Dissatisfaction Dunctions (UDFs) - as first defined by [Raviv and Kolka (2013)](https://www.researchgate.net/publication/258222970_Optimal_inventory_management_of_a_bike-sharing_station)
-
+>  User Dissatisfaction Dunctions (UDFs) - as first defined by [Raviv and Kolka (2013)](https://www.researchgate.net/publication/258222970_Optimal_inventory_management_of_a_bike-sharing_station) - they map a station’s
+capacity and inventory level at the beginning of a planning period to the expected number of out-of-stock events over the course of the period
 
 
 [1]: /assets/images/paper1.png
