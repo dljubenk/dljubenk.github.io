@@ -342,10 +342,11 @@ SUGGESTIONS:
 ---
 ## Paper 6
 ---
-### "Predicting Bike Sharing Demand Using Recurrent Neural Networks"
-#### Yan Pan, Ray Chen Zheng, Jiaxi Zhang, Xin Yao
-##### The High School Affiliated to Renmin University of China, Beijing
-##### Institute of Remote Sensing and Geographical Information Systems, Peking University
+### "Analytics and Bikes: Riding Tandem with Motivate to Improve Mobility"
+#### Daniel Freund,nShane G. Henderson, Eoin O’Mahony, David B. Shmoys
+##### School of Operations Research and Information Engineering, Cornell University, Ithaca
+##### Marketplace Labs, Lyft Inc.
+##### Uber Technologies Inc.
 ###### 2018
 
 [LINK](https://people.orie.cornell.edu/shane/pubs/RidingTandemWithMotivate.pdf)
