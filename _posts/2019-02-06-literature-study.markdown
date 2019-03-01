@@ -398,6 +398,19 @@ capacity and inventory level at the beginning of a planning period to the expect
 
 ![Markdown Image][8]
 
+---
+## Paper 9
+---
+### "Prediction of Station Level Demand in a Bike Sharing System using Recurrent Neural Networks"
+#### Po-Chuan Chen, He-Yen Hsieh, Xanno Kharis Sigalingging, Yan-Ru Chen, Jenq-Shiou Leu
+##### Department of Electronic and Computer Engineering, National Taiwan University of Science and Technology
+###### 2017
+
+[LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8108575)
+
+![Markdown Image][9]
+
+
 
 
 
@@ -409,4 +422,5 @@ capacity and inventory level at the beginning of a planning period to the expect
 [6]: /assets/images/paper6.png
 [7]: /assets/images/paper7.png
 [8]: /assets/images/paper8.png
+[9]: /assets/images/paper9.png
 
