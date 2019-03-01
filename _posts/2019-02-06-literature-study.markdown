@@ -386,6 +386,21 @@ TERMINOLOGY:
 capacity and inventory level at the beginning of a planning period to the expected number of out-of-stock events over the course of the period
 
 
+---
+## Paper 8
+---
+### "Large-Scale Trip Planning for Bike-Sharing Systems"
+#### Zhi Li, [Jianhui Zhang](http://www.jhzhang.cn/), Jiayu Gan, Pengqian Lu, Fei Lin
+##### College of Computer Science and Technology, Hangzhou Dianzi University
+###### 2018
+
+[LINK](http://zhili42.com/files/MASS17-bike.pdf)
+
+![Markdown Image][8]
+
+
+
+
 [1]: /assets/images/paper1.png
 [2]: /assets/images/paper2.jpg
 [3]: /assets/images/paper3.png
@@ -393,4 +408,5 @@ capacity and inventory level at the beginning of a planning period to the expect
 [5]: /assets/images/paper5.png
 [6]: /assets/images/paper6.png
 [7]: /assets/images/paper7.png
+[8]: /assets/images/paper8.png
 
