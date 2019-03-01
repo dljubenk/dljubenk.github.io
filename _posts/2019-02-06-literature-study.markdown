@@ -38,6 +38,8 @@ CNN = Convolutional Neural Network
 
 RNN = Recurrent Neural Network
 
+FNN = Feedforward Neural Network
+
 LSTM = Long Short-Term Memory
 
 RMSE = Root Mean Squared Error
@@ -51,6 +53,11 @@ MAPE = Mean Absolute Percentage Error
 UDF = User Dissatisfaction Functions
 
 BPTT = Back-Propagation Through Time
+
+OLS = Ordinary Least-Squares Regression
+
+RF = Random Forest
+
 
 ## Collection Process
 
