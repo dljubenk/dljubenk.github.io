@@ -42,6 +42,8 @@ FNN = Feedforward Neural Network
 
 LSTM = Long Short-Term Memory
 
+GRU = Gated Recurrent Units
+
 RMSE = Root Mean Squared Error
 
 MSE = Mean Absolute Error
