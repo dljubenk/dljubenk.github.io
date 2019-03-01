@@ -410,8 +410,28 @@ capacity and inventory level at the beginning of a planning period to the expect
 
 ![Markdown Image][9]
 
+PROBLEM:
+>  bike shortage problem due to uneven bikes distribution
+
+MOTIVATION:
+> create efficient online balancing strategy
+
+CONTRIBUTION:
+> most researches are about predicting global rental demand or rental demand at cluster level, not at station level (like this paper) which helps bike rebalance strategies most
+
+> proposed architecture make prediction for all stations at once, which is highly efficiency for online process
 
 
+DATA:
+> New York Citi Bike dataset 
+
+> period observed: 2014 = 8,081,216 individual trips.
+
+METHODS:
+> RNN used on station level for both rental and return
+
+EVALUATION:
+>Root Mean Squared Error (RMSE), Mean Absolute Error (MAE)
 
 
 [1]: /assets/images/paper1.png
