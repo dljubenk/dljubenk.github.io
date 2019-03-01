@@ -46,6 +46,8 @@ MSE = Mean Absolute Error
 
 RMSLE = Root Mean Squared Logarithmic Error
 
+MAPE = Mean Absolute Percentage Error
+
 UDF = User Dissatisfaction Functions
 
 BPTT = Back-Propagation Through Time
