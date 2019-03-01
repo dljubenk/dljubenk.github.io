@@ -36,6 +36,19 @@ EDA = Exploratory Data Analysis
 
 CNN = Convolutional Neural Network
 
+RNN = Recurrent Neural Network
+
+LSTM = Long Short-Term Memory
+
+RMSE = Root Mean Squared Error
+
+MSE = Mean Absolute Error
+
+M/M/1 =
+
+
+
+
 ## Collection Process
 
 A reference management software used to cataloguise relevant papers is called [Mendeley](https://www.mendeley.com/newsfeed), and it is quite similar to [Zotero](https://www.zotero.org/).
