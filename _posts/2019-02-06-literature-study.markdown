@@ -392,7 +392,7 @@ capacity and inventory level at the beginning of a planning period to the expect
 ### "Large-Scale Trip Planning for Bike-Sharing Systems"
 #### Zhi Li, [Jianhui Zhang](http://www.jhzhang.cn/), Jiayu Gan, Pengqian Lu, Fei Lin
 ##### College of Computer Science and Technology, Hangzhou Dianzi University
-###### 2018
+###### 2017
 
 [LINK](http://zhili42.com/files/MASS17-bike.pdf)
 
