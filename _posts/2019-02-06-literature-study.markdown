@@ -44,10 +44,13 @@ RMSE = Root Mean Squared Error
 
 MSE = Mean Absolute Error
 
+RMSLE = Root Mean Squared Logarithmic Error
+
 M/M/1 =
 
 UDF = User Dissatisfaction Functions
 
+BPTT = Back-Propagation Through Time
 
 ## Collection Process
 
