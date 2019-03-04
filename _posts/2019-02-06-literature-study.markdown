@@ -455,6 +455,23 @@ DATA:
 METHODS:
 > RNN used on station level for both rental and return
 
+> LOSS FUNCTION
+
+> Backpropagation through time (BPTT)
+
+> Vanishing Gradient Problem
+
+> Data Exploration
+
+> Correlation: Weather and Rentals
+
+BASELINE APPROACHES:
+> Ordinary Least-Squares Regression (OLS)
+
+> Random Forest (RF) - with 50 estimators 
+
+> Feedforward Neural Network (FNN) - 4 layers with ReLU (Rectified Linear Unit) activation functions
+
 EVALUATION:
 >Root Mean Squared Error (RMSE), Mean Absolute Error (MAE)
 
