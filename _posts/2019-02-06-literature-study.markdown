@@ -62,6 +62,8 @@ RF = Random Forest
 
 ReLU = Rectified Linear Unit
 
+ELU = Exponential Linear Unit
+
 
 ## Collection Process
 
