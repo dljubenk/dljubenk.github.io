@@ -68,6 +68,8 @@ BN = Batch Normalization
 
 RBM = Restricted Boltzmann Machine
 
+ADAM = ADAptive Moment estimation
+
 
 ## Collection Process
 
