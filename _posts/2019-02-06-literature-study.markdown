@@ -60,6 +60,8 @@ OLS = Ordinary Least-Squares Regression
 
 RF = Random Forest
 
+ReLU = Rectified Linear Unit
+
 
 ## Collection Process
 
