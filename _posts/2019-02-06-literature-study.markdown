@@ -36,7 +36,7 @@ EDA = Exploratory Data Analysis
 
 CNN = Convolutional Neural Network
 
-RNN = Recurrent Neural Network
+RNN = Recurrent Neural Network (not to be confused with Recursive Neural Networks)
 
 FNN = Feedforward Neural Network
 
