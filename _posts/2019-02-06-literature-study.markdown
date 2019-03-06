@@ -64,6 +64,8 @@ ReLU = Rectified Linear Unit
 
 ELU = Exponential Linear Unit
 
+BN = Batch Normalization
+
 
 ## Collection Process
 
