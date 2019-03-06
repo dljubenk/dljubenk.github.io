@@ -66,6 +66,8 @@ ELU = Exponential Linear Unit
 
 BN = Batch Normalization
 
+RBM = Restricted Boltzmann Machine
+
 
 ## Collection Process
 
