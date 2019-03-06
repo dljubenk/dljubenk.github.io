@@ -37,7 +37,7 @@ RELATIVE ERROR
 
 ## EDA
 
-By inspecting BLUEbikes dataset for the year of 2018, instead of 365 days in a year - only 364 were observed. Upon further examination, it was clear that 14th of March was missing, meaning that no rentals have been made that day. To fix the dataset, a single entry for that day was added in Python with the value of 0. In order to understand what had happened that day, a meteorology dataset had to be checked. A suspected, there was a snow blizzard that day in Boston area. Moreover, an archived notification had been retrieved from the BLUEbikes website: [LINK](https://www.bluebikes.com/blog/system-alert-the-hubway-system-has-reopened-wed-3-14). This, once again, confirmed how important the weather dataset is when it will be used for predicting the number of rentals.
+By inspecting BLUEbikes dataset for the year of 2018, instead of 365 days in a year - only 364 were observed. Upon further examination, it was clear that 14th of March was missing, meaning that no rentals have been made that day. To fix the dataset, a single entry for that day was added in Python with the value of 0. In order to understand what had happened that day, a meteorology dataset had to be checked. A suspected, there was a snow blizzard that day in Boston area. Moreover, an archived notification had been retrieved from the BLUEbikes website: [LINK](https://www.bluebikes.com/blog/system-alert-the-hubway-system-has-reopened-wed-3-14). This, once again, confirmed how important the weather dataset is, and why it should be included when predicting the number of rentals.
 
 The following image depicts the number of rentals throughout the year of 2018. Notice some significant drops that were caused by the snowy weather.
 
