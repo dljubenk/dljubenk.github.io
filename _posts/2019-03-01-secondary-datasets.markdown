@@ -1,7 +1,7 @@
 ---
 title: "Secondary Datasets :chart_with_upwards_trend: :chart_with_downwards_trend:"
 layout: post
-date: 2019-03-08 22:44
+date: 2019-03-01 22:44
 image: /assets/images/lab.jpg
 headerImage: false
 tag:
@@ -25,7 +25,7 @@ Weather dataset had been acquired from [Kaggle](https://www.kaggle.com/jqpeng/bo
 
 ![Markdown Image][1]
 
-Upon closer examination, it is important to notice that for the entry of, for example, 1.15 inch of snowfall it should be read as 1.15 foot which is 13.8 inch in total or around 35 cm. This conversion matches with the report for March 13 2018 when record snowfall was measured in Boston. ([LINK](https://www.boston.com/news/weather/2018/03/13/massachusetts-snow-accumulation-totals-march-13-2018))
+Upon closer examination, it is important to notice that for the entry of, for example, 1.15 inch of snowfall it should be read as 1.15 foot which is 13.8 inch in total or around 35 cm. This conversion matches with the report for March 13 2018. when record snowfall was measured in Boston. ([LINK](https://www.boston.com/news/weather/2018/03/13/massachusetts-snow-accumulation-totals-march-13-2018))
 
 
 
