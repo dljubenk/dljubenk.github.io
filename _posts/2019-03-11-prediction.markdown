@@ -1,5 +1,5 @@
 ---
-title: "Prediction :Brain:"
+title: "Prediction :em-brain:"
 layout: post
 date: 2019-03-11 22:44
 image: /assets/images/lab.jpg
@@ -14,4 +14,4 @@ tag:
 category: blog
 author: Davor Ljubenkov
 description: Prediction
-jemoji: '<img class="emoji" title=":Brain:" alt=":Brain:" src="https://assets.github.com/images/icons/emoji/unicode/1f9e0.png" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":em-brain:" alt=":em-brain:" src="https://assets.github.com/images/icons/emoji/unicode/1f9e0.png" height="20" width="20" align="absmiddle">'
