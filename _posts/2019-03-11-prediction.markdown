@@ -1,5 +1,5 @@
 ---
-title: "Prediction :em-brain:"
+title: "Prediction <i class="em em-brain"></i>"
 layout: post
 date: 2019-03-11 22:44
 image: /assets/images/lab.jpg
