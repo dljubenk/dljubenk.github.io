@@ -1,7 +1,7 @@
 ---
 title: "Prediction <i class="em em-brain"></i>"
 layout: post
-date: 2019-03-11 22:44
+date: 2019-03-08 22:44
 image: /assets/images/lab.jpg
 headerImage: false
 tag:
