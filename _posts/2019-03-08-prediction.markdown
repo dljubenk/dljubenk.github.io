@@ -1,5 +1,5 @@
 ---
-title: "Prediction"
+title: "Prediction :space_invader:"
 layout: post
 date: 2019-03-08 22:44
 image: /assets/images/lab.jpg
