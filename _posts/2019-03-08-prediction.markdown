@@ -14,3 +14,7 @@ tag:
 category: blog
 author: Davor Ljubenkov
 description: Prediction
+
+jemoji: '<img class="emoji" title=":space_invader:" alt=":space_invader:" src="https://assets.github.com/images/icons/emoji/unicode/1f47e.png" height="20" width="20" align="absmiddle">'
+
+---
