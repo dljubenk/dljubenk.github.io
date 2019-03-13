@@ -186,6 +186,8 @@ Loss function is mean squared error.
 
 Number of epochs is 500.
 
+---> ELAPSED TIME = 186.6002163887024 seconds = 3.11 minutes
+
 See outputs below:
 
 ![Markdown Image][2]
