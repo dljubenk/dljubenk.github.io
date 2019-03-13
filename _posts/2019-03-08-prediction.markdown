@@ -127,11 +127,18 @@ Things to consider for future steps:
 
 - Normalization of values (by dividing each value with the maximum observed)
 
+- Repeat the same procedure but instead of the total number of rentals overall, try and investigate total number of rentals for a single (or multiple) station of interest
+
 ---
 
 The following image depicts the number of rentals:
 
 ![Markdown Image][1]
+
+Things to consider for future steps:
+
+- what about the anomalies (zero values or close to zero values)? Possibility to replace them with the average of that month?
+
 
 
 
