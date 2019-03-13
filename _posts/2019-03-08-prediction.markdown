@@ -21,7 +21,7 @@ jemoji: '<img class="emoji" title=":space_invader:" alt=":space_invader:" src="h
 
 # Using RNN (Recurrent Neural Network) for time series prediction
 
- Time series in this case are describing frequency of bike sharing rides for each day.
+ Time series in this case are describing frequency of bike sharing rides (by observing the total quantity of rents) for each day.
  
  Main dataset used is the BLUEbikes data which includes the period of 2016, 2017 and first 3 months of 2018.
  
