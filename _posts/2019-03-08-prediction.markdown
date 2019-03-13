@@ -43,7 +43,9 @@ FEATURE ENGINEERING -> not used but could be considered as a next step.
 
 >  Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. Feature engineering is fundamental to the application of machine learning, and is both difficult and expensive. The need for manual feature engineering can be obviated by automated feature learning. Feature engineering is an informal topic, but it is considered essential in applied machine learning. [WIKI](https://en.wikipedia.org/wiki/Feature_engineering)
 
-Total data is split into:
+Number of samples is 821.
+
+Total data (2 years and 3 months of worth) is split into:
 
 - Train Data
 
@@ -51,3 +53,4 @@ Total data is split into:
 
 - Holdout Data
 
+Performance of the model calculated by: <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{1-mae}{mean}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{1-mae}{mean}" 
