@@ -33,4 +33,10 @@ jemoji: '<img class="emoji" title=":space_invader:" alt=":space_invader:" src="h
  
  - Simple RNN
  
+ ##Time Series Generator
  
+In a nutshell, sequential models have 3 dimension. These dimensions are: sample size, time steps, and features. Preparing 3D input is not an easy task. So, instead of trying to create a 3D array, TimeSeriesGenerator class is used. The advantage of this class is the ability to set the batch size.
+
+FEATURE ENGINEERING -> not used but could be considered as a next step.
+
+>  Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. Feature engineering is fundamental to the application of machine learning, and is both difficult and expensive. The need for manual feature engineering can be obviated by automated feature learning. Feature engineering is an informal topic, but it is considered essential in applied machine learning. [WIKI](https://en.wikipedia.org/wiki/Feature_engineering)
