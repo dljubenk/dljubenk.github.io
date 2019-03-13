@@ -139,6 +139,7 @@ Things to consider for future steps:
 
 - what about the anomalies (zero values or close to zero values)? Possibility to replace them with the average of that month?
 
+## One Hot Encoding
 
 
 
