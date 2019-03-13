@@ -62,3 +62,53 @@ Performance of the model calculated by:
 ---
 
 ## Data Preprocessing
+
+Attributes:
+
+- <mark>starttime</mark> (year, month and day of aggregated bike share rides) - can be droped out of table for future steps
+
+- <mark>freq</mark> (total number of bike share rides executed on the day observed)
+
+- <mark>freqscaled</mark> (freq scaled and reshaped to be a value between 0 and 1)
+
+- <mark>Year</mark>
+
+- <mark>Month</mark>
+
+- <mark>Day</mark>
+
+- <mark>High Temp (F)</mark>
+
+- <mark>Avg Temp (F)</mark>	
+
+- <mark>Low Temp (F)</mark>
+
+- <mark>High Dew Point (F)</mark>
+
+- <mark>Avg Dew Point (F)</mark>
+
+- <mark>Low Dew Point (F)</mark>
+
+- <mark>High Humidity (%)</mark>	
+
+- <mark>Avg Humidity (%)</mark>
+
+- <mark>Low Humidity (%)</mark>	
+
+- <mark>High Visibility (mi)</mark>
+
+- <mark>Avg Visibility (mi)</mark>
+
+- <mark>Low Visibility (mi)</mark>
+
+- <mark>High Wind (mph)</mark>
+
+- <mark>Avg Wind (mph)</mark>	
+
+- <mark>High Wind Gust (mph)</mark>	
+
+- <mark>Snowfall (in)</mark>
+
+- <mark><mark>Precip (in)</mark>
+
+- <mark>Events</mark>
