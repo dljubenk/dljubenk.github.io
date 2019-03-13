@@ -27,8 +27,10 @@ jemoji: '<img class="emoji" title=":space_invader:" alt=":space_invader:" src="h
  
  Secondary dataset is weaher data for the same time range.
  
- Methods applie are include:
+ Methods applied from Keras library include:
  
- - TimeSeriesGenerator
+ - Time Series Generator
  
- - SimpleRNN
+ - Simple RNN
+ 
+ 
