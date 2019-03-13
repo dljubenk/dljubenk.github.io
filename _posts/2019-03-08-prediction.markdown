@@ -176,9 +176,9 @@ n_input = 10 (for testing reasons it was changed to 20)
 
 Activation function used are:
 
-- relu for RNN
+- <mark>relu</mark> for RNN
 
-- tanh for Output Layer. 
+- <mark>tanh</mark> for Output Layer. 
 
 Optimizer used  is adam. Learning rate is 0.01
 
