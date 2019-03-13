@@ -19,7 +19,7 @@ jemoji: '<img class="emoji" title=":space_invader:" alt=":space_invader:" src="h
 
 ---
 
-## Using RNN (Recurrent Neural Network) for time series prediction
+# Using RNN (Recurrent Neural Network) for time series prediction
 
  Time series in this case are describing frequency of bike sharing rides for each day.
  
@@ -33,7 +33,7 @@ jemoji: '<img class="emoji" title=":space_invader:" alt=":space_invader:" src="h
  
  - Simple RNN
  
- # Time Series Generator
+ ## Time Series Generator
  
 In a nutshell, sequential models have 3 dimension. These dimensions are: sample size, time steps, and features. Preparing 3D input is not an easy task. So, instead of trying to create a 3D array, TimeSeriesGenerator class is used. The advantage of this class is the ability to set the batch size.
 
