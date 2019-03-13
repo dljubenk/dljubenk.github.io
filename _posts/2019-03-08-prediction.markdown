@@ -192,7 +192,22 @@ See outputs below:
 
 ![Markdown Image][2]
 
+And another test run with following parameters:
+
+n_input = 20
+
+adam = 0.0125
+
+epochs = 300
+
+---> ELAPSED TIME = 75.59170484542847 seconds
+
+![Markdown Image][3]
+
+
 
 
 [1]: /assets/images/plot1.png
 [2]: /assets/images/plot2.png
+[3]: /assets/images/plot3.png
+
