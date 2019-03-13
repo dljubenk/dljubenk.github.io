@@ -33,6 +33,8 @@ jemoji: '<img class="emoji" title=":space_invader:" alt=":space_invader:" src="h
  
  - Simple RNN
  
+ ---> consider as a next step: more advanced sequential methods like LSTM and GRU instead of RNN for better results
+ 
  ---
  
 ## Time Series Generator
