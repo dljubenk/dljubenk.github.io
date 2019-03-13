@@ -115,7 +115,9 @@ Attributes:
 
 Things to be added in future steps:
 
-- Weekday or Weekend (0 or 1)
+- Weekday (1,2,3,4,5)
+
+- Weekend (0 or 1)
 
 - Season (Winter, Spring, Summer, Fall)
 
@@ -141,6 +143,17 @@ Things to consider for future steps:
 
 ## One Hot Encoding
 
+---> consider as a next step: Applying one hot encoding for categorical features. This should be performed on: Weekday (1,2,3,4,5), Events (Rain, Snow, None), Year (2016,2017,2018), Months(1,2,3,4,5,6,7,8,9,10,11,12), and Day(1,2,3, etc.) features.
+
+---
+
+## Data Splitting
+
+How to optimally split between the Train, Test, and Holdout Data?
+
+Test and Holdout data need to be defined inside the code by the use. Training data is estimated using this formula:
+
+TRAINING = TOTAL - (TEST + HOLDOUT)
 
 
 [1]: /assets/images/plot1.png
