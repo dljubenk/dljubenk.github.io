@@ -41,6 +41,14 @@ jemoji: '<img class="emoji" title=":space_invader:" alt=":space_invader:" src="h
  
 In a nutshell, sequential models have 3 dimension. These dimensions are: sample size, time steps, and features. Preparing 3D input is not an easy task. So, instead of trying to create a 3D array, TimeSeriesGenerator class is used. The advantage of this class is the ability to set the batch size.
 
+BATCH SIZE???
+
+Is the batch size part of this code, where value 10 for n_input can be found:
+
+n_features = datatrain_feed.shape[1]
+n_input = 10
+generator_train = TimeseriesGenerator(datatrain_feed, out_seq_train, length=n_input, batch_size=len(datatrain_feed))
+
 FEATURE ENGINEERING -> not used but could be considered as a next step.
 
 >  Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. Feature engineering is fundamental to the application of machine learning, and is both difficult and expensive. The need for manual feature engineering can be obviated by automated feature learning. Feature engineering is an informal topic, but it is considered essential in applied machine learning. [WIKI](https://en.wikipedia.org/wiki/Feature_engineering)
