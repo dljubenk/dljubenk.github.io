@@ -43,12 +43,6 @@ In a nutshell, sequential models have 3 dimension. These dimensions are: sample 
 
 BATCH SIZE???
 
-Is the batch size part of this code, where value 10 for n_input can be found:
-
-n_features = datatrain_feed.shape[1]
-n_input = 10
-generator_train = TimeseriesGenerator(datatrain_feed, out_seq_train, length=n_input, batch_size=len(datatrain_feed))
-
 FEATURE ENGINEERING -> not used but could be considered as a next step.
 
 >  Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. Feature engineering is fundamental to the application of machine learning, and is both difficult and expensive. The need for manual feature engineering can be obviated by automated feature learning. Feature engineering is an informal topic, but it is considered essential in applied machine learning. [WIKI](https://en.wikipedia.org/wiki/Feature_engineering)
@@ -162,6 +156,36 @@ How to optimally split between the Train, Test, and Holdout Data?
 Test and Holdout data need to be defined inside the code by the use. Training data is estimated using this formula:
 
 TRAINING = TOTAL - (TEST + HOLDOUT)
+
+Values used for testing were:
+
+321  = 821 - (350 + 150)
+
+---
+
+## Modelling and Training
+
+It can be defined how many nodes should RNN have. In this case, it is a small RNN with 4 nodes.
+
+What is a number of total parameters in the model?
+
+Number of timesteps in one batch is 10. That was defined in this piece of code:
+
+n_features = datatrain_feed.shape[1]
+n_input = 10
+generator_train = TimeseriesGenerator(datatrain_feed, out_seq_train, length=n_input, batch_size=len(datatrain_feed))
+
+Activation function used are:
+
+- relu for RNN
+
+- tanh for Output Layer. 
+
+Optimizer used  is adam. Learning rate is 0.01
+
+Loss function is mean squared error. 
+
+Number of epochs is 500.
 
 
 [1]: /assets/images/plot1.png
