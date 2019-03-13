@@ -40,3 +40,12 @@ In a nutshell, sequential models have 3 dimension. These dimensions are: sample 
 FEATURE ENGINEERING -> not used but could be considered as a next step.
 
 >  Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. Feature engineering is fundamental to the application of machine learning, and is both difficult and expensive. The need for manual feature engineering can be obviated by automated feature learning. Feature engineering is an informal topic, but it is considered essential in applied machine learning. [WIKI](https://en.wikipedia.org/wiki/Feature_engineering)
+
+Total data is split into:
+
+- Train Data
+
+- Test Data
+
+- Holdout Data
+
