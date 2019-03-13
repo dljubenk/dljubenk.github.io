@@ -202,6 +202,8 @@ epochs = 300
 
 ---> ELAPSED TIME = 75.59170484542847 seconds
 
+However, this approach was not good because of negative values appearance in the predictions!
+
 ![Markdown Image][3]
 
 
