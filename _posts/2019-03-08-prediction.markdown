@@ -111,4 +111,28 @@ Attributes:
 
 - <mark><mark>Precip (in)</mark>
 
-- <mark>Events</mark>
+- <mark>Events</mark> (Rain, Snow, None) - can be droped out of table for future steps
+
+Things to be added in future steps:
+
+- Weekday or Weekend (0 or 1)
+
+- Season (Winter, Spring, Summer, Fall)
+
+- Holiday or not
+
+- User Type (Casual or Registered)
+
+Things to consider for future steps:
+
+- Normalization of values (by dividing each value with the maximum observed)
+
+---
+
+The following image depicts the number of rentals:
+
+![Markdown Image][1]
+
+
+
+[1]: /assets/images/plot1.png
