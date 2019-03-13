@@ -167,13 +167,12 @@ Values used for testing were:
 
 It can be defined how many nodes should RNN have. In this case, it is a small RNN with 4 nodes.
 
-What is a number of total parameters in the model?
+What is a number of total parameters in the model? In a testing it phase it was 120 + 6 = 126
 
 Number of timesteps in one batch is 10. That was defined in this piece of code:
 
-n_features = datatrain_feed.shape[1]
-n_input = 10
-generator_train = TimeseriesGenerator(datatrain_feed, out_seq_train, length=n_input, batch_size=len(datatrain_feed))
+n_input = 10 (for testing reasons it was changed to 20)
+
 
 Activation function used are:
 
@@ -187,5 +186,11 @@ Loss function is mean squared error.
 
 Number of epochs is 500.
 
+See outputs below:
+
+![Markdown Image][2]
+
+
 
 [1]: /assets/images/plot1.png
+[2]: /assets/images/plot2.png
