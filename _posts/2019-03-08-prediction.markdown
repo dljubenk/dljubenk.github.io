@@ -59,7 +59,7 @@ Total data (2 years and 3 months of worth) is split into:
 
 Performance of the model calculated by: 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{1-mae}{mean}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{1-mae}{mean}" title="\frac{1-mae}{mean}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=1-\frac{mae}{mean}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?1-\frac{mae}{mean}" title="1-\frac{mae}{mean}" /></a>
 
 ---
 
