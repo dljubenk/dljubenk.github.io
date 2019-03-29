@@ -20,8 +20,8 @@ resume: true
 resume-external: true
 resume-url: https://www.slideshare.net/slideshow/embed_code/key/tSjWGgQ41DjFXO
 
-#url: http://dljubenk.github.io
-url: http://dljubenk.com
+url: http://dljubenk.github.io
+#url: http://dljubenk.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
