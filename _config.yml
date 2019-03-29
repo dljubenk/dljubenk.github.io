@@ -10,8 +10,6 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://dljubenk.com
-
 markdown: kramdown
 highlighter: rouge
 
@@ -22,7 +20,8 @@ resume: true
 resume-external: true
 resume-url: https://www.slideshare.net/slideshow/embed_code/key/tSjWGgQ41DjFXO
 
-url: http://dljubenk.github.io
+#url: http://dljubenk.github.io
+url: http://dljubenk.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
