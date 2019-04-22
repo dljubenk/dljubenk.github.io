@@ -22,4 +22,4 @@ jemoji: '<img class="emoji" title=":trophy:" alt=":trophy:" src="https://assets.
 ---
 
 
-#Novelty
+# Novelty
