@@ -26,4 +26,4 @@ jemoji: '<img class="emoji" title=":trophy:" alt=":trophy:" src="https://assets.
 
 Experiments show that convolutional long short-term memory network (conv-LSTM) outperforms regular LSTM on capturing spatiotemporal correlations. Previous papers have not used this method while exploring the relationship between the distribution of bicycles and the weather, season and events. 
 
-Another method is station-level bike flow prediction using multi-graph convolutionl network. Novelty is viewing the bike sharing system from the graph perspective.
+Another method is station-level bike flow prediction using multi-graph convolutional neural network to catch heterogeneous inter-station spatial correlations. Novelty is viewing the bike sharing system from the graph perspective.
