@@ -23,3 +23,5 @@ jemoji: '<img class="emoji" title=":trophy:" alt=":trophy:" src="https://assets.
 
 
 # Novelty
+
+Experiments show that convolutional long short-term memory network (conv-LSTM) outperforms regular LSTM on capturing spatiotemporal correlations. Previous papers have not used this method while exploring the relationship between the distribution of bicycles and the weather, season and events. 
