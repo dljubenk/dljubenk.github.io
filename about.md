@@ -1,6 +1,8 @@
 ---
 title: About
 layout: page
+image: /assets/images/ch.png
+
 ---
  
 ![Profile Image]({{ site.url }}/{{ site.picture }})	
