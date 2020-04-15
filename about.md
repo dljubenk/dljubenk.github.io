@@ -14,7 +14,7 @@ layout: page
 <p><img src="https://image.flaticon.com/icons/svg/197/197503.svg" height="16" width="16"> <strong>FESB</strong> (Split) - computer science undergradute</p>
 
 <ul class="skill-list">
-	<li><strong>FESB</strong> (Split) - computer science undergradute</li>
+	<li><strong>FESB</strong> (Split) - computer sc undergradute</li>
 	<li><img src="https://image.flaticon.com/icons/svg/552/552009.svg" height="16" width="16">Lausanne-EPFL-undergrad thesis proje</li>
 	<li>Eindhoven - TU/e - data science graduate</li>
 	<li>Stockholm - KTH - data science graduate</li>
