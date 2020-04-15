@@ -7,8 +7,7 @@ layout: page
 
 <img src="./assets/images/ch.png" height="16" width="16">
 
-<img src="https://www.emojibase.com/resources/img/emojis/hangouts/1f1e8-1f1ed.png" height="16" width="16">
-
+<img src="https://image.flaticon.com/icons/svg/552/552009.svg">
 
 <p>I am an academic researcher in the fields of data science visualization and entrepreneurial management born in Split, Croatia. My nomadic path has led me through different countries and backgrounds. </p>
 
