@@ -5,7 +5,7 @@ layout: page
  
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-![](./assets/images/ch.png?thumbnail)
+![](./assets/images/ch.png) {: width=16 height=16 style="float:right; padding:16px"}
 
 
 
