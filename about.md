@@ -4,8 +4,6 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-![ch](dljubenk.github.io/assets/images/ch.png)
-
 
 <p>I am an academic researcher in the fields of data science visualization and entrepreneurial management born in Split, Croatia. My nomadic path has led me through different countries and backgrounds. </p>
 
@@ -16,7 +14,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>Split, Croatia - FESB - computer science undergradute</li>
-	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project </li> 
+	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project </li> ![](assets/images/ch.png)
 	<li>Eindhoven, Netherlands - TU/e - data science graduate</li>
 	<li>Stockholm, Sweden - KTH - data science graduate</li>
 	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
