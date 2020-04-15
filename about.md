@@ -5,10 +5,6 @@ layout: page
  
 ![Profile Image]({{ site.url }}/{{ site.picture }})	
 
-<img src="./assets/images/ch.png" height="16" width="16">
-
-<img src="https://image.flaticon.com/icons/svg/552/552009.svg" height="32" width="32">
-
 <p>I am an academic researcher in the fields of data science visualization and entrepreneurial management born in Split, Croatia. My nomadic path has led me through different countries and backgrounds. </p>
 
 <p>Currently, I am doing my Master's Thesis at MIT Senseable City Lab where I will contribute to their projects by exploring data visualization methods using graph mining and machine learning.</p>
@@ -18,7 +14,8 @@ layout: page
 
 <ul class="skill-list">
 	<li>Split, Croatia - FESB - computer science undergradute</li>
-	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project</li>
+	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project <img src="https://image.flaticon.com/icons/svg/552/552009.svg" height="16" width="16">
+ </li>
 	<li>Eindhoven, Netherlands - TU/e - data science graduate</li>
 	<li>Stockholm, Sweden - KTH - data science graduate</li>
 	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
