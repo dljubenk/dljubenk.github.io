@@ -5,6 +5,9 @@ layout: page
  
 ![Profile Image]({{ site.url }}/{{ site.picture }})	
 
+![Markdown Image][1]
+
+
 <p>I am an academic researcher in the fields of data science visualization and entrepreneurial management born in Split, Croatia. My nomadic path has led me through different countries and backgrounds. </p>
 
 <p>Currently, I am doing my Master's Thesis at MIT Senseable City Lab where I will contribute to their projects by exploring data visualization methods using graph mining and machine learning.</p>
