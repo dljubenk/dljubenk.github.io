@@ -34,3 +34,5 @@ layout: page
 	<li>Ericsson Data Science</li>
 </ul>
 
+![](../assets/images/ch.png)
+
