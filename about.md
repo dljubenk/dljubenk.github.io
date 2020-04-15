@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-![](./assets/images/ch.png)
+![](./assets/images/ch.png){:height="50%" width="50%"}
 
 
 
@@ -17,7 +17,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>Split, Croatia - FESB - computer science undergradute</li>
-	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project <img src="./assets/images/ch.png" width="10%">	</li>
+	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project</li>
 	<li>Eindhoven, Netherlands - TU/e - data science graduate</li>
 	<li>Stockholm, Sweden - KTH - data science graduate</li>
 	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
@@ -36,5 +36,3 @@ layout: page
 	<li><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf">Ericsson Android Development</a></li>
 	<li>Ericsson Data Science</li>
 </ul>
-
-![](./assets/images/ch.png)
