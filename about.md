@@ -33,3 +33,5 @@ layout: page
 	<li><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf">Ericsson Android Development</a></li>
 	<li>Ericsson Data Science</li>
 </ul>
+
+[1]: /assets/images/ch.png
