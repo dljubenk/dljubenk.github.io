@@ -14,7 +14,7 @@ layout: page
 
 <ul class="skill-list">
 	<li><strong>FESB</strong> (Split) - computer science undergradute</li>
-	<li>Lausanne-EPFL-undergrad thesis proje<img src="https://image.flaticon.com/icons/svg/552/552009.svg" height="16" width="16"></li>
+	<li><img src="https://image.flaticon.com/icons/svg/552/552009.svg" height="16" width="16">Lausanne-EPFL-undergrad thesis proje</li>
 	<li>Eindhoven - TU/e - data science graduate</li>
 	<li>Stockholm - KTH - data science graduate</li>
 	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
