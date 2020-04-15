@@ -12,7 +12,7 @@ layout: page
 <h2>Academic background</h2>
 
 <p align="right"><img src="https://image.flaticon.com/icons/svg/197/197503.svg" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
-<p align="right">computer science undergradute</p>
+<p align="right" margin-top = "100">computer science undergradute</p>
 
 <ul class="skill-list">
 	<li><strong>FESB</strong> (Split) - computer sc undergradute</li>
