@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-![ch|16x16](./assets/images/ch.png)
+![|20%](./assets/images/ch.png)
 
 
 
