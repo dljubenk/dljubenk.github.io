@@ -12,11 +12,12 @@ layout: page
 <h2>Academic background</h2>
 
 <p><img src="https://image.flaticon.com/icons/svg/197/197503.svg" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
-<p align="right"  margin:0em>computer science undergradute</p>
-
+<p>computer science undergradute</p>
+---
+<p><img src="https://image.flaticon.com/icons/svg/197/197540.svg" height="24" width="24"> <strong>FESB</strong> (Lausanne)</p>
+<p>undergraduate thesis project</p>
+---
 <ul class="skill-list">
-	<li><strong>FESB</strong> (Split) - computer sc undergradute</li>
-	<li><img src="https://image.flaticon.com/icons/svg/552/552009.svg" height="16" width="16">Lausanne-EPFL-undergrad thesis proje</li>
 	<li>Eindhoven - TU/e - data science graduate</li>
 	<li>Stockholm - KTH - data science graduate</li>
 	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
