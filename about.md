@@ -11,6 +11,7 @@ layout: page
 
 <h2>Academic background</h2>
 
+<p><img src="https://image.flaticon.com/icons/svg/197/197503.svg" height="16" width="16"> <strong>FESB</strong> (Split) - computer science undergradute</p>
 
 <ul class="skill-list">
 	<li><strong>FESB</strong> (Split) - computer science undergradute</li>
