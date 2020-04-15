@@ -1,13 +1,11 @@
 ---
 title: About
 layout: page
-image: /assets/images/ch.png
-
 ---
  
 ![Profile Image]({{ site.url }}/{{ site.picture }})	
 
-![Default][1]
+<img src="./assets/images/png" height="16" width="16">
 
 
 <p>I am an academic researcher in the fields of data science visualization and entrepreneurial management born in Split, Croatia. My nomadic path has led me through different countries and backgrounds. </p>
@@ -18,7 +16,7 @@ image: /assets/images/ch.png
 
 
 <ul class="skill-list">
-	<li>Split, Croatia - FESB - computer science undergradute</li> [](#lang-hr)	
+	<li>Split, Croatia - FESB - computer science undergradute</li>
 	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project</li>
 	<li>Eindhoven, Netherlands - TU/e - data science graduate</li>
 	<li>Stockholm, Sweden - KTH - data science graduate</li>
@@ -38,5 +36,3 @@ image: /assets/images/ch.png
 	<li><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf">Ericsson Android Development</a></li>
 	<li>Ericsson Data Science</li>
 </ul>
-
-[1]: /assets/images/ch.png
