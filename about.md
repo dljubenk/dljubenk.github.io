@@ -4,6 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+![](./assets/images/ch.png)
+
+
 
 <p>I am an academic researcher in the fields of data science visualization and entrepreneurial management born in Split, Croatia. My nomadic path has led me through different countries and backgrounds. </p>
 
@@ -34,5 +37,4 @@ layout: page
 	<li>Ericsson Data Science</li>
 </ul>
 
-![](./assets/images/ch.png){:height="16px" width="16px"}
-
+![](./assets/images/ch.png)
