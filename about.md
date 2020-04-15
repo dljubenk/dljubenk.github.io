@@ -12,10 +12,10 @@ layout: page
 <h2>Academic background</h2>
 
 <p><img src="https://image.flaticon.com/icons/svg/197/197503.svg" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
-<p>computer science undergradute</p>
+<p align="center">computer science undergraduate</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/197/197540.svg" height="24" width="24"> <strong>FESB</strong> (Lausanne)</p>
-<p>undergraduate thesis project</p>
+<p><img src="https://image.flaticon.com/icons/svg/197/197540.svg" height="24" width="24" align="left"> <strong>FESB</strong> (Lausanne)</p>
+<p align="center">undergraduate thesis project</p>
 ---
 <ul class="skill-list">
 	<li>Eindhoven - TU/e - data science graduate</li>
