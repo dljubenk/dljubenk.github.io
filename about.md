@@ -34,5 +34,5 @@ layout: page
 	<li>Ericsson Data Science</li>
 </ul>
 
-![](../assets/images/ch.png)
+![](../assets/images/ch.png){:height="16px" width="16px"}
 
