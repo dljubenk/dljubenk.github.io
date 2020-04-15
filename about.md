@@ -13,7 +13,7 @@ layout: page
 
 
 <ul class="skill-list">
-	<li>Split - FESB - computer science undergradute</li>
+	<li><strong>FESB</strong> (Split) - computer science undergradute</li>
 	<li>Lausanne - EPFL - undergraduate thesis project <img src="https://image.flaticon.com/icons/svg/552/552009.svg" height="16" width="16"></li>
 	<li>Eindhoven - TU/e - data science graduate</li>
 	<li>Stockholm - KTH - data science graduate</li>
