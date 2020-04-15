@@ -2,9 +2,12 @@
 title: About
 layout: page
 ---
+
+ --dpi 
+ 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-![](./assets/images/ch.png =16x16)
+![](./assets/images/ch.png)
 
 
 
