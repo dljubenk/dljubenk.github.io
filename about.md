@@ -14,8 +14,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>Split, Croatia - FESB - computer science undergradute</li>
-	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project <img src="https://image.flaticon.com/icons/svg/552/552009.svg" height="16" width="16">
- </li>
+	<li>Lausanne, Switzerland - EPFL - undergraduate thesis project <img src="https://image.flaticon.com/icons/svg/552/552009.svg" height="16" width="16"></li>
 	<li>Eindhoven, Netherlands - TU/e - data science graduate</li>
 	<li>Stockholm, Sweden - KTH - data science graduate</li>
 	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
