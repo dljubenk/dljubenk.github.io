@@ -31,8 +31,6 @@ layout: page
 ---
 <p><img src="https://image.flaticon.com/icons/svg/197/197565.svg" height="24" width="24" align="left"> <strong>AAU CPH</strong> (Copenhagen)</p>
 <p align="center"><strong>IT management</strong> graduate</p>
----
-	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
 	
 <h2>Projects</h2>
 
