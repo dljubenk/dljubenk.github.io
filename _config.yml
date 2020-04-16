@@ -17,7 +17,7 @@ picture: assets/images/profile3.jpg
 # and specify source (external or local).
 
 resume: true
-resume-external: true
+resume-external: false
 resume-url: [link](https://github.com/dljubenk/dljubenk.github.io/blob/master/assets/Resume.pdf)
 
 #https://www.slideshare.net/slideshow/embed_code/key/tSjWGgQ41DjFXO
