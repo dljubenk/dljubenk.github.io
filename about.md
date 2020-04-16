@@ -23,7 +23,7 @@ layout: page
 <p><img src="https://image.flaticon.com/icons/svg/197/197564.svg" height="24" width="24" align="left"> <strong>KTH</strong> (Stockholm)</p>
 <p align="center"><strong>data science</strong> graduate</p>
 ---
-<p><img src=https://image.flaticon.com/icons/svg/323/323310.svg" height="24" width="24" align="left"> <strong>MIT</strong> (Massachusetts)</p>
+<p><img src="https://image.flaticon.com/icons/svg/323/323310.svg" height="24" width="24" align="left"> <strong>MIT</strong> (Massachusetts)</p>
 <p align="center">graduate thesis project</p>
 ---
 	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
