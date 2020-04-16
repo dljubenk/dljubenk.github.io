@@ -14,15 +14,17 @@ layout: page
 <p><img src="https://image.flaticon.com/icons/svg/197/197503.svg" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center">computer science undergraduate</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/197/197540.svg" height="24" width="24" align="left"> <strong>FESB</strong> (Lausanne)</p>
+<p><img src="https://image.flaticon.com/icons/svg/197/197540.svg" height="24" width="24" align="left"> <strong>EPFL</strong> (Lausanne)</p>
 <p align="center">undergraduate thesis project</p>
 ---
-<ul class="skill-list">
-	<li>Eindhoven - TU/e - data science graduate</li>
-	<li>Stockholm - KTH - data science graduate</li>
+<p><img src="https://image.flaticon.com/icons/svg/197/197441.svg" height="24" width="24" align="left"> <strong>TU/e</strong> (Eindhoven)</p>
+<p align="center">data science graduate</p>
+---
+<p><img src="https://image.flaticon.com/icons/svg/197/197564.svg" height="24" width="24" align="left"> <strong>KTH</strong> (Stockholm)</p>
+<p align="center">data science graduate</p>
+---
 	<li>EIT Digital Master School - minor in innovation & entrepreneurship</li>
 	<li>Massachusetts - MIT - graduate thesis project</li>
-</ul>
 
 <h2>Projects</h2>
 
