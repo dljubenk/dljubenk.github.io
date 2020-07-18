@@ -36,7 +36,7 @@ layout: page
 	<li><a href="http://www.lahen.org/">Transcranial Magnetic Stimulation</a></li>
 	<li><a href="https://iig.epfl.ch/page-56808-en-html/">Bachelor's Thesis: 3D Avatar</a></li>
 	<li><a href="https://je.epfl.ch/">Statistical Analysis</a></li>
-	<li><a href="https://www.tuecontest.nl/">LABELEDBY.</a></li>
+	<li><a href="https://2018.tuecontest.nl/candidate/details/196">LABELEDBY.</a></li>
 	<li><a href="https://indico.cern.ch/event/377001/registrations/participants">Scientific Visualization</a></li>
 	<li>Process Mining</li>
 	<li><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf">Ericsson Android Development</a></li>
