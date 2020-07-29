@@ -33,7 +33,7 @@ layout: page
 <h2>Publications & Conferences</h2>
 
 <p><img src="https://image.flaticon.com/icons/svg/1086/1086563.svg" height="24" width="24" align="left"> <strong>IEEE</strong> TEMS Paper (2020)</p>
-<p><img src="https://image.flaticon.com/icons/svg/3062/3062812.svg" height="24" width="24" align="left"> European Technology & Engineering Management Summit, <strong>FH Dortmund</strong> (2020)</p>
+<p align="right"><img src="https://image.flaticon.com/icons/svg/3062/3062812.svg" height="24" width="24" align="left"> European Technology & Engineering Management Summit, <strong>FH Dortmund</strong> (2020)</p>
 ---
 <p><img src="https://image.flaticon.com/icons/svg/1086/1086563.svg" height="24" width="24" align="left"> <strong>Medical</strong> Science Monitor Paper (2020)</p>
 ---
