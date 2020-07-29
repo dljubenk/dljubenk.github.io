@@ -61,6 +61,12 @@ layout: page
 <p align="center"><strong>Data Analytics</strong> Teaching Assistant (2017)</p>
 <p align="center"><strong>TU/e</strong></p>
 ---
+<p align="center"><strong>Market</strong> Research <strong>Analyst</strong> (2017)</p>
+<p align="center"><strong>AlpMars SA Lausanne</strong></p>
+---
+<p align="center"><strong>Statistical Analysis</strong> of <strong>Cloud Banking</strong> Technologies (2017)</p>
+<p align="center"><strong>Juinor Enterprise Lausanne</strong></p>
+---
 <p align="center"><strong>Data Analyst</strong> (2017)</p>
 <p align="center"><strong>Ericsson ETK</strong></p>
 ---
