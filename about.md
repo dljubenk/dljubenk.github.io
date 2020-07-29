@@ -34,27 +34,27 @@ layout: page
 
 <h2>Work experience</h2>
 
-Erasmus+ FGPE Project: Content <strong>Management</strong> Assistant (2020)</p>
+<p>Erasmus+ FGPE Project: Content <strong>Management</strong> Assistant (2020)</p>
 <p align="center"><strong>AAU CPH</strong> </p>
 ---
-Board Member: <strong>Outreach</strong> and <strong>Partnerships</strong> Officer(2020-2021)</p>
+<p>Board Member: <strong>Outreach</strong> and <strong>Partnerships</strong> Officer(2020-2021)</p>
 <p align="center"><strong>EIT Digital ALUMNI</strong> </p>
 ---
-Data <strong>Visualization</strong> Specialist (2019)</p>
+<p>Data <strong>Visualization</strong> Specialist (2019)</p>
 <p align="center"><strong>MIT</strong> </p>
 ---
-<strong>Ambassador</strong> for <strong>USA</strong> and <strong>EU</strong> (2019-2020)</p>
+<p><strong>Ambassador</strong> for <strong>USA</strong> and <strong>EU</strong> (2019-2020)</p>
 <p align="center"><strong>EIT Digital</strong></p>
 ---
-<strong>Business</strong> Challenge <strong>Coach</strong>(2018-2019)</p>
+<p><strong>Business</strong> Challenge <strong>Coach</strong>(2018-2019)</p>
 <p align="center"><strong>EIT Digital Academy</strong></p>
 ---
-<strong>Data Analytics</strong> Teaching Assistant (2017)</p>
+<p><strong>Data Analytics</strong> Teaching Assistant (2017)</p>
 <p align="center"><strong>TU/e</strong></p>
 ---
-<strong>Data Analyst</strong> (2017)</p>
+<p><strong>Data Analyst</strong> (2017)</p>
 <p align="center"><strong>Ericsson ETK</strong></p>
 ---
-<strong>Android Developer</strong> (2016)</p>
+<p><strong>Android Developer</strong> (2016)</p>
 <p align="center"><strong>Ericsson ETK</strong></p>
 
