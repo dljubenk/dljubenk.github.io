@@ -30,31 +30,41 @@ layout: page
 <p><img src="https://image.flaticon.com/icons/svg/197/197565.svg" height="24" width="24" align="left"> <strong>AAU CPH</strong> (København)</p>
 <p align="center"><strong>IT management</strong> graduate</p>
 
-<h2>Publications</h2>
+<h2>Publications & Conferences</h2>
+
+<p align="center"> <strong>IEEE</strong> TEMS Paper (2020)</p>
+<p align="center"> European Technology & Engineering Management Summit, <strong>FH Dortmund</strong> (2020)</p>
+---
+<p align="center"> <strong>Medical</strong> Science Monitor Paper (2020)</p>
+---
+<p align="center"> IC Research Day – Frontiers of <strong>Visual Computing</strong>, <strong>EPFL</strong> (2017)</p>
+---
+<p align="center"> <strong>IEEE</strong> SoftCOM, <strong>Croatia</strong> (2016)</p>
+
 
 <h2>Work experience</h2>
 
-<p>Erasmus+ FGPE Project: Content <strong>Management</strong> Assistant (2020)</p>
+<p align="center">Erasmus+ FGPE Project: Content <strong>Management</strong> Assistant (2020)</p>
 <p align="center"><strong>AAU CPH</strong> </p>
 ---
-<p>Board Member: <strong>Outreach</strong> and <strong>Partnerships</strong> Officer(2020-2021)</p>
+<p align="center">Board Member: <strong>Outreach</strong> and <strong>Partnerships</strong> Officer(2020-2021)</p>
 <p align="center"><strong>EIT Digital ALUMNI</strong> </p>
 ---
-<p>Data <strong>Visualization</strong> Specialist (2019)</p>
+<p align="center">Data <strong>Visualization</strong> Specialist (2019)</p>
 <p align="center"><strong>MIT</strong> </p>
 ---
-<p><strong>Ambassador</strong> for <strong>USA</strong> and <strong>EU</strong> (2019-2020)</p>
+<p align="center"><strong>Ambassador</strong> for <strong>USA</strong> and <strong>EU</strong> (2019-2020)</p>
 <p align="center"><strong>EIT Digital</strong></p>
 ---
-<p><strong>Business</strong> Challenge <strong>Coach</strong>(2018-2019)</p>
+<p align="center"><strong>Business</strong> Challenge <strong>Coach</strong>(2018-2019)</p>
 <p align="center"><strong>EIT Digital Academy</strong></p>
 ---
-<p><strong>Data Analytics</strong> Teaching Assistant (2017)</p>
+<p align="center"><strong>Data Analytics</strong> Teaching Assistant (2017)</p>
 <p align="center"><strong>TU/e</strong></p>
 ---
-<p><strong>Data Analyst</strong> (2017)</p>
+<p align="center"><strong>Data Analyst</strong> (2017)</p>
 <p align="center"><strong>Ericsson ETK</strong></p>
 ---
-<p><strong>Android Developer</strong> (2016)</p>
+<p align="center"><strong>Android Developer</strong> (2016)</p>
 <p align="center"><strong>Ericsson ETK</strong></p>
 
