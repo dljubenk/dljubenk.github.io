@@ -1,5 +1,5 @@
 ---
-title: "Project Description"
+title: "MIT Senseable City Lab"
 layout: post
 date: 2019-02-01 22:44
 image: /assets/images/lab.jpg
@@ -8,7 +8,9 @@ tag:
 - MIT
 - SCL
 - bike sharing
+- shareable cities
 - digital city
+- urban informatics
 - graph mining
 - machine learning
 - data visualization
@@ -19,17 +21,9 @@ author: Davor Ljubenkov
 description: Markdown summary with different options
 ---
 
-## Proposal
+## Optimizing Bike Sharing System Flows Using Graph Mining, Convolutional and Recurrent Neural Networks
 
-**Data visualization** methods in the domain of digital cities using:
-* Data mining
-* Graph processing and information network analysis
-* Machine learning
-
-Thesis will be conducted at ***Massachusetts Institute of Technology***, SENSEable City Lab.
-Director of the Lab is [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti), and project responsibles are [Fábio Duarte](https://tedxbeaconstreet.com/speakers/fabio-duarte/) and [Paolo Santi](http://webhost.services.iit.cnr.it/staff/paolo.santi/).
-
-***Remark***: as a Lab member, it is common for researchers to work on at least 2 projects during their stay. In addition to the thesis project, certain smaller amount of my time will be spent on a project called [Roboat](http://roboat.org/). More focus will be appointed to it after the thesis defense in June and up until the end of my MIT SCL stay (mid-July). My expertise of Unity and virtual realities acquired during my Bachelor's thesis project at EPFL's Immersive Interaction Group would be benefitial for the current stage of the Roboat project.
+This project was conducted at ***Massachusetts Institute of Technology*** - SENSEable City Laboratory, under the direction of [Carlo Ratti](https://en.wikipedia.org/wiki/Carlo_Ratti), and being supervised by [Fábio Duarte](https://tedxbeaconstreet.com/speakers/fabio-duarte/) and [Paolo Santi](http://webhost.services.iit.cnr.it/staff/paolo.santi/).
 
 ---
 ![Markdown Image][1]
@@ -46,101 +40,11 @@ In this study, the focus will be on dock bike sharing systems as datasets from t
 
 Datasets taken into consideration were collected from bike sharing systems corresponding to different cities and urban areas in United States of America, Canada, Mexico, Brasil, Spain, and United Kingdom. An overview of cities included for each country can be observed below.
 
-**United states**: Atlanta (Georgia), joint area of Boston-Cambridge-Somerville-Brookline (Massachusetts), Chattanooga (Tennessee), Chicago (Illinois), Columbus (Ohio), Los Angeles and San Francisco (California), Minneapolis (Minnesota), New York (New York), Philadelphia (Pennsylvania), Washington D.C. 
-
-**Canada**: Montreal, Toronto, Vancouver
-
-**Mexico**: Guadalajara, Mexico City
-
-**Brasil**: Porto Alegre, Recife, Rio de Janeiro, Salvador, Sao Paulo
-
-**Spain**: Madrid
-
-**UK**: London
-
-![Markdown Image][2]
-
 For example, Boston area datasets provided by [BLUEbikes](https://www.bluebikes.com/) consists of timespan between year 2011 and 2018, and for each date include: duration (in seconds), start date and time, end date and time, start station ID and name, end station ID and name, bike ID, user's member type (customer or casual), zip code of user's whereabouts, user's gender. Of course, data can be missing or incorrect which will have to be dealt with in a data cleaning pipeline segment. Datasets are in .CSV format and a snippet of data is represented in the image below.
 
 ![Markdown Image][3]
 
 Also, just as an illustration, for the Boston dataset there are 140'975 entries for a period between 07/28/2011 and 11/30/ 2011 (4 months span).
-
-## Problem Statement
-
-Investigating the usage of available data and what we can learn from it, applying obtained insights in order to simulate certain optimizations for specific city use cases. The set of problems will be identified based on previously published papers in the domain of bike-sharing systems.
-Problem statement will express the relationship between two or more measurable properties which will be empirically tested in the later stages of this thesis.
-
----
-
-## Problem
-
-For example:
-* can we observe clear patterns or communities of bike commuters in spatio-temporal context?
-* which secondary datasets can provide us with some explanations of such patterns (e.g. weather, national holidays etc.)?
-* can we compare some bike-sharing systems between different cities and continents and have a clear comparison metrics to evaluate these differences?
-* how does the placement of docks correlate to some efficiency metrics and can we predict the optimal placement and the number of docks?
-
----
-
-## Purpose
-
-Purpose of the thesis project is to improve the quality of life in contemporary cities throught the means of clear visualization, identifying bottlenecks and suggesting optimization methods.
-
----
-
-## Goal
-
-The goal is to accept or reject the hypotheses stated.
-
----
-
-## Tasks
-
-Research study of the previous work to try and identify common problems, while extracting an unique knowledge gap this thesis will cover in detail.
-The very nature of any identified research problem related to this project, being it's property to be translated into a network model, implies that using graph theory and its metrics can answer many questions one might pose about it.
-
----
-
-## Methods
-
-The code will be provided in the form of a Jupyter notebook. Jupyter is a python module, and is available either preinstalled as an Anaconda module, or can be installed manually with pip. In the case of manual installation, the user will also need to install the modules pandas, numpy, and scipy. The files, having an extension ".ipynb", can be run either directly from Jupyter's GUI, or run from the commandline inside the unzipped folder. Running the second command on a windows machine may require adding the Python scripts directory to the PATH variable, located in the subdirectory "Scripts" under the Python installation directory.
-
-Interesting Python libraries to be used or considered for being used:
-* **matplotlib**
-* **Seaborn**
-* **ggplot**
-* **Bokeh** - creating interactive statistics
-* **Altair**
-* **Gleam**
-* **pygal**
-* **Plotly**
-* **geoplotlib** - using choropleth maps
-* **Folium** - displays spatial data on interactive leaflet maps (e.g. implementing heat maps)
-* **GeoPandas** - works with geospatial data and coordinate system
-
-* **scikit-learn** - machine learning
-
-* etc.
-
-Interesting algorithms:
-
-* K-means
-
-* Fruchterman and Reingold’s force-directed placement
-
-* Louvain Method for community detection
-
-* Dijkstra’s shortest path algorithm
-
-* etc.
-
-Statistics:
-
-* measures of central tendency (mean, median,...)
-
-* Significance testing: contingency tables using the Pearson’s chi-square test statistic are used to test for equality of proportions
-
 
 ---
 
