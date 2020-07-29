@@ -55,7 +55,7 @@ layout: page
 <p align="center"><strong>Ambassador</strong> for <strong>USA</strong> and <strong>EU</strong> (2019-2020)</p>
 <p align="center"><strong>EIT Digital</strong></p>
 ---
-<p align="center"><strong>Business</strong> Challenge <strong>Coach</strong>(2018-2019)</p>
+<p align="center"><strong>Business</strong> Challenge <strong>Coach</strong> (2018-2019)</p>
 <p align="center"><strong>EIT Digital Academy</strong></p>
 ---
 <p align="center"><strong>Data Analytics</strong> Teaching Assistant (2017)</p>
