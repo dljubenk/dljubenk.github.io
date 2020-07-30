@@ -43,7 +43,7 @@ layout: page
 
 <h2>Work experience</h2>
 
-<p align="center">Erasmus+ FGPE Project: Content <strong>Management</strong> Assistant (2020)</p>
+<p align="center"><a href="http://fgpe.usz.edu.pl/">Erasmus+ FGPE Project</a>: Content <strong>Management</strong> Assistant (2020)</p>
 <p align="center"><strong>AAU CPH</strong> </p>
 ---
 <p align="center">Board Member: <strong>Outreach</strong> and <strong>Partnerships</strong> Officer(2020-2021)</p>
