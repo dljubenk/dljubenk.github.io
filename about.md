@@ -46,7 +46,7 @@ layout: page
 <p align="center"><a href="http://fgpe.usz.edu.pl/">Erasmus+ FGPE Project</a>: Content <strong>Management</strong> Assistant (2020)</p>
 <p align="center"><strong>AAU CPH</strong> </p>
 ---
-<p align="center">Board Member: <strong>Outreach</strong> and <strong>Partnerships</strong> Officer(2020-2021)</p>
+<p align="center"><a href="http://dljubenk.github.io/assets/EIT Digital Alumni Board - Outreach and Partnerships Officer.pdf">Board Member</a>: <strong>Outreach</strong> and <strong>Partnerships</strong> Officer(2020-2021)</p>
 <p align="center"><strong>EIT Digital ALUMNI</strong> </p>
 ---
 <p align="center">Data <strong>Visualization</strong> Specialist (2019)</p>
