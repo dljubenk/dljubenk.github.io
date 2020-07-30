@@ -48,7 +48,7 @@ twitter: dljubenk
 instagram: dljubenk
 # pinterest: mypinterest
 linkedin: dljubenk
-youtube: user/dljubenk
+#youtube: user/dljubenk
 # spotify: myspotify
 github: dljubenk
 # gitlab: mygitlab
@@ -60,8 +60,9 @@ github: dljubenk
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: dljubenk@gmail.com
-researchgate: Davor_Ljubenkov
-google-scholar: RD5Nn_8AAAAJ&hl
+researchgate: "https://www.researchgate.net/profile/Davor_Ljubenkov"
+#researchgate: Davor_Ljubenkov
+#google-scholar: RD5Nn_8AAAAJ&hl
 
 authors:
     dljubenk:
