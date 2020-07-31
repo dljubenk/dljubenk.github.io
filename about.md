@@ -30,6 +30,8 @@ layout: page
 <p><img src="https://image.flaticon.com/icons/svg/197/197565.svg" height="24" width="24" align="left"> <strong>AAU CPH</strong> (København)</p>
 <p align="center"><strong>IT management</strong> graduate</p>
 
+<hr size="30"> 
+
 <h2>Publications & Conferences</h2>
 
 <p align="right"><img src="https://image.flaticon.com/icons/svg/1086/1086563.svg" height="24" width="24" align="left"> <a href="https://ieeexplore.ieee.org/abstract/document/9111707"><strong>IEEE</strong> TEMS</a> Paper (2020)</p>
