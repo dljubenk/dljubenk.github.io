@@ -30,7 +30,7 @@ layout: page
 <p><img src="https://image.flaticon.com/icons/svg/197/197565.svg" height="24" width="24" align="left"> <strong>AAU CPH</strong> (København)</p>
 <p align="center"><strong>IT management</strong> graduate</p>
 
-<hr size="100"> 
+<br> 
 
 <h2>Publications & Conferences</h2>
 
