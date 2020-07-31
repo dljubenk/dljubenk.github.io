@@ -7,6 +7,9 @@ layout: page
 
 <p>I am an interdisciplinary professional and academic researcher in the fields of data science visualization, IT innovation management and multi-media technology.</p>
 
+<br> 
+<br> 
+
 <h2>Academic background</h2>
 
 <p><img src="https://image.flaticon.com/icons/svg/197/197503.svg" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
@@ -31,6 +34,7 @@ layout: page
 <p align="center"><strong>IT management</strong> graduate</p>
 
 <br> 
+<br> 
 
 <h2>Publications & Conferences</h2>
 
@@ -42,6 +46,9 @@ layout: page
 <p align="right"><img src="https://image.flaticon.com/icons/svg/3062/3062812.svg" height="24" width="24" align="left"> IC Research Day – Frontiers of <strong>Visual Computing</strong>, <strong>EPFL</strong> (2017)</p>
 ---
 <p align="right"><img src="https://image.flaticon.com/icons/svg/3062/3062812.svg" height="24" width="24" align="left"> <a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf"><strong>IEEE</strong> SoftCOM</a>, <strong>Croatia</strong> (2016)</p>
+
+<br> 
+<br> 
 
 <h2>Work experience</h2>
 
