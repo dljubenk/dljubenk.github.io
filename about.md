@@ -12,6 +12,8 @@ layout: page
 
 <h2>Academic background</h2>
 
+<br> 
+
 <p><img src="https://image.flaticon.com/icons/svg/197/197503.svg" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
@@ -38,6 +40,8 @@ layout: page
 
 <h2>Publications & Conferences</h2>
 
+<br> 
+
 <p align="right"><img src="https://image.flaticon.com/icons/svg/1086/1086563.svg" height="24" width="24" align="left"> <a href="https://ieeexplore.ieee.org/abstract/document/9111707"><strong>IEEE</strong> TEMS</a> Paper (2020)</p>
 <p align="right"><img src="https://image.flaticon.com/icons/svg/3062/3062812.svg" height="24" width="24" align="left"> European Technology & Engineering Management Summit, <strong>FH Dortmund</strong> (2020)</p>
 ---
@@ -51,6 +55,8 @@ layout: page
 <br> 
 
 <h2>Work experience</h2>
+
+<br> 
 
 <p align="center"><a href="http://fgpe.usz.edu.pl/">Erasmus+ FGPE Project</a>: Content <strong>Management</strong> Assistant (2020)</p>
 <p align="center"><strong>AAU CPH</strong> </p>
