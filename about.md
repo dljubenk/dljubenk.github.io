@@ -91,3 +91,50 @@ layout: page
 <p align="center"><strong>Android Developer</strong> (2016)</p>
 <p align="center"><strong>Ericsson ETK</strong></p>
 
+<br> 
+<br> 
+
+<h2>Language Certificates</h2>
+
+<br>
+
+<p><img src="https://image.flaticon.com/icons/svg/555/555417.svg" height="24" width="24" align="left"> <strong>English</strong></p>
+<p align="center">English Objective Proficiency (<strong>C2.1</strong>)</p>
+<p align="center">IELTS Academic - 7.5 (<strong>C1</strong>)</p>
+<p align="center">Cambridge FCE (<strong>B2</strong>)</p>
+
+---
+<p><img src="https://image.flaticon.com/icons/svg/555/555418.svg" height="24" width="24" align="left"> Mandarin <strong>Chinese</strong> (中文)</p>
+<p align="center">Confucius Institute (<strong>A1</strong>)</p>
+---
+<p><img src="https://image.flaticon.com/icons/svg/555/555451.svg" height="24" width="24" align="left"> <strong>Russian</strong> (Русский язык)</p>
+<p align="center">FFST UniST (<strong>A1/A2</strong>)</p>
+---
+<p><img src="https://image.flaticon.com/icons/svg/555/555613.svg" height="24" width="24" align="left"> <strong>German</strong> (Deutsch)</p>
+<p align="center">Kroatisch – Deutsche Gesellschaft (<strong>A1</strong>)</p>
+---
+<p><img src="https://image.flaticon.com/icons/svg/555/555602.svg" height="24" width="24" align="left"> <strong>French</strong> (Français)</p>
+<p align="center">Centre de Langues EPFL (UNIL) (<strong>A1/A2</strong>)</p>
+---
+<p><img src="https://image.flaticon.com/icons/svg/555/555668.svg" height="24" width="24" align="left"> <strong>PLUS</strong> (Italiano)</p>
+<p align="center"><strong>High-School Diploma (<strong>A1</strong>)</p>
+
+<br> 
+
+<br> 
+
+<h2>Professional Training & Personal Development</h2>
+
+<br>
+
+<br> 
+
+<p align="center"><a href="http://fgpe.usz.edu.pl/">Erasmus+ FGPE Project</a>: Content <strong>Management</strong> Assistant (2020)</p>
+<p align="center"><strong>AAU CPH</strong> </p>
+---
+<p align="center"><a href="http://dljubenk.github.io/assets/EIT Digital Alumni Board - Outreach and Partnerships Officer.pdf">Board Member</a>: <strong>Outreach</strong> and <strong>Partnerships</strong> Officer(2020-2021)</p>
+<p align="center"><strong>EIT Digital ALUMNI</strong> </p>
+---
+<p align="center">Data <strong>Visualization</strong> Specialist (2019)</p>
+<p align="center"><strong>MIT</strong> </p>
+---
