@@ -129,12 +129,11 @@ layout: page
 
 <br> 
 
-<p align="center"><a href="http://fgpe.usz.edu.pl/">Erasmus+ FGPE Project</a>: Content <strong>Management</strong> Assistant (2020)</p>
-<p align="center"><strong>AAU CPH</strong> </p>
+<p align="center"><a href="https://eit.europa.eu/our-communities/eit-alumni/eit-alumni-connect-2019">EIT Alumni CONNECT</a> Organizer: <strong>UN SDG 11</strong> & INNOVEIT Innovation Forum (2019)</p>
+<p align="center"><strong>Budapest</strong> </p>
 ---
-<p align="center"><a href="http://dljubenk.github.io/assets/EIT Digital Alumni Board - Outreach and Partnerships Officer.pdf">Board Member</a>: <strong>Outreach</strong> and <strong>Partnerships</strong> Officer(2020-2021)</p>
-<p align="center"><strong>EIT Digital ALUMNI</strong> </p>
----
-<p align="center">Data <strong>Visualization</strong> Specialist (2019)</p>
-<p align="center"><strong>MIT</strong> </p>
+<p align="center">Strategic Thinking <strong>Training</strong> - Next Europe: Finding Strategic Answers in the Era of Innovation (2019)</p>
+<p align="center">CAP - Center for Applied Policy Research (Centrum für angewandte Politikforschung)</p>
+<p align="center">Leitung: Prof. Dr. Dr. h.c. Werner Weidenfeld </p>
+<p align="center"><strong>München</strong> </p>
 ---
