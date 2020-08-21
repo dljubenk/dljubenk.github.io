@@ -117,7 +117,7 @@ layout: page
 <p align="center">Centre de Langues EPFL (UNIL) (<strong>A1/A2</strong>)</p>
 ---
 <p><img src="https://image.flaticon.com/icons/svg/555/555668.svg" height="24" width="24" align="left"> <strong>Italian</strong> (Italiano)</p>
-<p align="center">High-School Diploma (<strong>A1</strong>)</p>
+<p align="center">High School Diploma (<strong>A1</strong>)</p>
 
 <br> 
 
