@@ -25,6 +25,8 @@ resume-url: http://dljubenk.github.io/assets/Resume.pdf
 
 url: http://dljubenk.github.io
 # your url: http://USERNAME.github.io
+
+use_logo: true
 logo: http://dljubenk.github.io/assets/images/webicon.png
 
 permalink: /:title/
