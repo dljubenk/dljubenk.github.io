@@ -26,10 +26,10 @@ resume-url: http://dljubenk.github.io/assets/Resume.pdf
 url: http://dljubenk.github.io
 # your url: http://USERNAME.github.io
 
-use_logo: true
-logo: http://dljubenk.github.io/assets/images/webicon2.png
-avatar: http://dljubenk.github.io/assets/images/webicon2.png
-logo_url: http://dljubenk.github.io/assets/images/webicon2.png
+#use_logo: true
+#logo: http://dljubenk.github.io/assets/images/webicon2.png
+#avatar: http://dljubenk.github.io/assets/images/webicon2.png
+#logo_url: http://dljubenk.github.io/assets/images/webicon2.png
 
 permalink: /:title/
 
@@ -67,6 +67,7 @@ github: dljubenk
 email: dljubenk@gmail.com
 #researchgate: "https://www.researchgate.net/profile/Davor_Ljubenkov"
 researchgate: profile/Davor_Ljubenkov
+googlescholar: citations?user=RD5Nn_8AAAAJ
 #google-scholar: RD5Nn_8AAAAJ&hl
 
 authors:
