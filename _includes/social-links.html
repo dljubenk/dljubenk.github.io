@@ -5,7 +5,13 @@
         </a>
     {% endif %}
     
-      {% if site.researchgate %}
+    {% if site.googlescholar %}
+        <a class="link" data-title="googlescholar.com/{{ site.googlescholar }}" href="http://scholar.google.com/{{ site.googlescholar }}" target="_blank">
+             <svg class="icon icon-googlescholar"><use xlink:href="#icon-googlescholar"></use></svg> 
+        </a>
+    {% endif %}
+    
+    {% if site.researchgate %}
         <a class="link" data-title="researchgate.com/{{ site.researchgate }}" href="http://researchgate.net/{{ site.researchgate }}" target="_blank">
              <svg class="icon icon-researchgate"><use xlink:href="#icon-researchgate"></use></svg> 
         </a>
