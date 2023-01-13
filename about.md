@@ -17,7 +17,7 @@ layout: page
 <p><img src="https://cdn-icons-png.flaticon.com/512/299/299784.png" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
-<p><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" height="24" width="24" align="left"> <strong>EPFL</strong> (Lausanne)</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" align="left"> <strong>EPFL</strong> (Lausanne)</p>
 <p align="center">undergraduate thesis project</p>
 ---
 <p><img src="https://cdn-icons-png.flaticon.com/512/299/299711.png" height="24" width="24" align="left"> <strong>TU/e</strong> (Eindhoven)</p>
