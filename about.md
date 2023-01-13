@@ -17,28 +17,30 @@ layout: page
 <p><img src="https://cdn-icons-png.flaticon.com/512/299/299784.png" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/197/197540.svg" height="24" width="24" align="left"> <strong>EPFL</strong> (Lausanne)</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" height="24" width="24" align="left"> <strong>EPFL</strong> (Lausanne)</p>
 <p align="center">undergraduate thesis project</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/197/197441.svg" height="24" width="24" align="left"> <strong>TU/e</strong> (Eindhoven)</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299711.png" height="24" width="24" align="left"> <strong>TU/e</strong> (Eindhoven)</p>
 <p align="center"><strong>data science</strong> graduate</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/197/197564.svg" height="24" width="24" align="left"> <strong>KTH</strong> (Stockholm)</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299764.png" height="24" width="24" align="left"> <strong>KTH</strong> (Stockholm)</p>
 <p align="center"><strong>data science</strong> graduate</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/323/323310.svg" height="24" width="24" align="left"> <strong>MIT</strong> (Massachusetts)</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299722.png" height="24" width="24" align="left"> <strong>MIT</strong> (Massachusetts)</p>
 <p align="center">graduate thesis project</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/323/323321.svg" height="24" width="24" align="left"> <strong>PLUS</strong> (Salzburg)</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299945.png" height="24" width="24" align="left"> <strong>PLUS</strong> (Salzburg)</p>
 <p align="center"><strong>IT management</strong> graduate</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/197/197565.svg" height="24" width="24" align="left"> <strong>AAU CPH</strong> (København)</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299774.png" height="24" width="24" align="left"> <strong>AAU CPH</strong> (København)</p>
 <p align="center"><strong>IT management</strong> graduate</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/323/323310.svg" height="24" width="24" align="left"> <strong>UCLA</strong> (California)</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299722.png" height="24" width="24" align="left"> <strong>UCLA</strong> (California)</p>
 <p align="center">visiting graduate researcher</p>
 ---
-
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299722.png" height="24" width="24" align="left"> <strong>Harvard</strong> (Massachusetts)</p>
+<p align="center">Fulbright Schuman scholar</p>
+---
 <br> 
 <br> 
 
