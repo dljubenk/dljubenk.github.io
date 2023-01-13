@@ -13,10 +13,10 @@ layout: page
 <h2>Academic background</h2>
 
 <br> 
-<p><img src="https://cdn-icons-png.flaticon.com/512/299/299784.png" height="24" width="24" align="center"> <strong>FESB</strong> (Split)</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299784.png" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
-<p><div><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" height="24" width="24"> <strong>EPFL</strong> (Lausanne)</div></p>
+<div><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" height="24" width="24 align="left""> <strong>EPFL</strong> (Lausanne)</div>
 <p align="center">undergraduate thesis project</p>
 ---
 <p><img src="https://cdn-icons-png.flaticon.com/512/299/299711.png" height="24" width="24" align="left"> <strong>TU/e</strong> (Eindhoven)</p>
