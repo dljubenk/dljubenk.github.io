@@ -13,7 +13,7 @@ layout: page
 <h2>Academic background</h2>
 
 <br> 
-
+[<img src="https://cdn-icons-png.flaticon.com/512/299/299784.png" height="24" width="24" align="left"/>](https://cdn-icons-png.flaticon.com/512/299/299784.png)
 <p><img src="https://cdn-icons-png.flaticon.com/512/299/299784.png" height="100" width="100" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
