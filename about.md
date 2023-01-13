@@ -14,7 +14,7 @@ layout: page
 
 <br> 
 
-<p><img src="https://image.flaticon.com/icons/svg/197/197503.svg" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299784.png" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
 <p><img src="https://image.flaticon.com/icons/svg/197/197540.svg" height="24" width="24" align="left"> <strong>EPFL</strong> (Lausanne)</p>
