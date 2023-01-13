@@ -16,6 +16,17 @@ layout: page
 <p><img src="https://cdn-icons-png.flaticon.com/512/299/299784.png" height="24" width="24" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
+
+
+
+<ul>
+<li  markdown="1">
+![Logo Jekyll]({{https://cdn-icons-png.flaticon.com/512/299/299784.png}})
+</li>
+</ul>
+
+
+
 <div><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" height="24" width="24 align="left""> <strong>EPFL</strong> (Lausanne)</div>
 <p align="center">undergraduate thesis project</p>
 ---
