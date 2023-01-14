@@ -14,6 +14,8 @@ layout: page
 
 <br> 
 
+![]("https://dljubenk.github.io/assets/croatia.png" =24x24)
+
 <p><img src="https://dljubenk.github.io/assets/croatia.png" height="24px" width="24px" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
