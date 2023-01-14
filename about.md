@@ -18,6 +18,8 @@ layout: page
 
 <img src='https://dljubenk.github.io/assets/croatia.png' width='24'>
 
+![alt](https://dljubenk.github.io/assets/croatia.png){: width="50%"}
+
 <p><img src="https://dljubenk.github.io/assets/croatia.png" height="24px" width="24px" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
