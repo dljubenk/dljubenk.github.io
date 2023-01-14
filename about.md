@@ -18,7 +18,7 @@ layout: page
 ---
 
 <p  markdown="1">
-![Logo Jekyll](https://cdn-icons-png.flaticon.com/512/299/299784.png){:width="24"}
+![Logo Jekyll](https://cdn-icons-png.flaticon.com/512/299/299784.png){:width="20%"}
 </p>
 
 ---
