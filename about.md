@@ -21,7 +21,7 @@ layout: page
 
 <ul>
 <li  markdown="1">
-![Logo Jekyll]({{https://cdn-icons-png.flaticon.com/512/299/299784.png}})
+![Logo Jekyll](https://cdn-icons-png.flaticon.com/512/299/299784.png)
 </li>
 </ul>
 
