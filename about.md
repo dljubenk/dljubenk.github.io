@@ -17,17 +17,12 @@ layout: page
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
 
-
-
-<ul>
-<li  markdown="1">
-![Logo Jekyll](https://cdn-icons-png.flaticon.com/512/299/299784.png){: width="250" }
-</li>
-</ul>
-
+<p  markdown="1">
+![Logo Jekyll](https://cdn-icons-png.flaticon.com/512/299/299784.png){:width="24"}
+</p>
 
 ---
-<div><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" height="24" width="24 align="left""> <strong>EPFL</strong> (Lausanne)</div>
+<p><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" height="24" width="24 align="left""> <strong>EPFL</strong> (Lausanne)</p>
 <p align="center">undergraduate thesis project</p>
 ---
 <p><img src="https://cdn-icons-png.flaticon.com/512/299/299711.png" height="24" width="24" align="left"> <strong>TU/e</strong> (Eindhoven)</p>
