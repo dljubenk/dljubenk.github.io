@@ -21,12 +21,12 @@ layout: page
 
 <ul>
 <li  markdown="1">
-![Logo Jekyll](https://cdn-icons-png.flaticon.com/512/299/299784.png)
+![Logo Jekyll](https://cdn-icons-png.flaticon.com/512/299/299784.png){: width="250" }
 </li>
 </ul>
 
 
-
+---
 <div><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" height="24" width="24 align="left""> <strong>EPFL</strong> (Lausanne)</div>
 <p align="center">undergraduate thesis project</p>
 ---
