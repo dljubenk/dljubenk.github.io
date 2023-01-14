@@ -17,9 +17,8 @@ layout: page
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
 
-<p  markdown="1">
-![Logo Jekyll](https://cdn-icons-png.flaticon.com/512/299/299784.png){:width="20%"}
-</p>
+<img src="https://cdn-icons-png.flaticon.com/512/299/299784.png" width="12" height="12">
+
 
 ---
 <p><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" height="24" width="24 align="left""> <strong>EPFL</strong> (Lausanne)</p>
