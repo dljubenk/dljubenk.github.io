@@ -20,6 +20,8 @@ layout: page
 
 ![alt](https://dljubenk.github.io/assets/croatia.png){: width="50%"}
 
+![img|24](https://dljubenk.github.io/assets/croatia.png) worked for me in Obsidian
+
 <p><img src="https://dljubenk.github.io/assets/croatia.png" height="24px" width="24px" align="left"> <strong>FESB</strong> (Split)</p>
 <p align="center"><strong>computer science</strong> undergraduate</p>
 ---
