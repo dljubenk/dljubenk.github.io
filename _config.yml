@@ -73,7 +73,7 @@ googlescholar: citations?user=RD5Nn_8AAAAJ
 authors:
     dljubenk:
         name: Davor Ljubenkov
-        bio: an EU-US based panda nomad. always trying to learn new tricks for the show of questionable quality. serenity guaranteed.
+        bio: AI & Emerging Tech expert and consultant
         external-image: false
         picture: assets/images/profile.jpg
         twitter: dljubenk
@@ -98,6 +98,9 @@ width: large
 
 # if you don't need "about" or "blog", comment them out below
 about: true
+about-external: true
+resume-url: http://dljubenk.github.io/about.html
+
 blog: true
 
 # do you want to show the "read time" of the posts?
