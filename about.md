@@ -5,52 +5,40 @@ layout: page
  
 ![Profile Image]({{ site.url }}/{{ site.picture }})	
 
-<p>I am an interdisciplinary professional and academic researcher in the fields of data science visualization, IT innovation management and multi-media technology.</p>
+<p>Interdisciplinary emerging technology & policy professional and an international fellow focusing on trustworthy Machine Learning, ethical Artificial Intelligence policymaking, innovation and technology management; analysing digital policy developments through the lens of EU-US transatlantic agenda. Experienced in management consulting, sustainability, youth policies, transatlantic relations and digital transformation, while acting as an SDG ambassador, European Parliament policy analyst, UN ECOSOC Youth Forum delegate, CAIDP fellow, Board member of EIT Digital Alumni Community and an EU Public Policy Affairs Junior Executive for AI and Emerging Tech at Fujitsu Belgium.</p>
 
 <br> 
 <br> 
 
 <h2>Academic background</h2>
 
-{% include doodle-coffeecup.html %}
-{% include highlighted-projects.html %}
-
 <br> 
-
-![]("https://dljubenk.github.io/assets/croatia.png" =24x24)
-
-<img src='https://dljubenk.github.io/assets/croatia.png' width='24'>
-
-![alt](https://dljubenk.github.io/assets/croatia.png){: width="50%"}
-
-![img|24](https://dljubenk.github.io/assets/croatia.png) worked for me in Obsidian
-
-<p><img src="https://dljubenk.github.io/assets/croatia.png" height="24px" width="24px" align="left"> <strong>FESB</strong> (Split)</p>
-<p align="center"><strong>computer science</strong> undergraduate</p>
+<p><strong>Harvard</strong> (Massachusetts)</p>
+<p align="center">Fulbright Schuman pre-doctoral scholar and consultant</p>
 ---
-<p><img src="https://cdn-icons-png.flaticon.com/512/299/299743.png" height="24" width="24" align="left"> <strong>EPFL</strong> (Lausanne)</p>
-<p align="center">undergraduate thesis project</p>
+<p<strong>UCLA</strong> (California)</p>
+<p align="center">Visiting Graduate Researcher</p>
 ---
-<p><img src="https://cdn-icons-png.flaticon.com/512/299/299711.png" height="24" width="24" align="left"> <strong>TU/e</strong> (Eindhoven)</p>
-<p align="center"><strong>data science</strong> graduate</p>
+<p><strong>AAU CPH</strong> (København)</p>
+<p align="center"><strong>IT Management</strong> graduate</p>
 ---
-<p><img src="https://cdn-icons-png.flaticon.com/512/299/299764.png" height="24" width="24" align="left"> <strong>KTH</strong> (Stockholm)</p>
-<p align="center"><strong>data science</strong> graduate</p>
+<p><strong>PLUS</strong> (Salzburg)</p>
+<p align="center"><strong>IT Management</strong> graduate</p>
 ---
-<p><img src="https://cdn-icons-png.flaticon.com/512/299/299722.png" height="24" width="24" align="left"> <strong>MIT</strong> (Massachusetts)</p>
-<p align="center">graduate thesis project</p>
+<p><strong>MIT</strong> (Massachusetts)</p>
+<p align="center">Graduate thesis project</p>
 ---
-<p><img src="https://cdn-icons-png.flaticon.com/512/299/299945.png" height="24" width="24" align="left"> <strong>PLUS</strong> (Salzburg)</p>
-<p align="center"><strong>IT management</strong> graduate</p>
+<p><strong>KTH</strong> (Stockholm)</p>
+<p align="center"><strong>Data Science</strong> graduate</p>
 ---
-<p><img src="https://cdn-icons-png.flaticon.com/512/299/299774.png" height="24" width="24" align="left"> <strong>AAU CPH</strong> (København)</p>
-<p align="center"><strong>IT management</strong> graduate</p>
+<p><strong>TU/e</strong> (Eindhoven)</p>
+<p align="center"><strong>Data Science</strong> graduate</p>
 ---
-<p><img src="https://cdn-icons-png.flaticon.com/512/299/299722.png" height="24" width="24" align="left"> <strong>UCLA</strong> (California)</p>
-<p align="center">visiting graduate researcher</p>
+<p><strong>EPFL</strong> (Lausanne)</p>
+<p align="center">Undergraduare thesis project</p>
 ---
-<p><img src="https://cdn-icons-png.flaticon.com/512/299/299722.png" height="24" width="24" align="left"> <strong>Harvard</strong> (Massachusetts)</p>
-<p align="center">Fulbright Schuman scholar</p>
+<p><strong>FESB</strong> (Split)</p>
+<p align="center"><strong>Computer Science</strong> undergraduate</p>
 ---
 <br> 
 <br> 
