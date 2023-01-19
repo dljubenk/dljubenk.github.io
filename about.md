@@ -7,6 +7,10 @@ layout: page
 
 <p>Interdisciplinary tech and policy professional focusing on trustworthy Machine Learning, ethical Artificial Intelligence policymaking, digital policies and innovation through the lens of EU-US transatlantic agenda. Experienced in management consulting, sustainability, youth policies, transatlantic relations and digital transformation, while previously acting as an SDG ambassador, European Parliament policy analyst, UN ECOSOC Youth Forum delegate, CAIDP fellow, Board member of EIT Digital Alumni Community and an EU Public Policy Affairs Junior Executive for AI and Emerging Tech at Fujitsu Belgium.</p>
 
+***
+
+<hr style="border:4px solid gray">
+
 <br>
 ---
 <br> 
