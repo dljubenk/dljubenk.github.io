@@ -11,21 +11,21 @@ layout: page
 ---
 <br> 
 
-<h2>Publications & Conferences</h2>
+<h2 align="center">Publications & Conferences</h2>
 
 <br> 
 
-<p align="right"><img src="https://image.flaticon.com/icons/svg/1086/1086563.svg" height="24" width="24" align="left"> <a href="https://ieeexplore.ieee.org/abstract/document/9111707"><strong>IEEE</strong> TEMS</a> Paper (2020)</p>
+<p align="right"><a href="https://ieeexplore.ieee.org/abstract/document/9111707"><strong>IEEE</strong> TEMS</a> Paper (2020)</p>
 <p align="right">{JCR impact factor = 2.784}</p>
-<p align="right"><img src="https://image.flaticon.com/icons/svg/3062/3062812.svg" height="24" width="24" align="left"> The Summer School of Machine Learning at Skolkovo Institute of Science and Technology, <strong>Moscow - Skoltech</strong> (2020)</p>
-<p align="right"><img src="https://image.flaticon.com/icons/svg/3062/3062812.svg" height="24" width="24" align="left"> European Technology & Engineering Management Summit, <strong>FH Dortmund</strong> (2020)</p>
+<p align="right">The Summer School of Machine Learning at Skolkovo Institute of Science and Technology, <strong>Moscow - Skoltech</strong> (2020)</p>
+<p align="right">European Technology & Engineering Management Summit, <strong>FH Dortmund</strong> (2020)</p>
 ---
-<p align="right"><img src="https://image.flaticon.com/icons/svg/1086/1086563.svg" height="24" width="24" align="left"> <a href="https://www.medscimonit.com/abstract/index/idArt/923166"><strong>Medical</strong> Science Monitor</a> Paper (2020)</p>
+<p align="right"><a href="https://www.medscimonit.com/abstract/index/idArt/923166"><strong>Medical</strong> Science Monitor</a> Paper (2020)</p>
 <p align="right">{JCR impact factor = 1.918}</p>
 ---
-<p align="right"><img src="https://image.flaticon.com/icons/svg/3062/3062812.svg" height="24" width="24" align="left"> IC Research Day – Frontiers of <strong>Visual Computing</strong>, <strong>EPFL</strong> (2017)</p>
+<p align="right">IC Research Day – Frontiers of <strong>Visual Computing</strong>, <strong>EPFL</strong> (2017)</p>
 ---
-<p align="right"><img src="https://image.flaticon.com/icons/svg/3062/3062812.svg" height="24" width="24" align="left"> <a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf"><strong>IEEE</strong> SoftCOM</a>, <strong>Croatia</strong> (2016)</p>
+<p align="right"><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf"><strong>IEEE</strong> SoftCOM</a>, <strong>Croatia</strong> (2016)</p>
 
 <br> 
 <br> 
