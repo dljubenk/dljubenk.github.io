@@ -69,7 +69,7 @@ layout: page
 
 <p><img src="https://image.flaticon.com/icons/svg/555/555417.svg" height="24" width="24" align="left"> <strong>English</strong></p>
 <p align="center">English Objective Proficiency (<strong>C2.1</strong>)</p>
-<p align="center">IELTS Academic - 7.5 (<strong>C1</strong>)</p>
+<p align="center">IELTS Academic - 8.0 (<strong>C1</strong>)</p>
 <p align="center">Cambridge FCE (<strong>B2</strong>)</p>
 
 ---
