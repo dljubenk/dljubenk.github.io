@@ -6,19 +6,12 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})	
 
 <p>Interdisciplinary tech and policy professional focusing on trustworthy Machine Learning, ethical Artificial Intelligence policymaking, digital policies and innovation through the lens of EU-US transatlantic agenda. Experienced in management consulting, sustainability, youth policies, transatlantic relations and digital transformation, while previously acting as an SDG ambassador, European Parliament policy analyst, UN ECOSOC Youth Forum delegate, CAIDP fellow, Board member of EIT Digital Alumni Community and an EU Public Policy Affairs Junior Executive for AI and Emerging Tech at Fujitsu Belgium.</p>
-
-***
-
-<hr style="border:4px solid gray">
-
+<hr style="border:2px solid gray">
 <br>
 ---
 <br> 
-
 <h2 align="center">Publications & Conferences</h2>
-
 <br> 
-
 <p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9111707"><strong>IEEE</strong> TEMS</a> Paper (2020)</p>
 <p align="right">{JCR impact factor = 2.784}</p>
 <p align="right">The Summer School of Machine Learning at Skolkovo Institute of Science and Technology, <strong>Moscow - Skoltech</strong> (2020)</p>
