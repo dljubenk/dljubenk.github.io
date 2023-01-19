@@ -10,35 +10,25 @@ layout: page
 <br> 
 <br> 
 
-<h2>Academic background</h2>
-
+<h2 align="center">Academic background</h2>
 <br> 
-<p><strong>Harvard</strong> (Massachusetts)</p>
-<p align="center">Fulbright Schuman pre-doctoral scholar and consultant</p>
+<p align="center"><strong>Harvard</strong> (Massachusetts)</p>
 ---
-<p<strong>UCLA</strong> (California)</p>
-<p align="center">Visiting Graduate Researcher</p>
+<p align="center"><strong>UCLA</strong> (California)</p>
 ---
-<p><strong>AAU CPH</strong> (København)</p>
-<p align="center"><strong>IT Management</strong> graduate</p>
+<p align="center"><strong>AAU CPH</strong> (København)</p>
 ---
-<p><strong>PLUS</strong> (Salzburg)</p>
-<p align="center"><strong>IT Management</strong> graduate</p>
+<p align="center"><strong>PLUS</strong> (Salzburg)</p>
 ---
-<p><strong>MIT</strong> (Massachusetts)</p>
-<p align="center">Graduate thesis project</p>
+<p align="center"><strong>MIT</strong> (Massachusetts)</p>
 ---
-<p><strong>KTH</strong> (Stockholm)</p>
-<p align="center"><strong>Data Science</strong> graduate</p>
+<p align="center"><strong>KTH</strong> (Stockholm)</p>
 ---
-<p><strong>TU/e</strong> (Eindhoven)</p>
-<p align="center"><strong>Data Science</strong> graduate</p>
+<p align="center"><strong>TU/e</strong> (Eindhoven)</p>
 ---
-<p><strong>EPFL</strong> (Lausanne)</p>
-<p align="center">Undergraduare thesis project</p>
+<p align="center"><strong>EPFL</strong> (Lausanne)</p>
 ---
-<p><strong>FESB</strong> (Split)</p>
-<p align="center"><strong>Computer Science</strong> undergraduate</p>
+<p align="center"><strong>FESB</strong> (Split)</p>
 ---
 <br> 
 <br> 
