@@ -12,6 +12,9 @@ layout: page
 
 <h2>Academic background</h2>
 
+{% include doodle-coffeecup.html %}
+{% include highlighted-projects.html %}
+
 <br> 
 
 ![]("https://dljubenk.github.io/assets/croatia.png" =24x24)
