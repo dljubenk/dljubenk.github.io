@@ -26,7 +26,7 @@ layout: page
 <br> 
 <br> 
 
-<h2>Work experience</h2>
+<h2 align="center">Work experience</h2>
 
 <br> 
 
@@ -63,7 +63,7 @@ layout: page
 <br> 
 <br> 
 
-<h2>Language Certificates</h2>
+<h2 align="center">Language Certificates</h2>
 
 <br>
 
@@ -92,7 +92,7 @@ layout: page
 
 <br> 
 
-<h2>Professional Training & Personal Development</h2>
+<h2 align="center">Professional Training & Personal Development</h2>
 
 <br>
 
