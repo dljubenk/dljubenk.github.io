@@ -13,9 +13,9 @@ layout: page
 <br> 
 <p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9111707"><strong>Optimizing Bike Sharing System Flows Using Graph Mining, Convolutional and Recurrent Neural Networks</strong></a><br/> IEEE TEMS (2020)</p>
 <p align="center">The Summer School of Machine Learning at Skolkovo Institute of Science and Technology <br /> <strong>Moscow - Skoltech</strong> (2020)</p>
-<p align="center">European Technology & Engineering Management Summit <br /> <strong>FH Dortmund</strong> (2020)</p>
+<p align="center">European Technology & Engineering Management Summit<br /><strong>FH Dortmund</strong> (2020)</p>
 ---
-<p align="center"><a href="https://www.medscimonit.com/abstract/index/idArt/923166"><strong>Medical</strong> Science Monitor</a> Paper (2020)</p>
+<p align="center"><a href="https://www.medscimonit.com/abstract/index/idArt/923166"><strong>Using Cutaneous Receptor Vibration to Uncover the Effect of Transcranial Magnetic Stimulation (TMS) on Motor Cortical Excitability</strong></a><br />Medical Science Monitor (2020)</p>
 ---
 <p align="center">IC Research Day – Frontiers of <strong>Visual Computing</strong>, <strong>Lausanne - EPFL</strong> (2017)</p>
 ---
