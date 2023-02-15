@@ -11,7 +11,7 @@ layout: page
 ---
 <h2 align="center">Publications & Conferences</h2>
 <br> 
-<p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9111707"><strong>IEEE</strong> TEMS</a> Paper (2020)</p>
+<p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9111707"><strong>Optimizing Bike Sharing System Flows Using Graph Mining, Convolutional and Recurrent Neural Networks</strong></a>Ljubenkov et al. (2020)<br/> IEEE TEMS</p>
 <p align="center">The Summer School of Machine Learning at Skolkovo Institute of Science and Technology <br /> <strong>Moscow - Skoltech</strong> (2020)</p>
 <p align="center">European Technology & Engineering Management Summit <br /> <strong>FH Dortmund</strong> (2020)</p>
 ---
