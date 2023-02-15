@@ -19,8 +19,7 @@ layout: page
 ---
 <p align="center">IC Research Day – Frontiers of <strong>Visual Computing</strong>, <strong>Lausanne - EPFL</strong> (2017)</p>
 ---
-<p align="center"><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf"><strong>Emergency Recovery Procedure Mobile Application
-</strong></a> (p. 22)<br /> IEEE SoftCOM <strong>Croatia</strong> (2016)</p>
+<p align="center"><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf"><strong>Emergency Recovery Procedure Mobile Application</strong></a> (p. 22)<br /> IEEE SoftCOM <strong>Croatia</strong> (2016)</p>
 
 <br> 
 <br> 
