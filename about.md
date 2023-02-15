@@ -67,25 +67,25 @@ layout: page
 
 <br>
 
-<p> 🇬🇧 <strong>English</strong></p>
+<p align="left"> <strong>English</strong></p>
 <p align="center">English Objective Proficiency (<strong>C2.1</strong>)</p>
 <p align="center">IELTS Academic - 8.0 (<strong>C1</strong>)</p>
 <p align="center">Cambridge FCE (<strong>B2</strong>)</p>
 
 ---
-<p><img src="https://image.flaticon.com/icons/svg/555/555418.svg" height="24" width="24" align="left"> Mandarin <strong>Chinese</strong> (中文)</p>
+<p align="left"> Mandarin <strong>Chinese</strong> (中文)</p>
 <p align="center">Confucius Institute (<strong>A1</strong>)</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/555/555451.svg" height="24" width="24" align="left"> <strong>Russian</strong> (Русский язык)</p>
+<p align="left"> <strong>Russian</strong> (Русский язык)</p>
 <p align="center">FFST UniST (<strong>A1/A2</strong>)</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/555/555613.svg" height="24" width="24" align="left"> <strong>German</strong> (Deutsch)</p>
+<p align="left"> <strong>German</strong> (Deutsch)</p>
 <p align="center">Kroatisch – Deutsche Gesellschaft (<strong>A1</strong>)</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/555/555602.svg" height="24" width="24" align="left"> <strong>French</strong> (Français)</p>
+<p align="left"> <strong>French</strong> (Français)</p>
 <p align="center">Centre de Langues EPFL (UNIL) (<strong>A1/A2</strong>)</p>
 ---
-<p><img src="https://image.flaticon.com/icons/svg/555/555668.svg" height="24" width="24" align="left"> <strong>Italian</strong> (Italiano)</p>
+<p align="left"> <strong>Italian</strong> (Italiano)</p>
 <p align="center">High School Diploma (<strong>A1</strong>)</p>
 
 <br> 
