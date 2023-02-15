@@ -12,14 +12,14 @@ layout: page
 <h2 align="center">Publications & Conferences</h2>
 <br> 
 <p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9111707"><strong>Optimizing Bike Sharing System Flows Using Graph Mining, Convolutional and Recurrent Neural Networks</strong></a><br/> IEEE TEMS (2020)</p>
-<p align="center">The Summer School of Machine Learning at Skolkovo Institute of Science and Technology <br /> <strong>Moscow - Skoltech</strong> (2020)</p>
+<p align="center">The Summer School of Machine Learning at Skolkovo Institute of Science and Technology <br /> <strong>Skoltech - Moscow</strong> (2020)</p>
 <p align="center">European Technology & Engineering Management Summit<br /><strong>FH Dortmund</strong> (2020)</p>
 ---
 <p align="center"><a href="https://www.medscimonit.com/abstract/index/idArt/923166"><strong>Using Cutaneous Receptor Vibration to Uncover the Effect of Transcranial Magnetic Stimulation (TMS) on Motor Cortical Excitability</strong></a><br />Medical Science Monitor (2020)</p>
 ---
 <p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9111707">http://senseable.mit.edu/urbanintelligence/Forum on Future Cities: Urban Intelligence</a><br /><strong>The Broad Institute - Cambridge, MA, USA</strong> (2017)</p>
 ---
-<p align="center">IC Research Day – Frontiers of Visual Computing<br /><strong>Lausanne - EPFL</strong> (2017)</p>
+<p align="center">IC Research Day – Frontiers of Visual Computing<br /><strong>EPFL - Lausanne</strong> (2017)</p>
 ---
 <p align="center"><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf"><strong>Emergency Recovery Procedure Mobile Application</strong></a> (p. 22)<br /> IEEE SoftCOM, <strong>Croatia</strong> (2016)</p>
 
