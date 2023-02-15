@@ -19,7 +19,7 @@ layout: page
 <p align="center"><a href="https://www.medscimonit.com/abstract/index/idArt/923166"><strong>Medical</strong> Science Monitor</a> Paper (2020)</p>
 <p align="center">{JCR impact factor = 1.918}</p>
 ---
-<p align="center">IC Research Day – Frontiers of <strong>Visual Computing</strong>, <strong>EPFL</strong> (2017)</p>
+<p align="center">IC Research Day – Frontiers of <strong>Visual Computing</strong>, <strong>Lausanne - EPFL</strong> (2017)</p>
 ---
 <p align="center"><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf"><strong>IEEE</strong> SoftCOM</a>, <strong>Croatia</strong> (2016)</p>
 
