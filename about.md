@@ -12,8 +12,8 @@ layout: page
 <h2 align="center">Publications & Conferences</h2>
 <br> 
 <p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9111707"><strong>IEEE</strong> TEMS</a> Paper (2020)</p>
-<p align="right">The Summer School of Machine Learning at Skolkovo Institute of Science and Technology <br /> <strong>Moscow - Skoltech</strong> (2020)</p>
-<p align="right">European Technology & Engineering Management Summit</p>
+<p align="center">The Summer School of Machine Learning at Skolkovo Institute of Science and Technology <br /> <strong>Moscow - Skoltech</strong> (2020)</p>
+<p align="center">European Technology & Engineering Management Summit</p>
 <p align="right"> <strong>FH Dortmund</strong> (2020)</p>
 ---
 <p align="center"><a href="https://www.medscimonit.com/abstract/index/idArt/923166"><strong>Medical</strong> Science Monitor</a> Paper (2020)</p>
