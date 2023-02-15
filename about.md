@@ -17,7 +17,7 @@ layout: page
 ---
 <p align="center"><a href="https://www.medscimonit.com/abstract/index/idArt/923166"><strong>Using Cutaneous Receptor Vibration to Uncover the Effect of Transcranial Magnetic Stimulation (TMS) on Motor Cortical Excitability</strong></a><br />Medical Science Monitor (2020)</p>
 ---
-<p align="center"><a href="https://ieeexplore.ieee.org/abstract/document/9111707">http://senseable.mit.edu/urbanintelligence/Forum on Future Cities: Urban Intelligence</a><br /><strong>The Broad Institute - Cambridge, MA, USA</strong> (2017)</p>
+<p align="center"><a href="http://senseable.mit.edu/urbanintelligence/">Forum on Future Cities: Urban Intelligence</a><br /><strong>The Broad Institute - Cambridge, MA, USA</strong> (2017)</p>
 ---
 <p align="center">IC Research Day – Frontiers of Visual Computing<br /><strong>EPFL - Lausanne</strong> (2017)</p>
 ---
