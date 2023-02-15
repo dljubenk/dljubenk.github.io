@@ -19,7 +19,7 @@ layout: page
 ---
 <p align="center"><strong><a href="http://senseable.mit.edu/urbanintelligence/">Forum on Future Cities: Urban Intelligence</a></strong><br />The Broad Institute - Cambridge, MA, USA (2019)</p>
 ---
-<p align="center"><strong>IC Research Day – Frontiers of Visual Computing</strong><br />EPFL - Lausanne (2017)</p>
+<p align="center"><strong><a href="https://memento.epfl.ch/event/ic-research-day-2/">IC Research Day – Frontiers of Visual Computing</strong><br />EPFL - Lausanne (2017)</p>
 ---
 <p align="center"><a href="http://marjan.fesb.hr/SoftCOM/2016/files/apk/final_program_2016.pdf"><strong>Emergency Recovery Procedure Mobile Application</strong></a> (p. 22)<br /> IEEE SoftCOM - Croatia (2016)</p>
 
