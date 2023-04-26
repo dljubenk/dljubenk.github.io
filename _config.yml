@@ -27,9 +27,9 @@ url: http://dljubenk.github.io
 # your url: http://USERNAME.github.io
 
 use_logo: true
-logo: http://dljubenk.github.io/assets/images/favicon/harvard32.png
-avatar: http://dljubenk.github.io/assets/images/favicon/harvard32.png
-logo_url: http://dljubenk.github.io/assets/images/favicon/harvard32.png
+logo: assets/images/favicon/harvard32.png
+avatar: assets/images/favicon/harvard32.png
+logo_url: assets/images/favicon/harvard32.png
 
 permalink: /:title/
 
