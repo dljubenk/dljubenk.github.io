@@ -2,6 +2,11 @@
 name: Davor Ljubenkov
 bio: Artificial Intelligence ~ EU Affairs ~ Innovation & Management
 
+#use_logo: true
+logo: /assets/images/favicon/harvard32.png
+#avatar: assets/images/favicon/harvard32.png
+#logo_url: assets/images/favicon/harvard32.png
+
 # twitter summary info
 description: Davor Ljubenkov personal website
 
@@ -25,11 +30,6 @@ resume-url: http://dljubenk.github.io/assets/Resume.pdf
 
 url: http://dljubenk.github.io
 # your url: http://USERNAME.github.io
-
-use_logo: true
-logo: assets/images/favicon/harvard32.png
-avatar: assets/images/favicon/harvard32.png
-logo_url: assets/images/favicon/harvard32.png
 
 permalink: /:title/
 
