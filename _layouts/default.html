@@ -5,8 +5,7 @@ layout: compress
 <html lang="en">
 <head>
     
-    {% change favicon preview when searching your page on Google or other engines %}
-    <link rel="icon" type="image/png" href="{{ site.url }}/assets/images/favicon/harvard32.png">
+    {% include head-custom.html %}
 
     {% if site.analytics-google %}
         {% include analytics-google.html %}
