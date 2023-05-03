@@ -127,4 +127,4 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://www.harvard.edu/
+    base_url: https://dljubenk.github.io/
