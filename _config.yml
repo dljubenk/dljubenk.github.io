@@ -2,8 +2,8 @@
 name: Davor Ljubenkov
 bio: Artificial Intelligence ~ EU Affairs ~ Innovation & Management
 
-local_backend: false
-use_logo: true
+#local_backend: false
+#use_logo: true
 logo: favicon.ico
 #avatar: assets/images/favicon/harvard32.png
 logo_url: favicon.ico
